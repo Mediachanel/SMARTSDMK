@@ -1,0 +1,16 @@
+# Build the current application with its existing Dockerfile first.
+# docker build -t smart-sdmk:promotion-base .
+# docker build -f Dockerfile.promotion --build-arg SMART_SDMK_BASE_IMAGE=smart-sdmk:promotion-base -t smart-sdmk:promotion .
+ARG SMART_SDMK_BASE_IMAGE=smart-sdmk:promotion-base
+FROM ${SMART_SDMK_BASE_IMAGE}
+USER root
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends poppler-utils tesseract-ocr tesseract-ocr-ind tesseract-ocr-eng clamav clamav-freshclam \
+    && freshclam --stdout \
+    && rm -rf /var/lib/apt/lists/*
+ENV PROMOTION_PDFTOTEXT=pdftotext
+ENV PROMOTION_PDFTOPPM=pdftoppm
+ENV PROMOTION_TESSERACT=tesseract
+ENV PROMOTION_OCR_LANG=ind+eng
+ENV PROMOTION_SCAN_COMMAND=clamscan
+USER node

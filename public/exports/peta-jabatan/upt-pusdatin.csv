@@ -1,0 +1,32 @@
+MATRIKS JABATAN UKPD PUSDATIN
+No.,Nomenklatur ORB/Pergub,Kelas ORB,Nomenklatur Kepmenpan,Kelas Kepmenpan,Atasan Langsung,Rumpun Jabatan,UPT Pusdatin - B ASN,UPT Pusdatin - K ASN,UPT Pusdatin - S ASN,UPT Pusdatin - B NON-ASN,UPT Pusdatin - K NON-ASN,UPT Pusdatin - S NON-ASN,TOTAL - B ASN,TOTAL - K ASN,TOTAL - S ASN,TOTAL - B NON-ASN,TOTAL - K NON-ASN,TOTAL - S NON-ASN
+1,KEPALA UPT PUSDATIN,12,KEPALA UPT PUSDATIN,12,Kepala Dinas Kesehatan,Jabatan Administrator,1,1,0,0,0,0,1,1,0,0,0,0
+2,Pranata Humas Ahli Madya,9,Pranata Humas Ahli Madya,11,Kepala UPT Pusdatin,Jabatan Fungsional Keahlian Non Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+3,Pranata Komputer Ahli Madya,9,Pranata Komputer Ahli Madya,11,Kepala UPT Pusdatin,Jabatan Fungsional Keahlian Non Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+4,Pranata Humas Ahli Muda,8,Pranata Humas Ahli Muda,9,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Non Kesehatan,0,2,-2,0,0,0,0,2,-2,0,0,0
+5,Pranata Komputer Ahli Muda,8,Pranata Komputer Ahli Muda,9,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Non Kesehatan,1,2,-1,0,0,0,1,2,-1,0,0,0
+6,Statistisi Ahli Muda,8,Statistisi Ahli Muda,9,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Non Kesehatan,0,2,-2,0,0,0,0,2,-2,0,0,0
+7,Administrator Kesehatan Ahli Muda,9,Administrator Kesehatan Ahli Muda,9,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,0,2,-2,0,0,0
+8,KEPALA SUBBAGIAN TATA USAHA,9,Kepala Subbagian Tata Usaha,9,Kepala UPT Pusdatin,Jabatan Pengawas,1,1,0,0,0,0,1,1,0,0,0,0
+9,Arsiparis Terampil,7,Arsiparis Terampil,6,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keterampilan Non Kesehatan,1,1,0,0,0,0,1,1,0,0,0,0
+10,Bendahara dan Pengurus Barang Pembantu,7,Penelaah Teknis Kebijakan,7,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Ahli,2,2,0,0,0,0,2,2,0,0,0,0
+11,Verifikator Keuangan dan Pengolah Kearsipan,7,Pengolah Data dan Informasi,6,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Terampil,1,2,-1,0,0,0,1,2,-1,0,0,0
+12,KOORDIANTOR SATUAN PELAKSANA DATA DAN INFORMASI,8,KOORDINATOR SATUAN PELAKSANA DATA DAN INFORMASI,8,Kepala UPT Pusdatin,Jabatan Pelaksana Satuan,1,1,0,0,0,0,1,1,0,0,0,0
+13,,,Statistisi Ahli Pertama,8,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Non Kesehatan,3,3,0,0,0,0,3,3,0,0,0,0
+14,Administrator Kesehatan Ahli Pertama,,Administrator Kesehatan Ahli Pertama,8,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,0,2,-2,0,0,0
+15,,,Pengolah Data dan Informasi,6,KOORDINATOR SATUAN PELAKSANA DATA DAN INFORMASI,Jabatan Pelaksana Teknis Tingkat Ahli,0,0,0,0,0,0,0,0,0,0,0,0
+16,Pengolah Data,7,Pengelola Layanan Operasional,6,KOORDINATOR SATUAN PELAKSANA DATA DAN INFORMASI,Jabatan Pelaksana Teknis Tingkat Terampil,5,3,2,0,0,0,5,3,2,0,0,0
+17,,,Penata Kelola Sistem dan Teknologi Informasi,7,KOORDINATOR SATUAN PELAKSANA DATA DAN INFORMASI,Jabatan Pelaksana Teknis Tingkat Ahli,0,0,0,0,0,0,0,0,0,0,0,0
+18,KOORDIANTOR SATUAN PELAKSANA SISTEM INFORMASI,8,KOORDINATOR SATUAN PELAKSANA SISTEM INFORMASI,8,Kepala UPT Pusdatin,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,0,1,-1,0,0,0
+19,Pranata Komputer Ahli Pertama,7,Pranata Komputer Ahli Pertama,8,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Non Kesehatan,2,2,0,0,0,0,2,2,0,0,0,0
+20,Pranata Komputer Mahir,7,Pranata komputer Mahir,7,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keterampilan Non Kesehatan,0,2,-2,0,0,0,0,2,-2,0,0,0
+21,Pranata komputer Terampil,,Pranata komputer Terampil,6,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keterampilan Non Kesehatan,2,2,0,0,0,0,2,2,0,0,0,0
+22,Pengelola Data Sistem dan Informasi,7,Penata Kelola Sistem dan Teknologi Informasi,7,KOORDINATOR SATUAN PELAKSANA SISTEM INFORMASI,Jabatan Pelaksana Teknis Tingkat Ahli,2,0,2,0,0,0,2,0,2,0,0,0
+23,Pengolah Data,7,Pengelola Layanan Operasional,6,KOORDINATOR SATUAN PELAKSANA SISTEM INFORMASI,Jabatan Pelaksana Teknis Tingkat Terampil,0,2,-2,0,0,0,0,2,-2,0,0,0
+24,KOORDIANTOR SATUAN PELAKSANA KEHUMASAN,8,KOORDINATOR SATUAN PELAKSANA KEHUMASAN,8,Kepala UPT Pusdatin,Jabatan Pelaksana Satuan,1,1,0,0,0,0,1,1,0,0,0,0
+25,Pranata Humas Ahli Pertama,7,Pranata Humas Ahli Pertama,8,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Non Kesehatan,2,2,0,0,0,0,2,2,0,0,0,0
+26,Pranata Humas Penyelia,7,Pranata Humas Penyelia,8,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keterampilan Non Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+27,Pranata Humas Mahir,,Pranata Humas Mahir,6,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keterampilan Non Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+28,Pranata Humas Terampil,,Pranata Humas Terampil,6,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keterampilan Non Kesehatan,1,1,0,0,0,0,1,1,0,0,0,0
+29,Pengolah Data,6,Pengelola Layanan Operasional,6,KOORDINATOR SATUAN PELAKSANA KEHUMASAN,Jabatan Pelaksana Teknis Tingkat Terampil,1,2,-1,0,0,0,1,2,-1,0,0,0
+30,,,Pengolah Data dan Informasi,6,KOORDINATOR SATUAN PELAKSANA KEHUMASAN,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,0,0,0,0,0,0

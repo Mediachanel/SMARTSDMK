@@ -1,0 +1,212 @@
+MATRIKS JABATAN UKPD RSKD
+No.,Nomenklatur ORB/Pergub,Kelas ORB,Nomenklatur Kepmenpan,Kelas Kepmenpan,Atasan Langsung,Rumpun Jabatan,RSKD Duren Sawit - B ASN,RSKD Duren Sawit - K ASN,RSKD Duren Sawit - S ASN,RSKD Duren Sawit - B NON-ASN,RSKD Duren Sawit - K NON-ASN,RSKD Duren Sawit - S NON-ASN,TOTAL - B ASN,TOTAL - K ASN,TOTAL - S ASN,TOTAL - B NON-ASN,TOTAL - K NON-ASN,TOTAL - S NON-ASN
+1,DIREKTUR RSKD DUREN SAWIT,14d,DIREKTUR RSKD DUREN SAWIT,14d,Kepala Dinas Kesehatan,Jabatan Pimpinan Tinggi,1,1,0,0,0,0,1,1,0,0,0,0
+2,WAKIL DIREKTUR KEUANGAN DAN UMUM,12c,WAKIL DIREKTUR KEUANGAN DAN UMUM,12c,Direktur,Jabatan Administrator,1,1,0,0,0,0,1,1,0,0,0,0
+3,Kepala Satuan Pengawas Internal,8,Kepala Satuan Pengawas Internal,8,Direktur,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,0,1,-1,0,0,0
+4,Pengolah data Satuan Pengawas Internal,7,Pengolah Data dan Informasi,6,Kepala Satuan Pengawas Internal,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,1,-1,0,0,0,0,1,-1
+5,KEPALA BAGIAN UMUM DAN PEMASARAN,12d,KEPALA BAGIAN UMUM DAN PEMASARAN,12d,Wakil Direktur Keuangan dan Umum,Jabatan Administrator,1,1,0,0,0,0,1,1,0,0,0,0
+6,Satuan Pelaksana Sekretariat dan Legal,8,Koordinator Satuan Pelaksana Sekretariat dan Legal,8,Kepala Bagian Umum dan Pemasaran,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,0,1,-1,0,0,0
+7,Pemroses Kesekretariatan dan Legal,7,Dokumentalis Hukum,6,Koordinator Satuan Pelaksana Sekretariat dan Legal,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,5,5,0,0,0,0,5,5,0
+8,Pengolah Kearsipan,7,Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Sekretariat dan Legal,Jabatan Pelaksana Teknis Tingkat Terampil,2,2,0,3,3,0,2,2,0,3,3,0
+9,Pengadministrasi Kesekretariatan & Legal,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Sekretariat dan Legal,Jabatan Pelaksana Administrasi Tingkat Terampil,1,0,1,3,5,-2,1,0,1,3,5,-2
+10,KOORDIANTOR Satuan Pelaksana PKRS (promosi kesehatan dan kehumasan),8,Koordinator Satuan Pelaksana PKRS (promosi kesehatan dan kehumasan),8,Kepala Bagian Umum dan Pemasaran,Jabatan Pelaksana Satuan,0,1,-1,1,0,1,0,1,-1,1,0,1
+11,Pemroses Pemasaran dan Informasi,7,Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana PKRS (promosi kesehatan dan kehumasan),Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,2,2,0,0,0,0,2,2,0
+12,Pengadministrasi Pemasaran dan Informasi,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana PKRS (promosi kesehatan dan kehumasan),Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,2,1,1,0,0,0,2,1,1
+13,KOORDIANTOR Satuan Pelaksana Rumah Tangga dan Perlengkapan,8,Koordinator Satuan Pelaksana Rumah Tangga dan Perlengkapan,8,Kepala Bagian Umum dan Pemasaran,Jabatan Pelaksana Satuan,0,1,-1,1,0,1,0,1,-1,1,0,1
+14,Pengurus Barang Pembantu,7,Penelaah Teknis Kebijakan,7,Koordinator Satuan Pelaksana Rumah Tangga dan Perlengkapan,Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,0,0,0,1,1,0,0,0,0
+15,Pemroses Rumah Tangga dan Perlengkapan,7,Pengelola Layanan Operasional,6,Koordinator Satuan Pelaksana Rumah Tangga dan Perlengkapan,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,1,1,0,0,0,0,1,1,0
+16,Pengolah Data Barang Rumah Tangga dan Perlengkapan,7,Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Rumah Tangga dan Perlengkapan,Jabatan Pelaksana Teknis Tingkat Terampil,1,0,1,0,0,0,1,0,1,0,0,0
+17,Pengadministrasi Rumah Tangga dan Perlengkapan,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Rumah Tangga dan Perlengkapan,Jabatan Pelaksana Administrasi Tingkat Terampil,3,0,3,1,1,0,3,0,3,1,1,0
+18,Pengemudi Ambulan,4,Operator Layanan Operasional,4,Koordinator Satuan Pelaksana Rumah Tangga dan Perlengkapan,Jabatan Pelaksana Pelayan Tingkat Terampil,0,0,0,7,8,-1,0,0,0,7,8,-1
+19,KOORDIANTOR Satuan Pelaksana pemeliharaan sarana dan prasarana rumah sakit (PSRS),8,Koordinator Satuan Pelaksana pemeliharaan sarana dan prasarana rumah sakit (PSRS),8,Kepala Bagian Umum dan Pemasaran,Jabatan Pelaksana Satuan,0,0,0,1,1,0,0,0,0,1,1,0
+20,Pengolah (teknisi) Pemeliharaan Sarana Rumah Sakit,7,Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana pemeliharaan sarana dan prasarana rumah sakit (PSRS),Jabatan Pelaksana Teknis Tingkat Terampil,1,1,0,0,0,0,1,1,0,0,0,0
+21,Pengadministrasi Sarana dan Prasarana,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana pemeliharaan sarana dan prasarana rumah sakit (PSRS),Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,1,0,0,0,0,1,1,0
+22,Petugas Sarana dan Prasarana,5,Operator Layanan Operasional,3,Koordinator Satuan Pelaksana pemeliharaan sarana dan prasarana rumah sakit (PSRS),Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,9,10,-1,0,0,0,9,10,-1
+23,KEPALA BAGIAN SUMBER DAYA MANUSIA,12d,KEPALA BAGIAN SUMBER DAYA MANUSIA,12d,Wakil Direktur Keuangan dan Umum,Jabatan Administrator,1,1,0,0,0,0,1,1,0,0,0,0
+24,Analis SDM Aparatur Ahli Muda,8,Analis SDM Aparatur Ahli Muda,10,Kepala Bagian Sumber Daya Manusia,Jabatan Fungsional Keahlian Non Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+25,Analis SDM Aparatur Ahli Pertama,7,Analis SDM Aparatur Ahli Pertama,8,Kepala Bagian Sumber Daya Manusia,Jabatan Fungsional Keahlian Non Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+26,KOORDIANTOR Satuan Pelaksana Administrasi Kepegawaian,8,Koordinator Satuan Pelaksana Administrasi Kepegawaian,8,Kepala Bagian Sumber Daya Manusia,Jabatan Pelaksana Satuan,1,1,0,0,0,0,1,1,0,0,0,0
+27,Pemroses Administrasi Kepegawaian,7,Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Administrasi Kepegawaian,Jabatan Pelaksana Teknis Tingkat Terampil,2,2,0,1,1,0,2,2,0,1,1,0
+28,Pengadministrasi Kepegawaian,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Administrasi Kepegawaian,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,0,0,0,0,0,0
+29,KOORDIANTOR Satuan Pelaksana Pemberdayaan SDM,8,Koordinator Satuan Pelaksana Pemberdayaan SDM,8,Kepala Bagian Sumber Daya Manusia,Jabatan Pelaksana Satuan,0,0,0,1,1,0,0,0,0,1,1,0
+30,Pengelola Pemberdayaan Pegawai,7,Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Pemberdayaan SDM,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,2,2,0,0,0,0,2,2,0
+31,Pengadministrasi Kepegawaian,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Pemberdayaan SDM,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,0,0,0,0,0,0
+32,KOORDIANTOR Satuan Pelaksana Pendidikan dan Pelatihan,8,Koordinator Satuan Pelaksana Pendidikan dan Pelatihan,8,Kepala Bagian Sumber Daya Manusia,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,0,0,0,0,1,-1
+33,Pemroses Pendidikan dan Pelatihan,7,Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Pendidikan dan Pelatihan,Jabatan Pelaksana Teknis Tingkat Terampil,1,1,0,0,0,0,1,1,0,0,0,0
+34,Pengadministrasi Diklat,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Pendidikan dan Pelatihan,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,1,0,0,0,0,1,1,0
+35,KEPALA BAGIAN KEUANGAN DAN PERENCANAAN,12d,KEPALA BAGIAN KEUANGAN DAN PERENCANAAN,12d,Wakil Direktur Keuangan dan Umum,Jabatan Administrator,1,1,0,0,0,0,1,1,0,0,0,0
+36,Pranata Komputer Ahli Pertama,8,Pranata Komputer Ahli Pertama,8,Kepala Bagian Keuangan dan Perencanaan,Jabatan Fungsional Keahlian Non Kesehatan,1,1,0,2,2,0,1,1,0,2,2,0
+37,Pranata Komputer Penyelia,7,Pranata Komputer Penyelia,8,Kepala Bagian Keuangan dan Perencanaan,Jabatan Fungsional Keterampilan Non Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+38,Pranata Komputer Mahir,7,Pranata komputer Mahir,7,Kepala Bagian Keuangan dan Perencanaan,Jabatan Fungsional Keterampilan Non Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+39,Pranata Komputer Terampil,7,Pranata komputer Terampil,6,Kepala Bagian Keuangan dan Perencanaan,Jabatan Fungsional Keterampilan Non Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+40,KOORDIANTOR Satuan Pelaksana Perbendaharaan dan Verifikasi,8,Koordinator Satuan Pelaksana Perbendaharaan dan Verifikasi,8,Kepala Bagian Keuangan dan Perencanaan,Jabatan Pelaksana Satuan,1,1,0,0,0,0,1,1,0,0,0,0
+41,Bendahara Pembantu,7,Penelaah Teknis Kebijakan,7,Koordinator Satuan Pelaksana Perbendaharaan dan Verifikasi,Jabatan Pelaksana Teknis Tingkat Ahli,3,3,0,0,0,0,3,3,0,0,0,0
+42,Pengelola Keuangan,7,Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Perbendaharaan dan Verifikasi,Jabatan Pelaksana Teknis Tingkat Terampil,0,2,-2,2,2,0,0,2,-2,2,2,0
+43,Pengadministrasi Keuangan,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Perbendaharaan dan Verifikasi,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,7,6,1,0,0,0,7,6,1
+44,KOORDIANTOR Satuan Pelaksana Perencanaan dan Anggaran,8,Koordinator Satuan Pelaksana Perencanaan dan Anggaran,8,Kepala Bagian Keuangan dan Perencanaan,Jabatan Pelaksana Satuan,0,0,0,1,1,0,0,0,0,1,1,0
+45,Pengolah Anggaran dan Perencanaan,7,Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Perencanaan dan Anggaran,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,1,1,0,0,0,0,1,1,0
+46,Pengadministrasi Perencanaan dan Anggaran,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Perencanaan dan Anggaran,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,1,-1,0,0,0,0,1,-1
+47,KOORDIANTOR Satuan Pelaksana Akuntansi,8,Koordinator Satuan Pelaksana Akuntansi,8,Kepala Bagian Keuangan dan Perencanaan,Jabatan Pelaksana Satuan,1,1,0,0,1,-1,1,1,0,0,1,-1
+48,Pemroses Akuntansi,7,Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Akuntansi,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,1,0,1,0,0,0,1,0,1
+49,Pengadministrasi Keuangan,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Akuntansi,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,1,0,0,0,0,1,1,0
+50,KOORDIANTOR Satuan Pelaksana Mobilisasi Dana,8,Koordinator Satuan Pelaksana Mobilisasi Dana,8,Kepala Bagian Keuangan dan Perencanaan,Jabatan Pelaksana Satuan,0,0,0,1,1,0,0,0,0,1,1,0
+51,Pemroses Mobilisasi Dana,7,Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Mobilisasi Dana,Jabatan Pelaksana Teknis Tingkat Terampil,1,1,0,1,1,0,1,1,0,1,1,0
+52,Pengadministrasi Keuangan,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Mobilisasi Dana,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,5,4,1,0,0,0,5,4,1
+53,KOORDIANTOR Satuan Pelaksana Sistem Informasi RS,8,Koordinator Satuan Pelaksana Sistem Informasi RS,8,Kepala Bagian Keuangan dan Perencanaan,Jabatan Pelaksana Satuan,0,0,0,1,1,0,0,0,0,1,1,0
+54,Pengendali Teknologi Informasi,7,Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Sistem Informasi RS,Jabatan Pelaksana Teknis Tingkat Terampil,1,1,0,3,4,-1,1,1,0,3,4,-1
+55,Pengadministrasi SIMRS,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Sistem Informasi RS,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,0,0,0,0,0,0
+56,WAKIL DIREKTUR PELAYANAN,12c,WAKIL DIREKTUR PELAYANAN,12c,Direktur,Jabatan Administrator,1,1,0,0,0,0,1,1,0,0,0,0
+57,KEPALA BIDANG PELAYANAN MEDIS,12d,KEPALA BIDANG PELAYANAN MEDIS,12d,Wakil Direktur Pelayanan,Jabatan Administrator,1,1,0,0,0,0,1,1,0,0,0,0
+58,Administrator Kesehatan Ahli Madya,9,Administrator Kesehatan Ahli Madya,11,Kepala Bidang Pelayanan Medis,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+59,Administrator Kesehatan Ahli Muda,8,Administrator Kesehatan Ahli Muda,9,Kepala Bidang Pelayanan Medis,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+60,Administrator Kesehatan Ahli Pertama,7,Administrator Kesehatan Ahli Pertama,8,Kepala Bidang Pelayanan Medis,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,3,-3,0,0,0,0,3,-3
+61,Dokter Ahli Utama,10,Dokter Ahli Utama,14,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,14,-14,0,0,0,0,14,-14,0,0,0
+62,Dokter Ahli Madya,9,Dokter Ahli Madya,12,Kepala Bidang Pelayanan Medis,Jabatan Fungsional Keahlian Kesehatan,5,15,-10,3,4,-1,5,15,-10,3,4,-1
+63,Dokter Ahli Muda,8,Dokter Ahli Muda,10,Kepala Bidang Pelayanan Medis,Jabatan Fungsional Keahlian Kesehatan,12,13,-1,10,31,-21,12,13,-1,10,31,-21
+64,Dokter Ahli Pertama,7,Dokter Ahli Pertama,9,Kepala Bidang Pelayanan Medis,Jabatan Fungsional Keahlian Kesehatan,2,4,-2,41,47,-6,2,4,-2,41,47,-6
+65,Dokter Gigi Ahli Utama,10,Dokter Gigi Ahli Utama,14,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,5,-5,0,0,0,0,5,-5,0,0,0
+66,Dokter Gigi Ahli Madya,9,Dokter Gigi Ahli Madya,12,Kepala Bidang Pelayanan Medis,Jabatan Fungsional Keahlian Kesehatan,2,3,-1,0,0,0,2,3,-1,0,0,0
+67,Dokter Gigi Ahli Muda,8,Dokter Gigi Ahli Muda,10,Kepala Bidang Pelayanan Medis,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+68,Dokter Gigi Ahli Pertama,7,Dokter Gigi Ahli Pertama,9,Kepala Bidang Pelayanan Medis,Jabatan Fungsional Keahlian Kesehatan,0,0,0,1,2,-1,0,0,0,1,2,-1
+69,KOORDIANTOR Satuan Instalasi Gawat Darurat,8,Koordinator Satuan Instalasi Gawat Darurat,8,Kepala Bidang Pelayanan Medis,Jabatan Pelaksana Satuan,0,1,-1,0,2,-2,0,1,-1,0,2,-2
+70,KOORDIANTOR Satuan Instalasi Rawat jalan,8,Koordinator Satuan Instalasi Rawat jalan,8,Kepala Bidang Pelayanan Medis,Jabatan Pelaksana Satuan,0,0,0,1,0,1,0,0,0,1,0,1
+71,KOORDIANTOR Satuan Instalasi Rawat Inap,8,Koordinator Satuan Instalasi Rawat Inap,8,Kepala Bidang Pelayanan Medis,Jabatan Pelaksana Satuan,0,1,-1,0,1,-1,0,1,-1,0,1,-1
+72,KOORDIANTOR Satuan Instalasi Rawat Intensif,8,Koordinator Satuan Instalasi Rawat Intensif,8,Kepala Bidang Pelayanan Medis,Jabatan Pelaksana Satuan,0,0,0,0,0,0,0,0,0,0,0,0
+73,KEPALA BIDANG PELAYANAN KEPERAWATAN,12d,KEPALA BIDANG PELAYANAN KEPERAWATAN,12d,Wakil Direktur Pelayanan,Jabatan Administrator,1,1,0,0,1,-1,1,1,0,0,1,-1
+74,Perawat Ahli Utama,10,Perawat Ahli Utama,10,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+75,Perawat Ahli Madya,9,Perawat Ahli Madya,11,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,4,4,0,0,5,-5,4,4,0,0,5,-5
+76,Perawat Ahli Muda,8,Perawat Ahli Muda,9,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,9,13,-4,0,13,-13,9,13,-4,0,13,-13
+77,Perawat Ahli Pertama,7,Perawat Ahli Pertama,8,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,8,14,-6,37,48,-11,8,14,-6,37,48,-11
+78,Perawat Penyelia,7,Perawat Penyelia,8,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,9,19,-10,20,40,-20,9,19,-10,20,40,-20
+79,Perawat Mahir,7,Perawat Mahir,7,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,17,19,-2,49,78,-29,17,19,-2,49,78,-29
+80,Perawat Terampil,7,Perawat Terampil,6,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,20,23,-3,215,246,-31,20,23,-3,215,246,-31
+81,Bidan Ahli Madya,9,Bidan Ahli Madya,11,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+82,Bidan Ahli Muda,8,Bidan Ahli Muda,9,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+83,Bidan Ahli Pertama,7,Bidan Ahli Pertama,8,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+84,Bidan Penyelia,7,Bidan Penyelia,8,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,0,0,0,1,1,0,0,0,0
+85,Bidan Mahir,7,Bidan Mahir,7,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,4,-4,0,1,-1,0,4,-4
+86,Bidan Terampil,7,Bidan Terampil,6,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,9,9,0,0,0,0,9,9,0
+87,KOORDIANTOR Satuan Pelayanan Mutu Asuhan Keperawatan dan Kebidanan,8,Koordinator Satuan Pelayanan Mutu Asuhan Keperawatan dan Kebidanan,8,Kepala Bidang Pelayanan Keperawatan,Jabatan Pelaksana Satuan,1,1,0,0,9,-9,1,1,0,0,9,-9
+88,Petugas Keperawatan,5,Operator Layanan Kesehatan,3,Koordinator Satuan Pelayanan Mutu Asuhan Keperawatan dan Kebidanan,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,0,0,0,0,0,0,0,0,0
+89,KOORDIANTOR Satuan Pelayanan Logistik Keperawatan dan Kebidanan,8,Koordinator Satuan Pelayanan Logistik Keperawatan dan Kebidanan,8,Kepala Bidang Pelayanan Keperawatan,Jabatan Pelaksana Satuan,0,0,0,0,0,0,0,0,0,0,0,0
+90,Pengadministrasi Keperawatan,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Pelayanan Logistik Keperawatan dan Kebidanan,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,5,12,-7,0,0,0,5,12,-7
+91,KOORDIANTOR Satuan Pelayanan SDM Keperawatan dan Kebidanan,8,Koordinator Satuan Pelayanan SDM Keperawatan dan Kebidanan,8,Kepala Bidang Pelayanan Keperawatan,Jabatan Pelaksana Satuan,0,0,0,0,12,-12,0,0,0,0,12,-12
+92,KOORDIANTOR Satuan Pelayanan Mobilisasi Keperawatan dan Kebidanan,8,Koordinator Satuan Pelayanan Mobilisasi Keperawatan dan Kebidanan,8,Kepala Bidang Pelayanan Keperawatan,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,0,0,0,0,1,-1
+93,KEPALA BIDANG PELAYANAN PENUNJANG MEDIS,12d,KEPALA BIDANG PELAYANAN PENUNJANG MEDIS,12d,Wakil Direktur Pelayanan,Jabatan Administrator,1,1,0,0,1,-1,1,1,0,0,1,-1
+94,Psikolog Klinis Ahli Madya,9,Psikolog Ahli Klinis Madya,11,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+95,Psikolog Klinis Ahli Muda,8,Psikolog Ahli Klinis Muda,9,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,2,2,0,0,0,0,2,2,0
+96,Psikolog Klinis Ahli Pertama,7,Psikolog Ahli Klinis Pertama,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+97,Penata Anestesi Ahli Madya,9,Penata Anestesi Ahli Madya,11,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+98,Penata Anestesi Ahli Muda,8,Penata Anestesi Ahli Muda,9,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+99,Penata Anestesi Ahli Pertama,7,Penata Anestesi Ahli Pertama,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,2,5,-3,0,0,0,2,5,-3
+100,Asisten Penata Anestesi Penyelia,7,Asisten Penata Anestesi Penyelia,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+101,Asisten Penata Anestesi Mahir,7,Asisten Penata Anestesi Mahir,7,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+102,Asisten Penata Anestesi Terampil,7,Asisten Penata Anestesi Terampil,6,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,2,-2,0,0,0,0,2,-2
+103,Terapis Gigi dan Mulut Penyelia,7,Terapis Gigi dan Mulut Penyelia,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+104,Terapis Gigi dan Mulut Mahir,7,Terapis Gigi dan Mulut Mahir,7,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+105,Terapis Gigi dan Mulut Terampil,7,Terapis Gigi dan Mulut Terampil,6,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,3,-2,0,0,0,1,3,-2
+106,Teknisi Elektromedis Ahli Madya,9,Teknisi Elektromedis Ahli Madya,11,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+107,Teknisi Elektromedis Ahli Muda,8,Teknisi Elektromedis Ahli Muda,9,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+108,Teknisi Elektromedis Ahli Pertama,7,Teknisi Elektromedis Ahli Pertama,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,5,-5,1,1,0,0,5,-5
+109,Teknisi Elektromedis Penyelia,7,Teknisi Elektromedis Penyelia,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+110,Teknisi Elektromedis Mahir,7,Teknisi Elektromedis Mahir,7,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+111,Teknisi Elektromedis Terampil,7,Teknisi Elektromedis Terampil,6,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,1,-1,0,0,0,0,1,-1
+112,Apoteker Ahli Utama,10,Apoteker Ahli Utama,13,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+113,Apoteker Ahli Madya,9,Apoteker Ahli Madya,11,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,1,1,0,1,1,0,1,1,0
+114,Apoteker Ahli Muda,8,Apoteker Ahli Muda,9,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,3,6,-3,0,1,-1,3,6,-3
+115,Apoteker Ahli Pertama,7,Apoteker Ahli Pertama,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,2,3,-1,4,7,-3,2,3,-1,4,7,-3
+116,Asisten Apoteker Penyelia,7,Asisten Apoteker Penyelia,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,0,0,0,0,1,-1
+117,Asisten Apoteker Mahir,7,Asisten Apoteker Mahir,7,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,1,15,-14,0,1,-1,1,15,-14
+118,Asisten Apoteker Terampil,7,Asisten Apoteker Terampil,6,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,2,6,-4,7,26,-19,2,6,-4,7,26,-19
+119,Radiografer Ahli Madya,9,Radiografer Ahli Madya,11,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+120,Radiografer Ahli Muda,8,Radiografer Ahli Muda,9,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+121,Radiografer Ahli Pertama,7,Radiografer Ahli Pertama,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,1,-1,1,1,0,0,1,-1
+122,Radiografer Penyelia,7,Radiografer Penyelia,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,3,-2,0,0,0,1,3,-2
+123,Radiografer Mahir,7,Radiografer Mahir,7,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,4,-3,0,0,0,1,4,-3
+124,Radiografer Terampil,7,Radiografer Terampil,6,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,2,5,-3,0,1,-1,2,5,-3
+125,Pranata Laboratorium Kesehatan Ahli Madya,9,Pranata Laboratorium Kesehatan Ahli Madya,11,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+126,Pranata Laboratorium Kesehatan Ahli Muda,8,Pranata Laboratorium Kesehatan Ahli Muda,9,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+127,Pranata Laboratorium Kesehatan Ahli Pertama,7,Pranata Laboratorium Kesehatan Ahli Pertama,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,1,-1,0,1,-1,0,1,-1
+128,Pranata Laboratorium Kesehatan Penyelia,7,Pranata Laboratorium Kesehatan Penyelia,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,2,-2,1,6,-5,0,2,-2,1,6,-5
+129,Pranata Laboratorium Kesehatan Mahir,7,Pranata Laboratorium Kesehatan Mahir,7,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,3,4,-1,1,2,-1,3,4,-1
+130,Pranata Laboratorium Kesehatan Terampil,7,Pranata Laboratorium Kesehatan Terampil,6,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,2,-2,1,12,-11,0,2,-2,1,12,-11
+131,Fisioterapis Ahli Madya,7,Fisioterapis Ahli Madya,11,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+132,Fisioterapis Ahli Muda,9,Fisioterapis Ahli Muda,9,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+133,Fisioterapis Ahli Pertama,8,Fisioterapis Ahli Pertama,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,1,-1,0,1,-1,0,1,-1
+134,Fisioterapis Penyelia,7,Fisioterapis Penyelia,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,0,1,-1,1,2,-1,0,1,-1
+135,Fisioterapis Mahir,7,Fisioterapis Mahir,7,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,2,-2,0,3,-3,0,2,-2,0,3,-3
+136,Fisioterapis Terampil,7,Fisioterapis Terampil,6,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,2,-2,0,1,-1,0,2,-2
+137,Okupasi Terapis Penyelia,7,Okupasi Terapis Penyelia,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,1,-1,0,1,-1,0,1,-1
+138,Okupasi Terapis Mahir,7,Okupasi Terapis Mahir,7,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,3,3,0,0,1,-1,3,3,0
+139,Okupasi Terapis Terampil,7,Okupasi Terapis Terampil,6,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,4,-4,0,0,0,0,4,-4
+140,Perekam Medis dan Informasi Kesehatan Ahli Madya,9,Perekam Medis dan Informasi Kesehatan Ahli Madya,11,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+141,Perekam Medis dan Informasi Kesehatan Ahli Muda,8,Perekam Medis dan Informasi Kesehatan Ahli Muda,9,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+142,Perekam Medis dan Informasi Kesehatan Ahli Pertama,7,Perekam Medis dan Informasi Kesehatan Ahli Pertama,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+143,Perekam Medis dan Informasi Kesehatan Penyelia,7,Perekam Medis dan Informasi Kesehatan Penyelia,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,3,-3,0,1,-1,0,3,-3
+144,Perekam Medis dan Informasi Kesehatan Mahir,7,Perekam Medis dan Informasi Kesehatan Mahir,7,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,2,2,0,0,1,-1,2,2,0
+145,Perekam Medis dan Informasi Kesehatan Terampil,7,Perekam Medis dan Informasi Kesehatan Terampil,6,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,3,-3,0,0,0,0,3,-3
+146,Pembimbing Kesehatan Kerja Ahli Madya,9,Pembimbing Kesehatan Kerja Ahli Madya,11,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+147,Pembimbing Kesehatan Kerja Ahli Muda,8,Pembimbing Kesehatan Kerja Ahli Muda,9,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+148,Pembimbing kesehatan kerja Ahli Pertama,7,Pembimbing Kesehatan Kerja Ahli Pertama,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+149,Tenaga Sanitasi Lingkungan Ahli Madya,9,Tenaga Sanitasi Lingkungan Ahli Madya,11,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+150,Tenaga Sanitasi Lingkungan Ahli Muda,8,Tenaga Sanitasi Lingkungan Ahli Muda,9,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+151,Tenaga Sanitasi Lingkungan Ahli Pertama,7,Tenaga Sanitasi Lingkungan Ahli Pertama,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+152,Tenaga Sanitasi Lingkungan Penyelia,7,Tenaga Sanitasi Lingkungan Penyelia,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+153,Tenaga Sanitasi Lingkungan Mahir,7,Tenaga Sanitasi Lingkungan Mahir,7,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,1,-1,0,1,-1,0,1,-1
+154,Tenaga Sanitasi Lingkungan Terampil,7,Tenaga Sanitasi Lingkungan Terampil,6,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,1,-1,0,1,-1,0,1,-1
+155,Nutrisionis Ahli Madya,9,Nutrisionis Ahli Madya,11,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+156,Nutrisionis Ahli Muda,8,Nutrisionis Ahli Muda,9,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+157,Nutrisionis Ahli Pertama,7,Nutrisionis Ahli Pertama,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,5,-5,0,1,-1,0,5,-5
+158,Nutrisionis Penyelia,7,Nutrisionis Penyelia,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,0,0,0,1,1,0,0,0,0
+159,Nutrisionis Mahir,7,Nutrisionis Mahir,7,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,1,-1,0,1,-1,0,1,-1
+160,Nutrisionis Terampil,7,Nutrisionis Terampil,6,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,2,4,-2,0,1,-1,2,4,-2
+161,Terapis Wicara Penyelia,7,Terapis Wicara Penyelia,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,0,0,0,0,1,-1
+162,Terapis Wicara Mahir,7,Terapis Wicara Mahir,7,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,0,0,0,1,1,0
+163,Terapis Wicara Terampil,7,Terapis Wicara Terampil,6,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,0,1,-1,1,1,0,0,1,-1
+164,Fisikawan Medis Ahli Madya,9,Fisikawan Medis Ahli Madya,11,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+165,Fisikawan Medis Ahli Muda,8,Fisikawan Medis Ahli Muda,9,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+166,Fisikawan Medis Ahli Pertama,7,Fisikawan Medis Ahli Pertama,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,1,-1,0,0,0,0,1,-1
+167,Teknisi Transfusi Darah Penyelia,7,Teknisi Transfusi Darah Penyelia,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+168,Teknisi Transfusi Darah Mahir,7,Teknisi Transfusi Darah Mahir,7,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,0,0,0,0,1,-1
+169,Teknisi Transfusi Darah Terampil,7,Teknisi Transfusi Darah Terampil,6,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,8,-8,0,0,0,0,8,-8
+170,Refraksionis Optisien Penyelia,7,Refraksionis Optisien Penyelia,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+171,Refraksionis Optisien Mahir,7,Refraksionis Optisien Mahir,7,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,0,0,0,0,1,-1
+172,Refraksionis Optisien Terampil,7,Refraksionis Optisien Terampil,6,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,0,0,0,0,1,-1
+173,Epidemiolog Kesehatan Ahli Utama,10,Epidemiolog Kesehatan Ahli Utama,10,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+174,Epidemiolog Kesehatan Ahli Madya,9,Epidemiolog Kesehatan Ahli Madya,11,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+175,Epidemiolog Kesehatan Ahli Muda,8,Epidemiolog Kesehatan Ahli Muda,9,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+176,Epidemiolog Kesehatan Ahli Pertama,7,Epidemiolog Kesehatan Ahli Pertama,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+177,Ortotis Prostetis Penyelia,7,Ortotis Prostetis Penyelia,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+178,Ortotis Prostetis Mahir,7,Ortotis Prostetis Mahir,7,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+179,Ortotis Prostetis Terampil,7,Ortotis Prostetis Terampil,6,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+180,Promosi Kesehatan dan Ilmu Perilaku Ahli Utama,10,Promosi Kesehatan dan Ilmu Perilaku Ahli Utama,10,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+181,Promosi Kesehatan dan Ilmu Perilaku Ahli Madya,9,Promosi Kesehatan dan Ilmu Perilaku Ahli Madya,11,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+182,Promosi Kesehatan dan Ilmu Perilaku Ahli Muda,8,Promosi Kesehatan dan Ilmu Perilaku Ahli Muda,9,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+183,Promosi Kesehatan dan Ilmu Perilaku Ahli Pertama,7,Promosi Kesehatan dan Ilmu Perilaku Ahli Pertama,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+184,Promosi Kesehatan dan Ilmu Perilaku Penyelia,7,Promosi Kesehatan dan Ilmu Perilaku Penyelia,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+185,Promosi Kesehatan dan Ilmu Perilaku Mahir,7,Promosi Kesehatan dan Ilmu Perilaku Mahir,7,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+186,Promosi Kesehatan dan Ilmu Perilaku Terampil,7,Promosi Kesehatan dan Ilmu Perilaku Terampil,6,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+187,KOORDIANTOR Satuan Instalasi Farmasi,8,Koordinator Satuan Instalasi Farmasi,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Pelaksana Satuan,0,0,0,1,0,1,0,0,0,1,0,1
+188,Pemroses Farmasi,7,Pengelola Layanan Kesehatan,6,Koordinator Satuan Instalasi Farmasi,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,1,-1,0,0,0,0,1,-1
+189,Pengadministrasi Farmasi,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Instalasi Farmasi,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,1,-1,0,0,0,0,1,-1
+190,Petugas Farmasi,5,Operator Layanan Kesehatan,3,Koordinator Satuan Instalasi Farmasi,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,3,3,0,0,0,0,3,3,0
+191,KOORDIANTOR Satuan Instalasi Rekam Medis,8,Koordinator Satuan Instalasi Rekam Medis,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Pelaksana Satuan,0,0,0,0,0,0,0,0,0,0,0,0
+192,Pengolah Data Rekam Medis,7,Pengelola Layanan Kesehatan,6,Koordinator Satuan Instalasi Rekam Medis,Jabatan Pelaksana Teknis Tingkat Terampil,1,1,0,2,1,1,1,1,0,2,1,1
+193,Petugas Rekam Medis,5,Operator Layanan Kesehatan,3,Koordinator Satuan Instalasi Rekam Medis,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,11,11,0,0,0,0,11,11,0
+194,KOORDIANTOR Satuan Instalasi Laboratorium,8,Koordinator Satuan Instalasi Laboratorium,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Pelaksana Satuan,0,0,0,0,11,-11,0,0,0,0,11,-11
+195,Pengolah laboratorium,7,Operator Laboratorium,6,Koordinator Satuan Instalasi Laboratorium,Jabatan Pelaksana Teknis Tingkat Terampil,0,2,-2,0,1,-1,0,2,-2,0,1,-1
+196,Pengadministrasi Laboratorium,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Instalasi Laboratorium,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,0,1,0,0,0,1,0,1
+197,KOORDIANTOR Satuan Instalasi Radiologi,8,Koordinator Satuan Instalasi Radiologi,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,0,0,0,0,1,-1
+198,Pengadministrasi Radiologi,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Instalasi Radiologi,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,1,0,0,0,0,1,1,0
+199,Petugas Radiologi,5,Operator Layanan Kesehatan,3,Koordinator Satuan Instalasi Radiologi,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,0,1,-1,0,0,0,0,1,-1
+200,KOORDIANTOR Satuan Instalasi Gizi,8,Koordinator Satuan Instalasi Gizi,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Pelaksana Satuan,0,0,0,0,0,0,0,0,0,0,0,0
+201,Pengawas Instalasi Gizi,7,Pengelola Layanan Kesehatan,6,Koordinator Satuan Instalasi Gizi,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,3,6,-3,0,0,0,3,6,-3
+202,Petugas Gizi,5,Operator Layanan Kesehatan,3,Koordinator Satuan Instalasi Gizi,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,6,0,6,0,0,0,6,0,6
+203,KOORDIANTOR Satuan Instalasi Penunjang Khusus,8,Koordinator Satuan Instalasi Penunjang Khusus,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Pelaksana Satuan,1,1,0,0,0,0,1,1,0,0,0,0
+204,Pengawas Kesehatan Kerja,7,Pengelola Layanan Kesehatan,6,Koordinator Satuan Instalasi Penunjang Khusus,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,2,0,2,0,0,0,2,0,2
+205,Petugas Penunjang Khusus,5,Operator Layanan Kesehatan,3,Koordinator Satuan Instalasi Penunjang Khusus,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,10,7,3,0,0,0,10,7,3
+206,Petugas Pemulasaran Jenazah,5,Operator Layanan Kesehatan,3,Koordinator Satuan Instalasi Penunjang Khusus,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,10,7,3,0,0,0,10,7,3
+207,KOORDIANTOR Satuan Instalasi Penunjang Terapi,8,Koordinator Satuan Instalasi Penunjang Terapi,8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Pelaksana Satuan,0,0,0,0,4,-4,0,0,0,0,4,-4
+208,Pengendali Audiolog,7,Pengelola Layanan Kesehatan,6,Koordinator Satuan Instalasi Penunjang Terapi,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,1,-1,0,0,0,0,1,-1
+209,Teknisi Kardiovaskular,7,Pengelola Layanan Kesehatan,6,Koordinator Satuan Instalasi Penunjang Terapi,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,0,0,0,0,0,0
+210,"KOORDIANTOR Satuan Instalasi K3KL (Kesehatan, Keselamatan Kerja dan Kesehatan Lingkungan)",8,"Koordinator Satuan Instalasi K3KL (Kesehatan, Keselamatan Kerja dan Kesehatan Lingkungan)",8,Kepala Bidang Pelayanan Pelayanan Penujang,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,0,0,0,0,1,-1

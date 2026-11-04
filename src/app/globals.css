@@ -1,0 +1,742 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --asset-version: "20260618-cache-reset";
+  color-scheme: light;
+  --color-background: #f8f9fa;
+  --color-surface: #ffffff;
+  --color-surface-muted: #f3f4f5;
+  --color-border: #cbd5e1;
+  --color-border-soft: #e2e8f0;
+  --color-text: #191c1d;
+  --color-text-muted: #434750;
+  --color-primary: #0A2540;
+  --color-primary-container: #0070F3;
+  --color-gold: #F59E0B;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background: var(--color-background);
+  color: var(--color-text);
+  font-family: "Plus Jakarta Sans", "Inter", "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  overflow-x: hidden;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Plus Jakarta Sans", "Inter", "Segoe UI", system-ui, sans-serif;
+  letter-spacing: 0;
+}
+
+.peta-reference-export,
+.peta-reference-export h2 {
+  font-family: Arial, sans-serif;
+  color: #000;
+}
+
+.peta-reference-chart section > div:first-child {
+  background-color: #fff;
+  font-weight: 500;
+}
+
+.peta-reference-chart table {
+  table-layout: fixed;
+}
+
+.peta-reference-chart th {
+  background-color: #d9d9d9;
+  font-weight: 500;
+}
+
+.peta-reference-chart td,
+.peta-reference-chart th {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  overflow-wrap: break-word;
+}
+
+.peta-reference-chart td,
+.peta-reference-chart th,
+.peta-reference-chart section > div,
+.peta-reference-chart div:has(> table) {
+  border-color: #999;
+}
+
+@page {
+  size: landscape;
+  margin: 8mm;
+}
+
+@page peta-reference {
+  size: A4 landscape;
+  margin: 8mm;
+}
+
+.peta-print-sheets {
+  display: none;
+}
+
+@media print {
+  body.peta-print-active .peta-print-area:has(> .peta-print-sheets) > .peta-print-content {
+    display: none;
+  }
+
+  body.peta-print-active .peta-print-sheets {
+    display: block;
+  }
+
+  body.peta-print-active .peta-print-sheet {
+    position: relative;
+    overflow: hidden;
+    break-after: page;
+  }
+
+  body.peta-print-active .peta-print-sheet:last-child {
+    break-after: auto;
+  }
+
+  html:has(body.peta-print-active .peta-reference-export) {
+    font-size: 16px;
+  }
+
+  body.peta-print-active:has(.peta-reference-export),
+  body.peta-print-active .peta-print-area:has(.peta-reference-export) {
+    page: peta-reference;
+  }
+
+  body.peta-print-active .peta-print-area:has(.peta-reference-export) {
+    width: 100% !important;
+    height: calc(var(--peta-print-content-height, 0px) * var(--peta-print-scale, 1));
+    overflow: hidden !important;
+  }
+
+  body.peta-print-active .peta-print-area:has(> .peta-print-sheets) {
+    height: auto;
+    overflow: visible !important;
+  }
+
+  body.peta-print-active .peta-reference-export {
+    position: absolute;
+    left: 50%;
+    width: max-content;
+    margin-inline: 0;
+    /* Preserve table geometry; browser zoom can reflow rows at print scale. */
+    zoom: 1 !important;
+    transform: translateX(-50%) scale(var(--peta-print-scale, 1));
+    transform-origin: top center;
+  }
+
+  body.peta-print-active {
+    overflow: visible !important;
+  }
+
+  body.peta-print-active * {
+    visibility: hidden !important;
+  }
+
+  body.peta-print-active .peta-print-area,
+  body.peta-print-active .peta-print-area * {
+    visibility: visible !important;
+  }
+
+  body.peta-print-active .peta-print-area {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: max-content !important;
+    max-width: none !important;
+    overflow: visible !important;
+    border: 0 !important;
+    padding: 0 !important;
+    break-inside: avoid !important;
+  }
+
+  body.peta-print-active .peta-print-content {
+    zoom: var(--peta-print-scale, 1);
+    break-inside: avoid !important;
+  }
+}
+
+@layer components {
+  .focus-ring {
+    @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-dinkes-blue/30 focus-visible:ring-offset-2 focus-visible:ring-offset-white;
+  }
+
+  .surface {
+    @apply rounded-lg border border-slate-200 bg-white shadow-none;
+  }
+
+  .input {
+    @apply w-full rounded-lg border border-slate-300 bg-white px-3 py-2.5 text-sm text-slate-800 outline-none transition placeholder:text-slate-400 focus:border-dinkes-blue focus:ring-2 focus:ring-dinkes-blue/10 disabled:cursor-not-allowed disabled:bg-slate-100 disabled:text-slate-400;
+  }
+
+  .label {
+    @apply text-sm font-semibold text-slate-700;
+  }
+
+  .btn-primary {
+    @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-lg bg-dinkes-blue px-4 py-2.5 text-sm font-semibold text-white shadow-button transition hover:bg-dinkes-navy focus-ring disabled:cursor-not-allowed disabled:opacity-60;
+  }
+
+  .btn-secondary {
+    @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-lg border border-slate-300 bg-white px-4 py-2.5 text-sm font-semibold text-slate-700 transition hover:border-dinkes-blue hover:bg-dinkes-50 hover:text-dinkes-blue focus-ring disabled:cursor-not-allowed disabled:opacity-60;
+  }
+
+  .table-th {
+    @apply h-11 whitespace-nowrap border-b border-r border-slate-200 bg-slate-100 px-3 py-2 text-left text-xs font-bold uppercase tracking-wide text-slate-700 sm:px-4;
+  }
+
+  .table-td {
+    @apply h-11 whitespace-nowrap border-b border-r border-slate-100 px-3 py-2 align-middle text-sm text-slate-800 sm:px-4;
+  }
+
+  .duk-history-list {
+    @apply space-y-1 text-xs leading-5 text-slate-700;
+  }
+
+  .duk-history-item {
+    @apply grid grid-cols-[1.35rem_minmax(0,1fr)] gap-1 border-b border-slate-100 py-1 last:border-b-0;
+  }
+
+  .duk-history-number {
+    @apply flex h-5 w-5 items-center justify-center rounded bg-slate-100 text-[10px] font-bold text-slate-500;
+  }
+
+  .table-scroll {
+    @apply max-w-full overflow-auto overscroll-x-contain;
+    scrollbar-width: thin;
+    scrollbar-color: #cbd5e1 transparent;
+  }
+
+  .table-scroll::-webkit-scrollbar {
+    height: 10px;
+  }
+
+  .table-scroll::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .table-scroll::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 999px;
+  }
+
+  .app-heading {
+    @apply font-display font-bold tracking-normal text-dinkes-navy;
+  }
+
+  .section-label {
+    @apply text-xs font-bold uppercase tracking-wide text-slate-500;
+  }
+}
+
+.print-profile {
+  display: none;
+}
+
+.pdf-export-root {
+  position: fixed;
+  left: -100000px;
+  top: 0;
+  z-index: -1;
+  width: 794px;
+  background: #ffffff;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  pointer-events: none;
+}
+
+.pdf-export-root .print-profile {
+  display: block;
+}
+
+.pdf-export-root .print-drh-page {
+  position: relative;
+  box-sizing: border-box;
+  width: 794px;
+  min-height: 1123px;
+  padding: 38px 42px 54px;
+  background: #ffffff;
+}
+
+.pdf-export-root .print-drh-footer {
+  position: absolute;
+  right: 42px;
+  bottom: 16px;
+  left: 42px;
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  border-top: 1px solid #111111;
+  padding-top: 6px;
+  color: #000000;
+  font-size: 8px;
+  line-height: 1.2;
+}
+
+.pdf-export-root .print-drh-header {
+  display: grid;
+  grid-template-columns: 91px 1fr 91px;
+  align-items: center;
+  min-height: 113px;
+  margin-bottom: 11px;
+  padding-bottom: 11px;
+  border-bottom: 1px solid #111111;
+  text-align: center;
+}
+
+.pdf-export-root .print-drh-logo {
+  justify-self: start;
+  width: 68px;
+  height: 68px;
+  object-fit: contain;
+}
+
+.pdf-export-root .print-drh-heading {
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.pdf-export-root .print-drh-heading p {
+  margin: 0;
+}
+
+.pdf-export-root .print-drh-agency {
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.pdf-export-root .print-drh-address {
+  margin-top: 4px !important;
+  font-size: 10px;
+  font-weight: 500;
+}
+
+.pdf-export-root .print-drh-contact {
+  font-size: 9px;
+  font-weight: 500;
+}
+
+.pdf-export-root .print-drh-title {
+  margin-top: 11px !important;
+  font-size: 17px;
+  font-weight: 800;
+}
+
+.pdf-export-root .print-drh-section {
+  margin-top: 20px;
+}
+
+.pdf-export-root .print-drh-section-title {
+  box-sizing: border-box;
+  display: block;
+  margin: 0 0 8px;
+  border: 0.5px solid #1f2937;
+  background: #0b4a7f;
+  color: #ffffff;
+  padding: 4px 6px;
+  font-size: 11px;
+  font-weight: 800;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.pdf-export-root .print-drh-data {
+  margin: 8px 0 0 4px;
+}
+
+.pdf-export-root .print-drh-data-body {
+  display: grid;
+  grid-template-columns: 1fr 92px;
+  gap: 18px;
+  align-items: start;
+}
+
+.pdf-export-root .print-drh-data-photo-wrap {
+  margin-top: 10px;
+  width: 86px;
+  height: 108px;
+}
+
+.pdf-export-root .print-drh-data-photo {
+  width: 86px;
+  height: 108px;
+  object-fit: cover;
+  border: 1px solid #111111;
+}
+
+.pdf-export-root .print-drh-data-row {
+  display: grid;
+  grid-template-columns: 128px 15px 1fr;
+  column-gap: 4px;
+  margin-top: 8px;
+  font-size: 10px;
+  line-height: 1.25;
+}
+
+.pdf-export-root .print-drh-data-row dt {
+  font-weight: 700;
+}
+
+.pdf-export-root .print-drh-data-row dd {
+  margin: 0;
+}
+
+.pdf-export-root .print-drh-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  table-layout: fixed;
+  border: 0.5px solid #334155;
+}
+
+.pdf-export-root .print-drh-table th,
+.pdf-export-root .print-drh-table td {
+  border: 0;
+  border-right: 0.5px solid #334155;
+  border-bottom: 0.5px solid #334155;
+  padding: 4px 5px;
+  vertical-align: middle;
+  font-size: 8.2px;
+  font-weight: 400;
+  line-height: 1.3;
+  word-break: break-word;
+}
+
+.pdf-export-root .print-drh-table th:last-child,
+.pdf-export-root .print-drh-table td:last-child {
+  border-right: 0;
+}
+
+.pdf-export-root .print-drh-table tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.pdf-export-root .print-drh-table th {
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  white-space: pre-line;
+  vertical-align: middle;
+  font-size: 7.4px;
+  line-height: 1.18;
+  padding: 4px 3px;
+}
+
+.pdf-export-root .print-drh-center,
+.pdf-export-root .print-drh-empty {
+  text-align: center;
+}
+
+.pdf-export-root .print-drh-cell-preline {
+  white-space: pre-line;
+}
+
+.pdf-export-root .print-drh-table .print-drh-cell-preline {
+  white-space: normal;
+  display: block;
+}
+
+.pdf-export-root .print-drh-support {
+  padding-top: 34px;
+}
+
+.pdf-export-root .print-drh-support h2 {
+  margin: 0 0 34px 4px;
+  font-size: 14px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+.pdf-export-root .print-drh-support-section {
+  margin-top: 34px;
+}
+
+.pdf-export-root .print-drh-support-section h3 {
+  margin: 0 0 11px 4px;
+  font-size: 11px;
+  font-weight: 400;
+}
+
+.pdf-export-root .print-drh-note {
+  margin: 0 0 8px 15px;
+  font-size: 9px;
+  font-style: italic;
+}
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 10mm 11mm;
+  }
+
+  html,
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 10px;
+  }
+
+  * {
+    box-shadow: none !important;
+    text-shadow: none !important;
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+
+  .print-profile {
+    display: block;
+    color: #000000;
+  }
+
+  .print-drh-page {
+    width: 100%;
+    padding-bottom: 9mm;
+  }
+
+  .print-drh-footer {
+    position: fixed;
+    right: 11mm;
+    bottom: 4mm;
+    left: 11mm;
+    display: flex;
+    justify-content: space-between;
+    gap: 8mm;
+    border-top: 1px solid #111111;
+    padding-top: 1.5mm;
+    color: #000000;
+    font-size: 8px;
+    line-height: 1.2;
+  }
+
+  .print-break-before {
+    break-before: page;
+    page-break-before: always;
+  }
+
+  .print-drh-header {
+    display: grid;
+    grid-template-columns: 24mm 1fr 24mm;
+    align-items: center;
+    min-height: 30mm;
+    margin-bottom: 3mm;
+    padding-bottom: 3mm;
+    border-bottom: 1px solid #111111;
+    text-align: center;
+  }
+
+  .print-drh-logo {
+    position: static;
+    justify-self: start;
+    width: 18mm;
+    height: 18mm;
+    object-fit: contain;
+  }
+
+  .print-drh-heading {
+    padding-top: 0;
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 1.3;
+  }
+
+  .print-drh-heading p {
+    margin: 0;
+  }
+
+  .print-drh-agency {
+    font-size: 16px;
+    font-weight: 800;
+  }
+
+  .print-drh-address {
+    margin-top: 1mm !important;
+    font-size: 10px;
+    font-weight: 500;
+  }
+
+  .print-drh-contact {
+    font-size: 9px;
+    font-weight: 500;
+  }
+
+  .print-drh-title {
+    margin-top: 3mm !important;
+    font-size: 17px;
+    font-weight: 800;
+  }
+
+  .print-drh-section {
+    margin-top: 5.3mm;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .print-drh-section-title {
+    box-sizing: border-box;
+    display: block;
+    margin: 0 0 2.1mm;
+    border: 0.5px solid #1f2937;
+    background: #0b4a7f;
+    color: #ffffff;
+    padding: 1mm 1.6mm;
+    font-size: 11px;
+    font-weight: 800;
+    line-height: 1.2;
+    text-transform: uppercase;
+  }
+
+  .print-drh-data {
+    margin: 2mm 0 0 1mm;
+  }
+
+  .print-drh-data-body {
+    display: grid;
+    grid-template-columns: 1fr 24mm;
+    gap: 5mm;
+    align-items: start;
+  }
+
+  .print-drh-data-photo-wrap {
+    margin-top: 2.5mm;
+    width: 23mm;
+    height: 29mm;
+  }
+
+  .print-drh-data-photo {
+    width: 23mm;
+    height: 29mm;
+    object-fit: cover;
+    border: 1px solid #111111;
+  }
+
+  .print-drh-data-row {
+    display: grid;
+    grid-template-columns: 34mm 4mm 1fr;
+    column-gap: 1mm;
+    margin-top: 2.2mm;
+    font-size: 10px;
+    line-height: 1.25;
+  }
+
+  .print-drh-data-row dt {
+    font-weight: 700;
+  }
+
+  .print-drh-data-row dd {
+    margin: 0;
+  }
+
+  .print-drh-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    table-layout: fixed;
+    border: 0.5px solid #334155;
+  }
+
+  .print-drh-table th,
+  .print-drh-table td {
+    border: 0;
+    border-right: 0.5px solid #334155;
+    border-bottom: 0.5px solid #334155;
+    padding: 4px 5px;
+    vertical-align: middle;
+    font-size: 8.2px;
+    font-weight: 400;
+    line-height: 1.3;
+    word-break: break-word;
+  }
+
+  .print-drh-table th:last-child,
+  .print-drh-table td:last-child {
+    border-right: 0;
+  }
+
+  .print-drh-table tbody tr:last-child td {
+    border-bottom: 0;
+  }
+
+  .print-drh-table th {
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    white-space: pre-line;
+    vertical-align: middle;
+    font-size: 7.4px;
+    line-height: 1.18;
+    padding: 4px 3px;
+  }
+
+  .print-drh-center {
+    text-align: center;
+  }
+
+  .print-drh-empty {
+    text-align: center;
+  }
+
+  .print-drh-cell-preline {
+    white-space: pre-line;
+  }
+
+  .print-drh-table .print-drh-cell-preline {
+    white-space: normal;
+    display: block;
+  }
+
+  .print-drh-support {
+    padding-top: 9mm;
+  }
+
+  .print-drh-support h2 {
+    margin: 0 0 9mm 1mm;
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: underline;
+  }
+
+  .print-drh-support-section {
+    margin-top: 9mm;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .print-drh-support-section h3 {
+    margin: 0 0 3mm 1mm;
+    font-size: 11px;
+    font-weight: 400;
+  }
+
+  .print-drh-note {
+    margin: 0 0 2mm 4mm;
+    font-size: 9px;
+    font-style: italic;
+  }
+}

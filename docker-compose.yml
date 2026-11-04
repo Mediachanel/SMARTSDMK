@@ -1,0 +1,93 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: sisdmk2-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DATABASE:-si_data}
+      POSTGRES_USER: ${POSTGRES_USER:-sisdmk2_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+      POSTGRES_INITDB_ARGS: "--auth-host=scram-sha-256"
+    command:
+      - "postgres"
+      - "-c"
+      - "password_encryption=scram-sha-256"
+      - "-c"
+      - "log_connections=on"
+      - "-c"
+      - "log_disconnections=on"
+      - "-c"
+      - "log_statement=ddl"
+    ports:
+      - "172.31.254.175:${POSTGRES_PUBLIC_PORT:-5432}:5432"
+    volumes:
+      - "${POSTGRES_DATA_DIR:-/media/devmon/Local Disk/projects/postgres/data}:/var/lib/postgresql/data"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $$POSTGRES_USER -d $$POSTGRES_DB"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+
+  app-nextjs:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sisdmk2-app-nextjs
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      NODE_ENV: production
+      PORT: 3000
+      DATABASE_URL: postgresql://${POSTGRES_USER:-sisdmk2_user}:${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}@postgres:5432/${POSTGRES_DATABASE:-si_data}?schema=public
+      POSTGRES_HOST: postgres
+      POSTGRES_HOSTS: postgres
+      POSTGRES_PORT: 5432
+      POSTGRES_USER: ${POSTGRES_USER:-sisdmk2_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+      POSTGRES_DATABASE: ${POSTGRES_DATABASE:-si_data}
+      POSTGRES_DATABASES: ${POSTGRES_DATABASES:-si_data}
+      JWT_SECRET: ${JWT_SECRET:?Set JWT_SECRET in .env}
+      NEXTAUTH_SECRET: ${NEXTAUTH_SECRET:-}
+      APP_URL: ${APP_URL:-http://localhost:3000}
+      APP_ORIGIN: ${APP_ORIGIN:?Set APP_ORIGIN in .env, for example https://sisdmk.example.go.id}
+      WAHA_API_URL: ${WAHA_API_URL:?Set WAHA_API_URL in .env.deploy}
+      WAHA_API_KEY: ${WAHA_API_KEY:?Set WAHA_API_KEY in .env.deploy}
+      WAHA_SESSION: ${WAHA_SESSION:-default}
+      EMAIL_SMTP_HOST: ${EMAIL_SMTP_HOST:-smtp.gmail.com}
+      EMAIL_SMTP_PORT: ${EMAIL_SMTP_PORT:-465}
+      EMAIL_SMTP_SECURE: ${EMAIL_SMTP_SECURE:-true}
+      EMAIL_SMTP_USER: ${EMAIL_SMTP_USER:?Set EMAIL_SMTP_USER in .env.deploy}
+      EMAIL_SMTP_PASS: ${EMAIL_SMTP_PASS:?Set EMAIL_SMTP_PASS in .env.deploy}
+      SECURITY_ALERT_PHONE: ${SECURITY_ALERT_PHONE:-6281286538754}
+      ALLOWED_ORIGINS: ${ALLOWED_ORIGINS:-}
+      STORAGE_PROVIDER: ${STORAGE_PROVIDER:-local}
+      STORAGE_LOCAL_PATH: ${STORAGE_LOCAL_PATH:-/app/storage}
+      CPNS_PNS_STORAGE_ROOT: /usb-uploads/cpns-pns
+      PROMOTION_STORAGE_ROOT: /usb-uploads/kenaikan-pangkat
+      PROMOTION_SCAN_COMMAND: ${PROMOTION_SCAN_COMMAND:-/bin/true}
+      SURAT_MASUK_STORAGE_ROOT: /usb-uploads/surat-masuk
+      SURAT_AUTOMATION_TOKEN: ${SURAT_AUTOMATION_TOKEN:?Set SURAT_AUTOMATION_TOKEN in .env.deploy}
+      SURAT_LINK_SECRET: ${SURAT_LINK_SECRET:?Set SURAT_LINK_SECRET in .env.deploy}
+      UKPD_DEFAULT_PASSWORD: ${UKPD_DEFAULT_PASSWORD:-}
+      TRUST_PROXY_HEADERS: ${TRUST_PROXY_HEADERS:-false}
+      COOKIE_SECURE: ${COOKIE_SECURE:-true}
+      ALLOW_INSECURE_LOCAL_HTTP: ${ALLOW_INSECURE_LOCAL_HTTP:-false}
+    ports:
+      - "${APP_BIND_HOST:-127.0.0.1}:${APP_PORT:-8080}:3000"
+    volumes:
+      - "${UPLOADS_DIR:-/media/devmon/Local Disk/projects/uploads/si-kepegawaian}:/app/storage"
+      - "/DATA/SMART_HRM_UPLOADS/usulan-cpns-pns:/usb-uploads/cpns-pns"
+      - "/DATA/SMART_HRM_UPLOADS/kenaikan-pangkat:/usb-uploads/kenaikan-pangkat"
+      - "/DATA/SMART_HRM_UPLOADS/surat-masuk:/usb-uploads/surat-masuk"
+    read_only: true
+    tmpfs:
+      - /tmp
+      - /app/.next/cache:uid=1000,gid=1000,mode=0755
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    init: true
+    pids_limit: 256

@@ -1,0 +1,222 @@
+PETA UPT KEPMENPAN 11
+LEVEL,BAGAN JABATAN,KELAS,ATASAN LANGSUNG,RUMPUN JABATAN,B PNS,K PNS,S PNS,B NON PNS,K NON PNS,S NON PNS,UNIT KERJA,JENIS PETA
+1,Kepala UP Jamkesjak,12,Kepala Dinas Kesehatan,Jabatan Administrator,1,1,0,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+2,  Administrator Kesehatan Ahli Muda,9,Kepala UP Jamkesjak,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+2,  Administrator Kesehatan Ahli Pertama,8,Kepala UP Jamkesjak,Jabatan Fungsional Keahlian Kesehatan,1,2,-1,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+2,  Kepala Subbagian Tata Usaha,9,Kepala UP Jamkesjak,Jabatan Pengawas,0,1,-1,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+3,    Arsiparis Terampil,6,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keterampilan Non Kesehatan,1,1,0,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+3,    Penelaah Teknis Kebijakan,7,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Ahli,1,2,-1,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+3,    Penata Kelola Sistem dan Teknologi Informasi,7,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Terampil,0,2,-2,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+3,    Pengolah Data dan Informasi,6,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Terampil,1,6,-5,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+3,    ,6,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+3,    ,6,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+3,    Pengadministrasi Perkantoran,5,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+2,  KOORDIANTOR SATUAN PELAKSANA PEMBIAYAAN JAMINAN KESEHATAN,8,Kepala UP Jamkesjak,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+3,    Pengolah Data dan Informasi,6,KOORDIANTOR SATUAN PELAKSANA PEMBIAYAAN JAMINAN KESEHATAN,Jabatan Pelaksana Teknis Tingkat Terampil,2,4,-2,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+2,  KOORDIANTOR SATUAN PELAKSANA KEPERSETAAN JAMINAN KESEHATAN,8,Kepala UP Jamkesjak,Jabatan Pelaksana Satuan,1,1,0,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+3,    Pengolah Data dan Informasi,6,KOORDIANTOR SATUAN PELAKSANA KEPERSETAAN JAMINAN KESEHATAN,Jabatan Pelaksana Teknis Tingkat Terampil,1,3,-2,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+2,  KOORDIANTOR SATUAN PELAKSANA PEMASARAN DAN PENGELOLAAN ADUAN,8,Kepala UP Jamkesjak,Jabatan Pelaksana Satuan,1,1,0,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+3,    Pengolah Data dan Informasi,6,KOORDIANTOR SATUAN PELAKSANA PEMASARAN DAN PENGELOLAAN ADUAN,Jabatan Pelaksana Teknis Tingkat Terampil,0,3,-3,0,0,0,UPT Jaminan Kesehatan Jakarta,JAMKESJA
+1,Kepala UPT Laboratorium Kesehatan Daerah,12,Kepala Dinas Kesehatan,Jabatan Administrator,1,1,0,0,0,0,UPT Labkesda,LABKESDA
+2,  Administrator Kesehatan Ahli Madya,9,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT Labkesda,LABKESDA
+2,  Administrator Kesehatan Ahli Muda,8,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT Labkesda,LABKESDA
+2,  Administrator Kesehatan Ahli Pertama,7,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT Labkesda,LABKESDA
+2,  Apoteker Ahli Madya,11,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT Labkesda,LABKESDA
+2,  Apoteker Ahli Muda,9,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,UPT Labkesda,LABKESDA
+2,  Apoteker Ahli Pertama,8,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,0,0,2,4,-2,UPT Labkesda,LABKESDA
+2,  Asisten Apoteker Penyelia,8,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT Labkesda,LABKESDA
+2,  Asisten Apoteker Mahir,7,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT Labkesda,LABKESDA
+2,  Asisten Apoteker Terampil,6,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT Labkesda,LABKESDA
+2,  Dokter Ahli Muda,10,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,1,1,0,1,1,0,UPT Labkesda,LABKESDA
+2,  Dokter Ahli Pertama,9,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,1,2,-1,UPT Labkesda,LABKESDA
+2,  Pranata Laboratorium Kesehatan Ahli Madya,11,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,UPT Labkesda,LABKESDA
+2,  Pranata Laboratorium Kesehatan Ahli Muda,9,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,2,2,0,0,0,0,UPT Labkesda,LABKESDA
+2,  Pranata Laboratorium Kesehatan Ahli Pertama,8,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,2,3,-1,10,12,-2,UPT Labkesda,LABKESDA
+2,  Pranata Laboratorium Kesehatan Penyelia,8,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,1,0,1,UPT Labkesda,LABKESDA
+2,  Pranata Laboratorium Kesehatan Mahir,7,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,0,0,0,UPT Labkesda,LABKESDA
+2,  Pranata Laboratorium Kesehatan Terampil,6,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,44,62,-18,UPT Labkesda,LABKESDA
+2,  Teknisi Elektromedis Ahli Madya,9,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT Labkesda,LABKESDA
+2,  Teknisi Elektromedis Ahli Muda,9,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,UPT Labkesda,LABKESDA
+2,  Teknisi Elektromedis Ahli Pertama,8,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,0,0,1,1,0,UPT Labkesda,LABKESDA
+2,  Teknisi Elektromedis Terampil,6,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,UPT Labkesda,LABKESDA
+2,  Tenaga Sanitasi Lingkungan Ahli Pertama,8,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,2,2,0,UPT Labkesda,LABKESDA
+2,  Epidemiolog Kesehatan Ahli Pertama,8,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,UPT Labkesda,LABKESDA
+2,  Tenaga Sanitasi Lingkungan Terampil,6,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT Labkesda,LABKESDA
+2,  Entomolog Kesehatan Ahli Pertama,8,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,UPT Labkesda,LABKESDA
+2,  KEPALA SUB BAGIAN TATA USAHA,9,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Pengawas,1,1,0,0,0,0,UPT Labkesda,LABKESDA
+3,    Arsiparis Terampil,6,KEPALA SUB BAGIAN TATA USAHA,Jabatan Fungsional Keterampilan Non Kesehatan,1,1,0,0,0,0,UPT Labkesda,LABKESDA
+3,    Penelaah Teknis Kebijakan,7,KEPALA SUB BAGIAN TATA USAHA,Jabatan Pelaksana Teknis Tingkat Ahli,3,3,0,0,0,0,UPT Labkesda,LABKESDA
+3,    ,,KEPALA SUB BAGIAN TATA USAHA,Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,0,0,0,UPT Labkesda,LABKESDA
+3,    Pengolah Data dan Informasi,6,KEPALA SUB BAGIAN TATA USAHA,Jabatan Pelaksana Teknis Tingkat Terampil,1,7,-6,7,7,0,UPT Labkesda,LABKESDA
+3,    Pengadministrasi Perkantoran,5,KEPALA SUB BAGIAN TATA USAHA,Jabatan Pelaksana Administrasi Tingkat Terampil,1,0,1,8,9,-1,UPT Labkesda,LABKESDA
+2,  KOORDIANTOR Satuan Pelaksana Laboratorium Doping dan Kimia,8,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Pelaksana Satuan,1,1,0,0,0,0,UPT Labkesda,LABKESDA
+3,    Pengolah Data dan Informasi,6,KOORDIANTOR Satuan Pelaksana Laboratorium Doping dan Kimia,Jabatan Pelaksana Teknis Tingkat Terampil,2,2,0,4,4,0,UPT Labkesda,LABKESDA
+3,    Pengadministrasi Perkantoran,5,KOORDIANTOR Satuan Pelaksana Laboratorium Doping dan Kimia,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,2,2,0,UPT Labkesda,LABKESDA
+3,    Operator Layanan Kesehatan,3,KOORDIANTOR Satuan Pelaksana Laboratorium Doping dan Kimia,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,0,1,-1,UPT Labkesda,LABKESDA
+2,  KOORDIANTOR Satuan Pelaksana Laboratorium Kesehatan Masyarakat,8,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,UPT Labkesda,LABKESDA
+3,    Pengolah Data dan Informasi,6,KOORDIANTOR Satuan Pelaksana Laboratorium Kesehatan Masyarakat,Jabatan Pelaksana Teknis Tingkat Terampil,1,1,0,5,5,0,UPT Labkesda,LABKESDA
+3,    Pengadministrasi Perkantoran,5,KOORDIANTOR Satuan Pelaksana Laboratorium Kesehatan Masyarakat,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,2,2,0,UPT Labkesda,LABKESDA
+3,    Operator Layanan Kesehatan,3,KOORDIANTOR Satuan Pelaksana Laboratorium Kesehatan Masyarakat,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,0,0,0,UPT Labkesda,LABKESDA
+2,  KOORDIANTOR Satuan Pelaksana Laboratorium Pemeliharaan dan Kalibrasi,8,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,UPT Labkesda,LABKESDA
+3,    Pengelola Layanan Kesehatan,6,KOORDIANTOR Satuan Pelaksana Laboratorium Pemeliharaan dan Kalibrasi,Jabatan Pelaksana Teknis Tingkat Terampil,0,1,-1,2,2,0,UPT Labkesda,LABKESDA
+2,  KOORDIANTOR Satuan Pelaksana Kesehatan Kota,8,Kepala UPT Laboratorium Kesehatan Daerah,Jabatan Pelaksana Satuan,0,4,-4,0,0,0,UPT Labkesda,LABKESDA
+3,    Pengelola Layanan Kesehatan,6,KOORDIANTOR Satuan Pelaksana Kesehatan Kota,Jabatan Pelaksana Teknis Tingkat Terampil,0,1,-1,2,2,0,UPT Labkesda,LABKESDA
+1,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,12,Kepala Dinas Kesehatan,Jabatan Administrator,1,1,0,0,0,0,UPT PK3D,PK3D
+2,  Administrator Kesehatan Ahli Madya,9,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT PK3D,PK3D
+2,  Administrator Kesehatan Ahli Muda,8,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT PK3D,PK3D
+2,  Administrator Kesehatan Ahli Pertama,7,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT PK3D,PK3D
+2,  Apoteker Ahli Muda,9,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT PK3D,PK3D
+2,  Apoteker Ahli Pertama,8,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,1,-1,UPT PK3D,PK3D
+2,  Dokter Ahli Muda,10,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,UPT PK3D,PK3D
+2,  Dokter Ahli Pertama,9,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,4,13,-9,UPT PK3D,PK3D
+2,  Perawat Ahli Muda,9,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,4,-4,0,0,0,UPT PK3D,PK3D
+2,  Perawat Ahli Pertama,8,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,5,-5,4,18,-14,UPT PK3D,PK3D
+2,  Perawat Penyelia,8,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,122,-121,UPT PK3D,PK3D
+2,  Perawat Mahir,7,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,10,213,-203,UPT PK3D,PK3D
+2,  Perawat Terampil,6,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Fungsional Keterampilan Kesehatan,0,24,-24,26,402,-376,UPT PK3D,PK3D
+2,  Psikolog Klinis Ahli Pertama,7,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Fungsional Keahlian Kesehatan,0,0,0,12,16,-4,UPT PK3D,PK3D
+2,  Tenaga Sanitasi Lingkungan Penyelia,8,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PK3D,PK3D
+2,  Tenaga Sanitasi Lingkungan Mahir,7,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PK3D,PK3D
+2,  Tenaga Sanitasi Lingkungan Terampil,6,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PK3D,PK3D
+2,  Kepala Subbagian Tata Usaha,9,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Pengawas,0,1,-1,0,0,0,UPT PK3D,PK3D
+3,    Arsiparis Terampil,6,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keterampilan Non Kesehatan,0,1,-1,0,0,0,UPT PK3D,PK3D
+3,    Penelaah Teknis Kebijakan,7,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Ahli,4,3,1,0,0,0,UPT PK3D,PK3D
+3,    Penelaah Teknis Kebijakan,7,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Ahli,4,1,3,0,0,0,UPT PK3D,PK3D
+3,    Penata Kelola Sistem dan Teknologi Informasi,7,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Terampil,1,2,-1,1,0,1,UPT PK3D,PK3D
+3,    Pengolah Data dan Informasi,6,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Terampil,0,2,-2,15,19,-4,UPT PK3D,PK3D
+3,    Pengadministrasi Perkantoran,5,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,17,20,-3,UPT PK3D,PK3D
+3,    Operator Layanan Kesehatan,3,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,0,11,-11,UPT PK3D,PK3D
+2,  Koordinator Satuan Pelaksana Pelayanan Ambulans Gawat Darurat),8,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,UPT PK3D,PK3D
+3,    Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Pelayanan Ambulans Gawat Darurat),Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,3,4,-1,UPT PK3D,PK3D
+3,    Nahkoda,6,Koordinator Satuan Pelaksana Pelayanan Ambulans Gawat Darurat),Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,4,8,-4,UPT PK3D,PK3D
+3,    Kepala Kamar Mesin,6,Koordinator Satuan Pelaksana Pelayanan Ambulans Gawat Darurat),Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,4,4,0,UPT PK3D,PK3D
+3,    Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Pelayanan Ambulans Gawat Darurat),Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,23,23,0,UPT PK3D,PK3D
+3,    Kelasi,5,Koordinator Satuan Pelaksana Pelayanan Ambulans Gawat Darurat),Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,16,16,0,UPT PK3D,PK3D
+3,    Operator Layanan Operasional,4,Koordinator Satuan Pelaksana Pelayanan Ambulans Gawat Darurat),Jabatan Pelaksana Pelayan Tingkat Terampil,0,0,0,0,9,-9,UPT PK3D,PK3D
+2,  Koordinator Satuan Pelaksana Sumber Daya dan Pemberdayaan Masyarakat),8,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,UPT PK3D,PK3D
+3,    Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Sumber Daya dan Pemberdayaan Masyarakat),Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,7,10,-3,UPT PK3D,PK3D
+3,    Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Sumber Daya dan Pemberdayaan Masyarakat),Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,25,25,0,UPT PK3D,PK3D
+3,    Operator Layanan Kesehatan,3,Koordinator Satuan Pelaksana Sumber Daya dan Pemberdayaan Masyarakat),Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,0,0,0,UPT PK3D,PK3D
+2,  Koordinator Satuan Pelaksana Pengelolaan Sistem Penanggulangan Gawat Darurat Terpadu (SPDGT) dan Krisis Kesehatan),8,Kepala UPT Pusat Krisis dan Kegawatdaruratan Kesehatan Daerah,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,UPT PK3D,PK3D
+3,    Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Pengelolaan Sistem Penanggulangan Gawat Darurat Terpadu (SPDGT) dan Krisis Kesehatan),Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,3,3,0,UPT PK3D,PK3D
+3,    Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Pengelolaan Sistem Penanggulangan Gawat Darurat Terpadu (SPDGT) dan Krisis Kesehatan),Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,3,5,-2,UPT PK3D,PK3D
+1,KEPALA UPT PPKP,12,Kepala Dinas Kesehatan,Jabatan Administrator,1,1,0,0,0,0,UPT PPKP,PPKP
+2,  Administrator Kesehatan Ahli Madya,10,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Administrator Kesehatan Ahli Muda,9,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Administrator Kesehatan Ahli Pertama,7,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Apoteker Ahli Muda,9,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Apoteker Ahli Pertama,8,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,1,1,0,10,11,-1,UPT PPKP,PPKP
+2,  Asisten Apoteker Penyelia,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Asisten Apoteker Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Asisten Apoteker Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,UPT PPKP,PPKP
+2,  Bidan Ahli Muda,9,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,UPT PPKP,PPKP
+2,  Bidan Ahli Pertama,8,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,1,-1,UPT PPKP,PPKP
+2,  Bidan Penyelia,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,2,2,0,0,0,0,UPT PPKP,PPKP
+2,  Bidan Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Bidan Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,2,2,0,UPT PPKP,PPKP
+2,  Dokter Ahli Utama,14,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Dokter Ahli Madya,12,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,5,3,2,0,0,0,UPT PPKP,PPKP
+2,  Dokter Ahli Muda,10,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,2,6,-4,0,0,0,UPT PPKP,PPKP
+2,  Dokter Ahli Pertama,8,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,9,11,-2,UPT PPKP,PPKP
+2,  Dokter Gigi Ahli Utama,14,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,2,0,2,0,0,0,UPT PPKP,PPKP
+2,  Dokter Gigi Ahli Madya,12,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,5,4,1,0,0,0,UPT PPKP,PPKP
+2,  Dokter Gigi Ahli Muda,10,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,2,-2,UPT PPKP,PPKP
+2,  Dokter Gigi Ahli Pertama,9,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,1,2,-1,8,6,2,UPT PPKP,PPKP
+2,  Fisioterapis Ahli Muda,9,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,UPT PPKP,PPKP
+2,  Fisioterapis Ahli Pertama,8,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,1,-1,UPT PPKP,PPKP
+2,  Fisioterapis Penyelia,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,2,1,1,0,0,0,UPT PPKP,PPKP
+2,  Fisioterapis Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Fisioterapis Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,3,-2,UPT PPKP,PPKP
+2,  Nutrisionis Ahli Madya,11,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,UPT PPKP,PPKP
+2,  Nutrisionis Ahli Muda,9,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Nutrisionis Ahli Pertama,8,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,UPT PPKP,PPKP
+2,  Nutrisionis Penyelia,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Nutrisionis Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Nutrisionis Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Perawat Ahli Muda,9,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,2,2,0,0,0,0,UPT PPKP,PPKP
+2,  Perawat Ahli Pertama,8,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,2,3,-1,1,1,0,UPT PPKP,PPKP
+2,  Perawat Penyelia,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,6,7,-1,0,0,0,UPT PPKP,PPKP
+2,  Perawat Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,2,-2,0,0,0,UPT PPKP,PPKP
+2,  Perawat Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,7,7,0,UPT PPKP,PPKP
+2,  Perekam Medis Penyelia,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Perekam Medis Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Perekam Medis Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,2,2,0,UPT PPKP,PPKP
+2,  Pranata Laboratorium Kesehatan Ahli Muda,9,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Pranata Laboratorium Kesehatan Ahli Pertama,8,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Pranata Laboratorium Kesehatan Penyelia,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Pranata Laboratorium Kesehatan Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,UPT PPKP,PPKP
+2,  Pranata Laboratorium Kesehatan Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,2,2,0,UPT PPKP,PPKP
+2,  Radiografer Penyelia,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Radiografer Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Radiografer Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,2,2,0,UPT PPKP,PPKP
+2,  Teknisi Elektromedis Penyelia,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Teknisi Elektromedis Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Teknisi Elektromedis Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,UPT PPKP,PPKP
+2,  Terapis Gigi dan Mulut Penyelia,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,2,3,-1,0,0,0,UPT PPKP,PPKP
+2,  Terapis Gigi dan Mulut Mahir,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Terapis Gigi dan Mulut Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,5,5,0,UPT PPKP,PPKP
+2,  Refraksionis Optisien Penyelia,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Refraksionis Optisien Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,UPT PPKP,PPKP
+2,  Refraksionis Optisien Terampil,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,UPT PPKP,PPKP
+2,  KEPALA SUBBAGIAN TATA USAHA,9,KEPALA UPT PPKP,Jabatan Pengawas,1,1,0,0,0,0,UPT PPKP,PPKP
+3,    Arsiparis Terampil,6,KEPALA SUBBAGIAN TATA USAHA,Jabatan Fungsional Keterampilan Non Kesehatan,1,1,0,0,0,0,UPT PPKP,PPKP
+3,    Penata Kelola Layanan Kesehatan,7,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,0,0,0,UPT PPKP,PPKP
+3,    Penelaah Teknis Kebijakan,7,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Teknis Tingkat Ahli,2,3,-1,0,0,0,UPT PPKP,PPKP
+3,    Penata Kelola Sistem dan Teknologi Informasi,7,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,0,0,0,UPT PPKP,PPKP
+3,    Pengolah Data dan Informasi,6,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Teknis Tingkat Terampil,2,3,-1,4,4,0,UPT PPKP,PPKP
+3,    Pengadministrasi Perkantoran,5,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,2,3,-1,UPT PPKP,PPKP
+3,    Operator Layanan Operasional,5,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Pelayanan Tingkat Ahli,1,0,1,0,0,0,UPT PPKP,PPKP
+3,    Operator Layanan Operasional,5,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Pelayanan Tingkat Ahli,1,0,1,0,2,-2,UPT PPKP,PPKP
+2,  Koordinator Satuan Pelaksana Pelayanan Medik Upaya Kesehatan Perseorangan,8,KEPALA UPT PPKP,Jabatan Pelaksana Satuan,1,1,0,0,2,-2,UPT PPKP,PPKP
+3,    Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Pelayanan Medik Upaya Kesehatan Perseorangan,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,2,-2,UPT PPKP,PPKP
+3,    Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Pelayanan Medik Upaya Kesehatan Perseorangan,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,2,2,0,UPT PPKP,PPKP
+2,  Koordinator Satuan Pelaksana Program Upaya Kesehatan Masyarakat,8,KEPALA UPT PPKP,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,UPT PPKP,PPKP
+3,    Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Program Upaya Kesehatan Masyarakat,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,2,2,0,UPT PPKP,PPKP
+3,    Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Program Upaya Kesehatan Masyarakat,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,2,2,0,UPT PPKP,PPKP
+2,  KETUA SATUAN PELAKSANA PELAYANAN KESEHATAN DAERAH,8,KEPALA UPT PPKP,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,UPT PPKP,PPKP
+3,    Pengolah Data dan Informasi,6,KETUA SATUAN PELAKSANA PELAYANAN KESEHATAN DAERAH,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,2,2,0,UPT PPKP,PPKP
+3,    Pengadministrasi Perkantoran,5,KETUA SATUAN PELAKSANA PELAYANAN KESEHATAN DAERAH,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,2,2,0,UPT PPKP,PPKP
+1,KEPALA UPT PUSDATIN,12,Kepala Dinas Kesehatan,Jabatan Administrator,1,1,0,0,0,0,UPT Pusdatin,PUSDATIN
+2,  Pranata Humas Ahli Madya,11,Kepala UPT Pusdatin,Jabatan Fungsional Keahlian Non Kesehatan,0,1,-1,0,0,0,UPT Pusdatin,PUSDATIN
+2,  Pranata Komputer Ahli Madya,11,Kepala UPT Pusdatin,Jabatan Fungsional Keahlian Non Kesehatan,0,1,-1,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Pranata Humas Ahli Muda,9,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Non Kesehatan,0,2,-2,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Pranata Komputer Ahli Muda,9,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Non Kesehatan,1,2,-1,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Statistisi Ahli Muda,9,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Non Kesehatan,0,2,-2,0,0,0,UPT Pusdatin,PUSDATIN
+2,  Administrator Kesehatan Ahli Muda,9,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,UPT Pusdatin,PUSDATIN
+2,  Kepala Subbagian Tata Usaha,9,Kepala UPT Pusdatin,Jabatan Pengawas,1,1,0,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Arsiparis Terampil,6,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keterampilan Non Kesehatan,1,1,0,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Penelaah Teknis Kebijakan,7,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Ahli,2,2,0,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Pengolah Data dan Informasi,6,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Terampil,1,2,-1,0,0,0,UPT Pusdatin,PUSDATIN
+2,  KOORDINATOR SATUAN PELAKSANA DATA DAN INFORMASI,8,Kepala UPT Pusdatin,Jabatan Pelaksana Satuan,1,1,0,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Statistisi Ahli Pertama,8,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Non Kesehatan,3,3,0,0,0,0,UPT Pusdatin,PUSDATIN
+2,  Administrator Kesehatan Ahli Pertama,8,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Pengolah Data dan Informasi,6,KOORDINATOR SATUAN PELAKSANA DATA DAN INFORMASI,Jabatan Pelaksana Teknis Tingkat Ahli,0,0,0,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Pengelola Layanan Operasional,6,KOORDINATOR SATUAN PELAKSANA DATA DAN INFORMASI,Jabatan Pelaksana Teknis Tingkat Terampil,5,3,2,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Penata Kelola Sistem dan Teknologi Informasi,7,KOORDINATOR SATUAN PELAKSANA DATA DAN INFORMASI,Jabatan Pelaksana Teknis Tingkat Ahli,0,0,0,0,0,0,UPT Pusdatin,PUSDATIN
+2,  KOORDINATOR SATUAN PELAKSANA SISTEM INFORMASI,8,Kepala UPT Pusdatin,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Pranata Komputer Ahli Pertama,8,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Non Kesehatan,2,2,0,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Pranata komputer Mahir,7,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keterampilan Non Kesehatan,0,2,-2,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Pranata komputer Terampil,6,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keterampilan Non Kesehatan,2,2,0,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Penata Kelola Sistem dan Teknologi Informasi,7,KOORDINATOR SATUAN PELAKSANA SISTEM INFORMASI,Jabatan Pelaksana Teknis Tingkat Ahli,2,0,2,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Pengelola Layanan Operasional,6,KOORDINATOR SATUAN PELAKSANA SISTEM INFORMASI,Jabatan Pelaksana Teknis Tingkat Terampil,0,2,-2,0,0,0,UPT Pusdatin,PUSDATIN
+2,  KOORDINATOR SATUAN PELAKSANA KEHUMASAN,8,Kepala UPT Pusdatin,Jabatan Pelaksana Satuan,1,1,0,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Pranata Humas Ahli Pertama,8,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Non Kesehatan,2,2,0,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Pranata Humas Penyelia,8,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keterampilan Non Kesehatan,0,1,-1,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Pranata Humas Mahir,6,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keterampilan Non Kesehatan,0,1,-1,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Pranata Humas Terampil,6,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keterampilan Non Kesehatan,1,1,0,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Pengelola Layanan Operasional,6,KOORDINATOR SATUAN PELAKSANA KEHUMASAN,Jabatan Pelaksana Teknis Tingkat Terampil,1,2,-1,0,0,0,UPT Pusdatin,PUSDATIN
+3,    Pengolah Data dan Informasi,6,KOORDINATOR SATUAN PELAKSANA KEHUMASAN,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,UPT Pusdatin,PUSDATIN
+1,KEPALA UPT PUSLATKESDA,12,Kepala Dinas Kesehatan,Jabatan Administrator,1,1,0,0,0,0,UPT Pusat Pelatihan Kesehatan Daerah,PUSLATKESDA
+2,  Administrator Kesehatan Ahli Muda,9,KEPALA UPT PUSLATKESDA,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,UPT Pusat Pelatihan Kesehatan Daerah,PUSLATKESDA
+2,  Administrator Kesehatan Ahli Pertama,8,KEPALA UPT PUSLATKESDA,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,UPT Pusat Pelatihan Kesehatan Daerah,PUSLATKESDA
+2,  Kepala Subbagian Tata Usaha,9,KEPALA UPT PUSLATKESDA,Jabatan Pengawas,1,1,0,0,0,0,UPT Pusat Pelatihan Kesehatan Daerah,PUSLATKESDA
+3,    Pranata Komputer Ahli Pertama,8,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Fungsional Keahlian Non Kesehatan,1,1,0,0,0,0,UPT Pusat Pelatihan Kesehatan Daerah,PUSLATKESDA
+3,    Arsiparis Terampil,6,KEPALA SUBBAGIAN TATA USAHA,Jabatan Fungsional Keterampilan Non Kesehatan,1,1,0,0,0,0,UPT Pusat Pelatihan Kesehatan Daerah,PUSLATKESDA
+3,    Penelaah Teknis Kebijakan,7,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Teknis Tingkat Ahli,3,4,-1,0,0,0,UPT Pusat Pelatihan Kesehatan Daerah,PUSLATKESDA
+3,    Pengolah Data dan Informasi,6,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Teknis Tingkat Terampil,4,8,-4,0,0,0,UPT Pusat Pelatihan Kesehatan Daerah,PUSLATKESDA
+3,    ,,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,UPT Pusat Pelatihan Kesehatan Daerah,PUSLATKESDA
+2,  Ketua Satuan Pelaksana Pelatihan Kesehatan,8,KEPALA UPT PUSLATKESDA,Jabatan Pelaksana Satuan,1,1,0,0,0,0,UPT Pusat Pelatihan Kesehatan Daerah,PUSLATKESDA
+3,    Pengolah Data dan Informasi,6,Ketua Satuan Pelaksana Pelatihan Kesehatan,Jabatan Pelaksana Teknis Tingkat Terampil,4,4,0,0,0,0,UPT Pusat Pelatihan Kesehatan Daerah,PUSLATKESDA
+3,    Pengadministrasi Perkantoran,5,Ketua Satuan Pelaksana Pelatihan Kesehatan,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,UPT Pusat Pelatihan Kesehatan Daerah,PUSLATKESDA
+2,  Ketua Satuan Pelaksana Pengembangan dan Pengendalian Mutu,8,KEPALA UPT PUSLATKESDA,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,UPT Pusat Pelatihan Kesehatan Daerah,PUSLATKESDA
+3,    Pengolah Data dan Informasi,6,Ketua Satuan Pelaksana Pengembangan dan Pengendalian Mutu,Jabatan Pelaksana Teknis Tingkat Terampil,1,3,-2,0,0,0,UPT Pusat Pelatihan Kesehatan Daerah,PUSLATKESDA

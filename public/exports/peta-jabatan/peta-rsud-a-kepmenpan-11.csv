@@ -1,0 +1,233 @@
+PETA RSUD A KEPMENPAN 11
+LEVEL,BAGAN JABATAN,KELAS,ATASAN LANGSUNG,RUMPUN JABATAN,B PNS,K PNS,S PNS,B NON PNS,K NON PNS,S NON PNS,UNIT KERJA,JENIS PETA
+1,DIREKTUR RSUD TARAKAN,14c,Kepala Dinas Kesehatan,Jabatan Pimpinan Tinggi,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+1,WAKIL DIREKTUR ADMINISTRASI UMUM DAN KEUANGAN,14d,Direktur,Jabatan Pimpinan Tinggi,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+1,KOORDINATOR SATUAN PENGAWAS INTERNAL,8,Direktur,Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,KOORDINATOR SATUAN PENGAWAS INTERNAL,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,KOORDINATOR SATUAN PENGAWAS INTERNAL,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+2,  KEPALA BAGIAN UMUM DAN PEMASARAN,12c,Wakil Direktur Administrasi Umum dan Keuangan,Jabatan Administrator,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+1,Arsiparis Mahir,7,Direktur,Jabatan Fungsional Keterampilan Non Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Pelaksana Sekretariat dan Legal,8,Kepala Bagian Umum dan Pemasaran,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+4,      Dokumentalis Hukum,6,Koordinator Satuan Pelaksana Sekretariat dan Legal,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,2,2,0,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Sekretariat dan Legal,Jabatan Pelaksana Teknis Tingkat Terampil,1,3,-2,0,1,-1,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Sekretariat dan Legal,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,7,-6,RSUD Tarakan,RSUD A
+3,"    Koordinator Satuan Pelaksana PKRS (promosi kesehatan), dan kehumasan",8,Kepala Bagian Umum dan Pemasaran,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,"Koordinator Satuan Pelaksana PKRS (promosi kesehatan), dan kehumasan",Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,1,1,0,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,5,"Koordinator Satuan Pelaksana PKRS (promosi kesehatan), dan kehumasan",Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,2,2,0,RSUD Tarakan,RSUD A
+3,    KOORDIANTOR Satuan Pelaksana Rumah Tangga dan Perlengkapan,8,Kepala Bagian Umum dan Pemasaran,Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+4,      Penelaah Teknis Kebijakan,7,KOORDIANTOR Satuan Pelaksana Rumah Tangga dan Perlengkapan,Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+4,      Pengelola Layanan Operasional,6,KOORDIANTOR Satuan Pelaksana Rumah Tangga dan Perlengkapan,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,KOORDIANTOR Satuan Pelaksana Rumah Tangga dan Perlengkapan,Jabatan Pelaksana Teknis Tingkat Terampil,1,2,-1,1,2,-1,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,5,KOORDIANTOR Satuan Pelaksana Rumah Tangga dan Perlengkapan,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,6,-5,RSUD Tarakan,RSUD A
+4,      Operator Layanan Operasional,5,KOORDIANTOR Satuan Pelaksana Rumah Tangga dan Perlengkapan,Jabatan Pelaksana Pelayan Tingkat Terampil,0,0,0,0,2,-2,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Pelaksana pemeliharaan sarana dan prasarana rumah sakit (PSRS),8,Kepala Bagian Umum dan Pemasaran,Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana pemeliharaan sarana dan prasarana rumah sakit (PSRS),Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,3,3,0,RSUD Tarakan,RSUD A
+4,      Operator Layanan Operasional,5,Koordinator Satuan Pelaksana pemeliharaan sarana dan prasarana rumah sakit (PSRS),Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,8,4,4,RSUD Tarakan,RSUD A
+2,"  KEPALA BAGIAN SUMBER DAYA MANUSIA, PENDIDIKAN DAN PENELITIAN",12c,Wakil Direktur Administrasi Umum dan Keuangan,Jabatan Administrator,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Analis SDM Aparatur Ahli Muda,10,"Kepala Bagian Sumber Daya Manusia, Pendidikan dan Penelitian",Jabatan Fungsional Keahlian Non Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Analis SDM Aparatur Ahli Pertama,8,"Kepala Bagian Sumber Daya Manusia, Pendidikan dan Penelitian",Jabatan Fungsional Keahlian Non Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    KOORDINATOR SATUAN PELAKSANA ADMINISTRASI DAN KESEJAHTERAAN SDM,8,"Kepala Bagian Sumber Daya Manusia, Pendidikan dan Penelitian",Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,KOORDINATOR SATUAN PELAKSANA ADMINISTRASI DAN KESEJAHTERAAN SDM,Jabatan Pelaksana Teknis Tingkat Terampil,0,1,-1,3,3,0,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,5,KOORDINATOR SATUAN PELAKSANA ADMINISTRASI DAN KESEJAHTERAAN SDM,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,5,-4,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Pelaksana Perencanaan dan Pendayagunaan SDM,8,"Kepala Bagian Sumber Daya Manusia, Pendidikan dan Penelitian",Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Perencanaan dan Pendayagunaan SDM,Jabatan Pelaksana Teknis Tingkat Terampil,1,1,0,1,1,0,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Perencanaan dan Pendayagunaan SDM,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,1,0,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Pelaksana Pendidikan dan Penelitian,8,"Kepala Bagian Sumber Daya Manusia, Pendidikan dan Penelitian",Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Pendidikan dan Penelitian,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,1,1,0,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Pendidikan dan Penelitian,Jabatan Pelaksana Administrasi Tingkat Terampil,1,0,1,2,2,0,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Pelaksana Pengembangan SDM,8,"Kepala Bagian Sumber Daya Manusia, Pendidikan dan Penelitian",Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Pengembangan SDM,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,1,1,0,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Pengembangan SDM,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+2,  KEPALA BAGIAN KEUANGAN DAN PERENCANAAN,12c,Kepala Bagian Keuangan dan Perencanaan,Jabatan Administrator,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Pelaksana Perbendaharaan dan Verifikasi,8,Kepala Bagian Keuangan dan Perencanaan,Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+4,      Penelaah Teknis Kebijakan,7,Koordinator Satuan Pelaksana Perbendaharaan dan Verifikasi,Jabatan Pelaksana Teknis Tingkat Ahli,3,3,0,0,0,0,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Perbendaharaan dan Verifikasi,Jabatan Pelaksana Teknis Tingkat Terampil,0,2,-2,1,3,-2,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Perbendaharaan dan Verifikasi,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,11,11,0,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Pelaksana Perencanaan dan Anggaran,8,Kepala Bagian Keuangan dan Perencanaan,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Perencanaan dan Anggaran,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Perencanaan dan Anggaran,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,1,0,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Pelaksana Akuntansi,8,Kepala Bagian Keuangan dan Perencanaan,Jabatan Pelaksana Satuan,0,1,-1,1,0,1,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Akuntansi,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,2,3,-1,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,6,Koordinator Satuan Pelaksana Akuntansi,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Pelaksana Mobilisasi Dana,8,Kepala Bagian Keuangan dan Perencanaan,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Mobilisasi Dana,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,2,2,0,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Mobilisasi Dana,Jabatan Pelaksana Administrasi Tingkat Terampil,1,0,1,8,7,1,RSUD Tarakan,RSUD A
+4,      Operator Layanan Operasional,5,Koordinator Satuan Pelaksana Mobilisasi Dana,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,26,28,-2,RSUD Tarakan,RSUD A
+2,  KEPALA BAGIAN DATA DAN TEKNOLOGI INFORMASI,12,Kepala Bagian Data dan Teknologi Informasi,Jabatan Administrator,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+3,    Pranata Komputer Ahli Pertama,8,Kepala Bagian Data dan Teknologi Informasi,Jabatan Fungsional Keahlian Non Kesehatan,0,1,-1,2,2,0,RSUD Tarakan,RSUD A
+3,    Pranata Komputer Penyelia,8,Kepala Bagian Data dan Teknologi Informasi,Jabatan Fungsional Keterampilan Non Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Pranata komputer Mahir,7,Kepala Bagian Data dan Teknologi Informasi,Jabatan Fungsional Keterampilan Non Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Pranata komputer Terampil,6,Kepala Bagian Data dan Teknologi Informasi,Jabatan Fungsional Keterampilan Non Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Pelaksana Pengembangan Sistem Informasi dan Aplikasi,8,Kepala Bagian Data dan Teknologi Informasi,Jabatan Pelaksana Satuan,0,0,0,1,1,0,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Pengembangan Sistem Informasi dan Aplikasi,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,1,1,0,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Pelaksana Pengelolaan sistem dan Analisa Data,8,Kepala Bagian Data dan Teknologi Informasi,Jabatan Pelaksana Satuan,0,0,0,1,1,0,RSUD Tarakan,RSUD A
+4,      Penata Kelola Sistem dan Teknologi Informasi,6,Koordinator Satuan Pelaksana Pengelolaan sistem dan Analisa Data,Jabatan Pelaksana Teknis Tingkat Terampil,1,1,0,1,0,1,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Pengelolaan sistem dan Analisa Data,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,1,3,-2,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Pengelolaan sistem dan Analisa Data,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,5,-4,RSUD Tarakan,RSUD A
+4,      Operator Layanan Operasional,5,Koordinator Satuan Pelaksana Pengelolaan sistem dan Analisa Data,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Pelaksana Pengelolaan Sarana Informasi dan Teknologi,8,Kepala Bagian Data dan Teknologi Informasi,Jabatan Pelaksana Satuan,0,0,0,1,1,0,RSUD Tarakan,RSUD A
+2,  Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Pengelolaan Sarana Informasi dan Teknologi,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,1,3,-2,RSUD Tarakan,RSUD A
+1,WAKIL DIREKTUR PELAYANAN,14d,Direktur,Jabatan Pimpinan Tinggi,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+2,  KEPALA BIDANG PELAYANAN MEDIK,12c,Wakil Direktur Pelayanan,Jabatan Administrator,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+3,    Administrator Kesehatan Ahli Madya,11,Kepala Bidang Pelayanan Medik,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+3,    Administrator Kesehatan Ahli Muda,9,Kepala Bidang Pelayanan Medik,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+3,    Administrator Kesehatan Ahli Pertama,8,Kepala Bidang Pelayanan Medik,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,7,-7,RSUD Tarakan,RSUD A
+1,Dokter Ahli Utama,14,Direktur,Jabatan Fungsional Keahlian Kesehatan,7,20,-13,1,22,-21,RSUD Tarakan,RSUD A
+3,    Dokter Ahli Madya,12,Kepala Bidang Pelayanan Medik,Jabatan Fungsional Keahlian Kesehatan,9,31,-22,22,68,-46,RSUD Tarakan,RSUD A
+3,    Dokter Ahli Muda,10,Kepala Bidang Pelayanan Medik,Jabatan Fungsional Keahlian Kesehatan,8,26,-18,38,124,-86,RSUD Tarakan,RSUD A
+3,    Dokter Ahli Pertama,9,Kepala Bidang Pelayanan Medik,Jabatan Fungsional Keahlian Kesehatan,15,29,-14,38,51,-13,RSUD Tarakan,RSUD A
+1,Dokter Gigi Ahli Utama,14,Direktur,Jabatan Fungsional Keahlian Kesehatan,4,8,-4,0,2,-2,RSUD Tarakan,RSUD A
+3,    Dokter Gigi Ahli Madya,12,Kepala Bidang Pelayanan Medik,Jabatan Fungsional Keahlian Kesehatan,1,3,-2,1,4,-3,RSUD Tarakan,RSUD A
+3,    Dokter Gigi Ahli Muda,10,Kepala Bidang Pelayanan Medik,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,1,3,-2,RSUD Tarakan,RSUD A
+3,    Dokter Gigi Ahli Pertama,9,Kepala Bidang Pelayanan Medik,Jabatan Fungsional Keahlian Kesehatan,0,4,-4,0,3,-3,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Instalasi Gawat Darurat,8,Kepala Bidang Pelayanan Medik,Jabatan Pelaksana Satuan,0,1,-1,1,0,1,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Instalasi Rawat jalan,8,Kepala Bidang Pelayanan Medik,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Instalasi Rawat Inap,8,Kepala Bidang Pelayanan Medik,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Instalasi Bedah Sentral,8,Kepala Bidang Pelayanan Medik,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Instalasi Rawat Intensif,8,Kepala Bidang Pelayanan Medik,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+2,  KEPALA BIDANG PELAYANAN KEPERAWATAN,12c,Wakil Direktur Pelayanan,Jabatan Administrator,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+1,Perawat Ahli Utama,13,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Perawat Ahli Madya,11,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,14,15,-1,1,30,-29,RSUD Tarakan,RSUD A
+3,    Perawat Ahli Muda,9,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,9,67,-58,68,107,-39,RSUD Tarakan,RSUD A
+3,    Perawat Ahli Pertama,8,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,57,120,-63,131,205,-74,RSUD Tarakan,RSUD A
+3,    Perawat Penyelia,8,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,12,20,-8,11,32,-21,RSUD Tarakan,RSUD A
+3,    Perawat Mahir,7,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,13,34,-21,127,150,-23,RSUD Tarakan,RSUD A
+3,    Perawat Terampil,6,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,29,64,-35,101,153,-52,RSUD Tarakan,RSUD A
+3,    Bidan Ahli Madya,11,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,2,2,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Bidan Ahli Muda,9,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,1,-1,RSUD Tarakan,RSUD A
+3,    Bidan Ahli Pertama,8,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,2,6,-4,0,3,-3,RSUD Tarakan,RSUD A
+3,    Bidan Penyelia,8,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,4,-4,0,4,-4,RSUD Tarakan,RSUD A
+3,    Bidan Mahir,7,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,10,13,-3,RSUD Tarakan,RSUD A
+3,    Bidan Terampil,6,Kepala Bidang Pelayanan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,1,7,-6,7,15,-8,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Pelayanan Mutu Asuhan Keperawatan dan Kebidanan,8,Kepala Bidang Pelayanan Keperawatan,Jabatan Pelaksana Satuan,0,0,0,1,1,0,RSUD Tarakan,RSUD A
+4,      Operator Layanan Kesehatan,5,Koordinator Satuan Pelayanan Mutu Asuhan Keperawatan dan Kebidanan,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Pelayanan Logistik Keperawatan dan Kebidanan,8,Kepala Bidang Pelayanan Keperawatan,Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,5,Koordinator Satuan Pelayanan Logistik Keperawatan dan Kebidanan,Jabatan Pelaksana Administrasi Tingkat Terampil,1,0,1,0,0,0,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Pelayanan SDM Keperawatan dan Kebidanan,8,Kepala Bidang Pelayanan Keperawatan,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Pelayanan Mobilisasi Keperawatan dan Kebidanan,8,Kepala Bidang Pelayanan Keperawatan,Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+2,  KEPALA BIDANG PELAYANAN PENUNJANG,12c,Wakil Direktur Pelayanan,Jabatan Administrator,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Psikolog Ahli Klinis Madya,11,Kepala Bidang Pelayanan Medik,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+3,    Psikolog Ahli Klinis Muda,9,Kepala Bidang Pelayanan Medik,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Psikolog Ahli Klinis Pertama,8,Kepala Bidang Pelayanan Medik,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Penata Anestesi Ahli Madya,11,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Penata Anestesi Ahli Muda,9,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,2,-2,RSUD Tarakan,RSUD A
+3,    Penata Anestesi Ahli Pertama,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,3,7,-4,RSUD Tarakan,RSUD A
+3,    Asisten Penata Anestesi Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,2,-2,0,2,-2,RSUD Tarakan,RSUD A
+3,    Asisten Penata Anestesi Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,3,-3,2,5,-3,RSUD Tarakan,RSUD A
+3,    Asisten Penata Anestesi Terampil,6,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,3,8,-5,4,4,0,RSUD Tarakan,RSUD A
+3,    Terapis Gigi dan Mulut Ahli Madya,11,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Terapis Gigi dan Mulut Ahli Muda,9,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Terapis Gigi dan Mulut Ahli Pertama,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+3,    Terapis Gigi dan Mulut Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+3,    Terapis Gigi dan Mulut Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,1,1,0,RSUD Tarakan,RSUD A
+3,    Terapis Gigi dan Mulut Terampil,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,1,1,0,RSUD Tarakan,RSUD A
+3,    Teknisi Elektromedis Ahli Madya,11,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Teknisi Elektromedis Ahli Muda,9,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Teknisi Elektromedis Ahli Pertama,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,2,2,0,0,1,-1,RSUD Tarakan,RSUD A
+3,    Teknisi Elektromedis Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Teknisi Elektromedis Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Teknisi Elektromedis Terampil,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,2,2,0,0,4,-4,RSUD Tarakan,RSUD A
+1,Apoteker Ahli Utama,13,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Apoteker Ahli Madya,11,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,1,-1,RSUD Tarakan,RSUD A
+3,    Apoteker Ahli Muda,9,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,2,9,-7,RSUD Tarakan,RSUD A
+3,    Apoteker Ahli Pertama,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,3,3,0,10,19,-9,RSUD Tarakan,RSUD A
+3,    Asisten Apoteker Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,4,-3,0,5,-5,RSUD Tarakan,RSUD A
+3,    Asisten Apoteker Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,4,-3,7,11,-4,RSUD Tarakan,RSUD A
+3,    Asisten Apoteker Terampil,6,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,2,5,-3,21,35,-14,RSUD Tarakan,RSUD A
+3,    Radiografer Ahli Madya,11,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+3,    Radiografer Ahli Muda,9,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+3,    Radiografer Ahli Pertama,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,2,2,0,6,11,-5,RSUD Tarakan,RSUD A
+3,    Radiografer Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,0,2,-2,RSUD Tarakan,RSUD A
+3,    Radiografer Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,2,-2,6,6,0,RSUD Tarakan,RSUD A
+3,    Radiografer Terampil,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,3,3,0,3,9,-6,RSUD Tarakan,RSUD A
+3,    Pranata Laboratorium Kesehatan Ahli Madya,11,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,1,-1,RSUD Tarakan,RSUD A
+3,    Pranata Laboratorium Kesehatan Ahli Muda,9,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,1,-1,RSUD Tarakan,RSUD A
+3,    Pranata Laboratorium Kesehatan Ahli Pertama,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,2,-1,8,10,-2,RSUD Tarakan,RSUD A
+3,    Pranata Laboratorium Kesehatan Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,4,-3,2,7,-5,RSUD Tarakan,RSUD A
+3,    Pranata Laboratorium Kesehatan Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,3,5,-2,9,9,0,RSUD Tarakan,RSUD A
+3,    Pranata Laboratorium Kesehatan Terampil,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,2,4,-2,8,19,-11,RSUD Tarakan,RSUD A
+3,    Fisioterapis Ahli Madya,11,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Fisioterapis Ahli Muda,9,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Fisioterapis Ahli Pertama,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,2,-1,2,3,-1,RSUD Tarakan,RSUD A
+3,    Fisioterapis Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,0,1,-1,RSUD Tarakan,RSUD A
+3,    Fisioterapis Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,2,-2,1,2,-1,RSUD Tarakan,RSUD A
+3,    Fisioterapis Terampil,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,2,3,-1,0,2,-2,RSUD Tarakan,RSUD A
+3,    Okupasi Terapis Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Okupasi Terapis Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+3,    Okupasi Terapis Terampil,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,1,2,-1,RSUD Tarakan,RSUD A
+3,    Perekam Medis dan Informasi Kesehatan Ahli Madya,11,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Perekam Medis dan Informasi Kesehatan Ahli Muda,9,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+3,    Perekam Medis dan Informasi Kesehatan Ahli Pertama,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,1,-1,RSUD Tarakan,RSUD A
+3,    Perekam Medis dan Informasi Kesehatan Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,3,-3,RSUD Tarakan,RSUD A
+3,    Perekam Medis dan Informasi Kesehatan Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,2,-2,9,10,-1,RSUD Tarakan,RSUD A
+3,    Perekam Medis dan Informasi Kesehatan Terampil,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,3,-2,3,6,-3,RSUD Tarakan,RSUD A
+3,    Pembimbing Kesehatan Kerja Ahli Madya,11,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Pembimbing Kesehatan Kerja Ahli Muda,9,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Pembimbing Kesehatan Kerja Ahli Pertama,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,1,-1,RSUD Tarakan,RSUD A
+3,    Tenaga Sanitasi Lingkungan Ahli Madya,11,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Tenaga Sanitasi Lingkungan Ahli Muda,9,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+3,    Tenaga Sanitasi Lingkungan Ahli Pertama,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,2,-1,0,1,-1,RSUD Tarakan,RSUD A
+3,    Tenaga Sanitasi Lingkungan Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Tenaga Sanitasi Lingkungan Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Tenaga Sanitasi Lingkungan Terampil,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,1,2,-1,RSUD Tarakan,RSUD A
+3,    Nutrisionis Ahli Madya,11,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+3,    Nutrisionis Ahli Muda,9,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+3,    Nutrisionis Ahli Pertama,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,1,1,0,RSUD Tarakan,RSUD A
+3,    Nutrisionis Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+3,    Nutrisionis Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,4,6,-2,RSUD Tarakan,RSUD A
+3,    Nutrisionis Terampil,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,4,10,-6,RSUD Tarakan,RSUD A
+3,    Terapis Wicara Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Terapis Wicara Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+3,    Terapis Wicara Terampil,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,1,2,-1,RSUD Tarakan,RSUD A
+3,    Fisikawan Medis Ahli Madya,11,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Fisikawan Medis Ahli Muda,9,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Fisikawan Medis Ahli Pertama,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,1,-1,RSUD Tarakan,RSUD A
+3,    Teknisi Transfusi Darah Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+3,    Teknisi Transfusi Darah Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,3,-3,RSUD Tarakan,RSUD A
+3,    Teknisi Transfusi Darah Terampil,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,2,3,-1,7,12,-5,RSUD Tarakan,RSUD A
+3,    Refraksionis Optisien Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+3,    Refraksionis Optisien Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Tarakan,RSUD A
+3,    Refraksionis Optisien Terampil,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,0,1,-1,RSUD Tarakan,RSUD A
+3,    Teknisi Gigi Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+3,    Teknisi Gigi Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Teknisi Gigi Terampil,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+1,Epidemiolog Kesehatan Ahli Utama,10,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Epidemiolog Kesehatan Ahli Madya,11,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Epidemiolog Kesehatan Ahli Muda,9,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Epidemiolog Kesehatan Ahli Pertama,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Ortotis Prostetis Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Ortotis Prostetis Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Ortotis Prostetis Terampil,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+1,Promosi Kesehatan dan Ilmu Perilaku Ahli Utama,10,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Promosi Kesehatan dan Ilmu Perilaku Ahli Madya,11,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Promosi Kesehatan dan Ilmu Perilaku Ahli Muda,9,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Promosi Kesehatan dan Ilmu Perilaku Ahli Pertama,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Promosi Kesehatan dan Ilmu Perilaku Penyelia,8,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Promosi Kesehatan dan Ilmu Perilaku Mahir,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Promosi Kesehatan dan Ilmu Perilaku Terampil,7,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Instalasi Farmasi,8,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+4,      Pengelola Layanan Kesehatan,6,Koordinator Satuan Instalasi Farmasi,Jabatan Pelaksana Teknis Tingkat Terampil,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,5,Koordinator Satuan Instalasi Farmasi,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,2,4,-2,RSUD Tarakan,RSUD A
+4,      Operator Layanan Kesehatan,5,Koordinator Satuan Instalasi Farmasi,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,9,9,0,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Instalasi Rekam Medis,8,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,1,-1,1,0,1,RSUD Tarakan,RSUD A
+4,      Pengelola Layanan Kesehatan,6,Koordinator Satuan Instalasi Rekam Medis,Jabatan Pelaksana Teknis Tingkat Terampil,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,5,Koordinator Satuan Instalasi Rekam Medis,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,9,9,0,RSUD Tarakan,RSUD A
+4,      Operator Layanan Kesehatan,5,Koordinator Satuan Instalasi Rekam Medis,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,5,17,-12,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Instalasi Laboratorium,8,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+4,      Operator Laboratorium,6,Koordinator Satuan Instalasi Laboratorium,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,2,-2,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,5,Koordinator Satuan Instalasi Laboratorium,Jabatan Pelaksana Administrasi Tingkat Terampil,1,0,1,0,0,0,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Instalasi Radiologi,8,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+4,      Pengelola Layanan Kesehatan,6,Koordinator Satuan Instalasi Radiologi,Jabatan Pelaksana Teknis Tingkat Terampil,2,1,1,2,2,0,RSUD Tarakan,RSUD A
+4,      Pengelola Layanan Kesehatan,6,Koordinator Satuan Instalasi Radiologi,Jabatan Pelaksana Teknis Tingkat Terampil,2,1,1,2,0,2,RSUD Tarakan,RSUD A
+4,      Pengadministrasi Perkantoran,5,Koordinator Satuan Instalasi Radiologi,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Instalasi Gizi,8,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+4,      Pengelola Layanan Kesehatan,6,Koordinator Satuan Instalasi Gizi,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+4,      Operator Layanan Kesehatan,5,Koordinator Satuan Instalasi Gizi,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,15,16,-1,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Instalasi Penunjang Khusus,8,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Tarakan,RSUD A
+4,      Pengelola Layanan Kesehatan,6,Koordinator Satuan Instalasi Penunjang Khusus,Jabatan Pelaksana Teknis Tingkat Terampil,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+4,      Operator Layanan Kesehatan,5,Koordinator Satuan Instalasi Penunjang Khusus,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,15,19,-4,RSUD Tarakan,RSUD A
+4,      Operator Layanan Kesehatan,5,Koordinator Satuan Instalasi Penunjang Khusus,Jabatan Pelaksana Pelayanan Tingkat Ahli,0,0,0,15,2,13,RSUD Tarakan,RSUD A
+3,    Koordinator Satuan Instalasi Penunjang terapi,8,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Tarakan,RSUD A
+4,      Pengelola Layanan Kesehatan,6,Koordinator Satuan Instalasi Penunjang terapi,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,1,1,0,RSUD Tarakan,RSUD A
+3,"    Koordinator Satuan Instalasi K3KL (Kesehatan, Keselamatan Kerja dan Kesehatan Lingkungan)",8,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Tarakan,RSUD A
+4,      Pengelola Layanan Kesehatan,6,"Koordinator Satuan Instalasi K3KL (Kesehatan, Keselamatan Kerja dan Kesehatan Lingkungan)",Jabatan Pelaksana Teknis Tingkat Terampil,1,1,0,0,0,0,RSUD Tarakan,RSUD A

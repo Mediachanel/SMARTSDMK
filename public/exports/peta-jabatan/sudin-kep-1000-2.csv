@@ -1,0 +1,47 @@
+MATRIKS JABATAN UKPD SUKU DINAS SERIBU
+No.,Nomenklatur ORB/Pergub,Kelas ORB,Nomenklatur Kepmenpan,Kelas Kepmenpan,Atasan Langsung,Rumpun Jabatan,Suku Dinas Kesehatan Kepulauan Seribu - B ASN,Suku Dinas Kesehatan Kepulauan Seribu - K ASN,Suku Dinas Kesehatan Kepulauan Seribu - S ASN,Suku Dinas Kesehatan Kepulauan Seribu - B NON-ASN,Suku Dinas Kesehatan Kepulauan Seribu - K NON-ASN,Suku Dinas Kesehatan Kepulauan Seribu - S NON-ASN,TOTAL - B ASN,TOTAL - K ASN,TOTAL - S ASN,TOTAL - B NON-ASN,TOTAL - K NON-ASN,TOTAL - S NON-ASN
+1,Kepala Suku Dinas Kesehatan,12,Kepala Suku Dinas Kesehatan,12,Kepala Dinas,Jabatan Administrator,1,1,0,0,0,0,1,1,0,0,0,0
+2,Administrator Kesehatan Ahli Madya,9,Administrator Kesehatan Ahli Madya,11,Kepala Suku Dinas Kesehatan,Jabatan Fungsional Keahlian Kesehatan,0,4,-4,0,0,0,0,4,-4,0,0,0
+3,Epidemiolog Kesehatan Ahli Madya,9,Epidemiolog Kesehatan Ahli Madya,11,Kepala Suku Dinas Kesehatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+4,Promosi Kesehatan dan Ilmu Perilaku Ahli Madya,9,Promosi Kesehatan dan Ilmu Perilaku Ahli Madya,11,Kepala Suku Dinas Kesehatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+5,Kepala Subbagian Tata Usaha,9,Kepala Subbagian Tata Usaha,9,Kepala Suku Dinas Kesehatan,Jabatan Pengawas,1,1,0,0,0,0,1,1,0,0,0,0
+6,Pranata Komputer Ahli Pertama,7,Pranata Komputer Ahli Pertama,8,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Non Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+7,Arsiparis Terampil,7,Arsiparis Terampil,6,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keterampilan Non Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+8,Administrator Kesehatan Ahli Muda,8,Administrator Kesehatan Ahli Muda,9,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Kesehatan,1,2,-1,0,0,0,1,2,-1,0,0,0
+9,Administrator Kesehatan Ahli Pertama,7,Administrator Kesehatan Ahli Pertama,8,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Kesehatan,1,4,-3,0,0,0,1,4,-3,0,0,0
+10,Analis SDM Aparatur Ahli Muda,8,Analis SDM Aparatur Ahli Muda,10,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Non Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+11,Analis SDM Aparatur Ahli Pertama,7,Analis SDM Aparatur Ahli Pertama,8,Kepala Subbagian Tata Usaha,Jabatan Fungsional Keahlian Non Kesehatan,1,1,0,0,0,0,1,1,0,0,0,0
+12,Bendahara,7,Penelaah Teknis Kebijakan,7,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Ahli,2,1,1,0,0,0,2,1,1,0,0,0
+13,Pengolah Data Sistem dan Informasi,7,Penata Kelola Sistem dan Teknologi Informasi,7,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Ahli,3,3,0,0,0,0,3,3,0,0,0,0
+14,Pengelola Tata Usaha,7,Penelaah Teknis Kebijakan,7,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Ahli,1,3,-2,0,0,0,1,3,-2,0,0,0
+15,"Pengolah Data, pengolah kearsipan, verifikator",7,Pengolah Data dan Informasi,6,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Teknis Tingkat Terampil,1,5,-4,0,0,0,1,5,-4,0,0,0
+16,Pengadministrasi Umum,6,Pengadministrasi Perkantoran,5,Kepala Subbagian Tata Usaha,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,0,0,0,0,0,0
+17,Kepala Seksi Kesehatan Masyarakat,9,Kepala Seksi Kesehatan Masyarakat,9,Kepala Suku Dinas Kesehatan,Jabatan Pengawas,1,1,0,0,0,0,1,1,0,0,0,0
+18,Promosi Kesehatan dan Ilmu Perilaku Ahli Muda,7,Promosi Kesehatan dan Ilmu Perilaku Ahli Muda,9,Kepala Seksi Kesehatan Masyarakat,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+19,Promosi Kesehatan dan Ilmu Perilaku Ahli Pertama,7,Promosi Kesehatan dan Ilmu Perilaku Ahli Pertama,8,Kepala Seksi Kesehatan Masyarakat,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+20,Pembimbing Kesehatan Kerja Ahli Muda,8,Pembimbing Kesehatan Kerja Ahli Muda,9,Kepala Seksi Kesehatan Masyarakat,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+21,Pembimbing Kesehatan Kerja Ahli Pertama,7,Pembimbing Kesehatan Kerja Ahli Pertama,8,Kepala Seksi Kesehatan Masyarakat,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,1,1,0,0,0,0
+22,Administrator Kesehatan Ahli Muda,8,Administrator Kesehatan Ahli Muda,9,Kepala Seksi Kesehatan Masyarakat,Jabatan Fungsional Keahlian Kesehatan,0,3,-3,0,0,0,0,3,-3,0,0,0
+23,Administrator Kesehatan Ahli Pertama,7,Administrator Kesehatan Ahli Pertama,8,Kepala Seksi Kesehatan Masyarakat,Jabatan Fungsional Keahlian Kesehatan,3,6,-3,0,0,0,3,6,-3,0,0,0
+24,Pengelola Kesehatan Masyarakat,7,Penelaah Teknis Kebijakan,7,Kepala Seksi Kesehatan Masyarakat,Jabatan Pelaksana Teknis Tingkat Ahli,1,0,1,0,0,0,1,0,1,0,0,0
+25,Pengolah Kesehatan Masyarakat,7,Pengolah Data dan Informasi,6,Kepala Seksi Kesehatan Masyarakat,Jabatan Pelaksana Teknis Tingkat Terampil,3,3,0,0,0,0,3,3,0,0,0,0
+26,Pengadministrasi Kesehatan Masyarakat,6,Pengadministrasi Perkantoran,5,Kepala Seksi Kesehatan Masyarakat,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,0,0,0,0,0,0
+27,Kepala Seksi Pencegahan dan Pengendalian Penyakit,9,Kepala Seksi Pencegahan Dan Pengendalian Penyakit,9,Kepala Suku Dinas Kesehatan,Jabatan Pengawas,1,1,0,0,0,0,1,1,0,0,0,0
+28,Administrator Kesehatan Ahli Muda,8,Administrator Kesehatan Ahli Muda,9,Kepala Seksi Pencegahan Dan Pengendalian Penyakit,Jabatan Fungsional Keahlian Kesehatan,2,3,-1,0,0,0,2,3,-1,0,0,0
+29,Administrator Kesehatan Ahli Pertama,7,Administrator Kesehatan Ahli Pertama,8,Kepala Seksi Pencegahan Dan Pengendalian Penyakit,Jabatan Fungsional Keahlian Kesehatan,3,5,-2,0,0,0,3,5,-2,0,0,0
+30,Epidemiolog Kesehatan Ahli Muda,8,Epidemiolog Kesehatan Ahli Muda,9,Kepala Seksi Pencegahan Dan Pengendalian Penyakit,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,0,2,-2,0,0,0
+31,Epidemiolog Kesehatan Ahli Pertama,7,Epidemiolog Kesehatan Ahli Pertama,8,Kepala Seksi Pencegahan Dan Pengendalian Penyakit,Jabatan Fungsional Keahlian Kesehatan,0,3,-3,0,0,0,0,3,-3,0,0,0
+32,Entomolog Kesehatan Ahli Muda,8,Entomolog Kesehatan Ahli Muda,9,Kepala Seksi Pencegahan Dan Pengendalian Penyakit,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+33,Entomolog Kesehatan Ahli Pertama,7,Entomolog Kesehatan Ahli Pertama,8,Kepala Seksi Pencegahan Dan Pengendalian Penyakit,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,1,1,0,0,0,0
+34,Tenaga Sanitasi Lingkungan Ahli Muda,8,Tenaga Sanitasi Lingkungan Ahli Muda,9,Kepala Seksi Pencegahan Dan Pengendalian Penyakit,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+35,Tenaga Sanitasi Lingkungan Ahli Pertama,7,Tenaga Sanitasi Lingkungan Ahli Pertama,8,Kepala Seksi Pencegahan Dan Pengendalian Penyakit,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,0,2,-2,0,0,0
+36,Pengelola Pencegahan Dan Pengendalian Penyakit,7,Penelaah Teknis Kebijakan,7,Kepala Seksi Pencegahan Dan Pengendalian Penyakit,Jabatan Pelaksana Teknis Tingkat Ahli,2,0,2,0,0,0,2,0,2,0,0,0
+37,Pengolah Pencegahan Dan Pengendalian Penyakit,7,Pengolah Data dan Informasi,6,Kepala Seksi Pencegahan Dan Pengendalian Penyakit,Jabatan Pelaksana Teknis Tingkat Terampil,1,2,-1,0,0,0,1,2,-1,0,0,0
+38,Pengadministrasi Sumber Daya Kesehatan,6,Pengadministrasi Perkantoran,5,Kepala Seksi Pencegahan Dan Pengendalian Penyakit,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,0,0,0,0,0,0
+39,Kepala Seksi Pelayanan dan SDK,9,Kepala Seksi Pelayanan dan SDK,9,Kepala Suku Dinas Kesehatan,Jabatan Pengawas,1,1,0,0,0,0,1,1,0,0,0,0
+40,Administrator Kesehatan Ahli Muda,8,Administrator Kesehatan Ahli Muda,9,Kepala Seksi Pelayanan dan SDK,Jabatan Fungsional Keahlian Kesehatan,3,3,0,0,0,0,3,3,0,0,0,0
+41,Administrator Kesehatan Ahli Pertama,7,Administrator Kesehatan Ahli Pertama,8,Kepala Seksi Pelayanan dan SDK,Jabatan Fungsional Keahlian Kesehatan,4,5,-1,0,0,0,4,5,-1,0,0,0
+42,Pengelola Pelayanan Kesehatan + Pengurus Barang,7,Penelaah Teknis Kebijakan,7,Kepala Seksi Pelayanan dan SDK,Jabatan Pelaksana Teknis Tingkat Ahli,1,2,-1,0,0,0,1,2,-1,0,0,0
+43,Pengolah Sumber Daya Kesehatan,7,Pengolah Data dan Informasi,6,Kepala Seksi Pelayanan dan SDK,Jabatan Pelaksana Teknis Tingkat Terampil,4,4,0,0,0,0,4,4,0,0,0,0
+44,Pengolah Pelayanan Kesehatan,7,Pengelola Layanan Kesehatan,6,Kepala Seksi Pelayanan dan SDK,Jabatan Pelaksana Teknis Tingkat Terampil,1,2,-1,0,0,0,1,2,-1,0,0,0
+45,Pengadministrasi Pelayanan Kesehatan,6,Pengadministrasi Perkantoran,5,Kepala Seksi Pelayanan dan SDK,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,0,0,0,0,0,0

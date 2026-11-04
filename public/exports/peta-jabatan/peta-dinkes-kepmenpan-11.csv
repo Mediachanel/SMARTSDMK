@@ -1,0 +1,155 @@
+PETA DINKES KEPMENPAN 11
+LEVEL,BAGAN JABATAN,KELAS,ATASAN LANGSUNG,RUMPUN JABATAN,B PNS,K PNS,S PNS,B NON PNS,K NON PNS,S NON PNS,UNIT KERJA,JENIS PETA
+1,Kepala Dinas,15,Gubernur,Jabatan Pimpinan Tinggi,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Wakil Kepala Dinas,14,Kepala Dinas,Jabatan Pimpinan Tinggi,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Sekretaris Dinas Kesehatan,12,Kepala Dinas,Jabatan Administrator,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Perencana Ahli Madya,12,Sekretaris Dinas Kesehatan,Jabatan Fungsional Keahlian Non Kesehatan,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Arsiparis Ahli Madya,11,Sekretaris Dinas Kesehatan,Jabatan Fungsional Keahlian Non Kesehatan,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+1,Kepala Subbagian Umum,9,Sekretaris Dinas,Jabatan Pengawas,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Pranata Komputer Ahli Muda,9,Kepala Subbagian Umum,Jabatan Fungsional Keahlian Non Kesehatan,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Pranata Komputer Ahli Pertama,8,Kepala Subbagian Umum,Jabatan Fungsional Keahlian Non Kesehatan,0,2,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Arsiparis Ahli Muda,9,Kepala Subbagian Umum,Jabatan Fungsional Keahlian Non Kesehatan,1,2,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Arsiparis Ahli Pertama,8,Kepala Subbagian Umum,Jabatan Fungsional Keahlian Non Kesehatan,0,2,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Arsiparis Penyelia,8,Kepala Subbagian Umum,Jabatan Fungsional Keterampilan Non Kesehatan,0,2,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Arsiparis Mahir,7,Kepala Subbagian Umum,Jabatan Fungsional Keterampilan Non Kesehatan,0,2,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,Kepala Subbagian Umum,Jabatan Pelaksana Teknis Tingkat Ahli,5,3,2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Pengolah Data dan Informasi,6,Kepala Subbagian Umum,Jabatan Pelaksana Teknis Tingkat Terampil,0,3,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Pengadministrasi Perkantoran,5,Kepala Subbagian Umum,Jabatan Pelaksana Administrasi Tingkat Terampil,1,0,1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+1,Perencana Ahli Muda (Ketua Sub Kelompok Perencanaan Program dan Anggaran),9,Sekretaris Dinas,Jabatan Fungsional Keahlian Non Kesehatan,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Perencana Ahli Muda,10,Perencana Ahli Muda (Ketua Sub Kelompok Perencanaan Program dan Anggaran),Jabatan Fungsional Keahlian Non Kesehatan,0,2,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Perencana Ahli Pertama,8,Perencana Ahli Muda (Ketua Sub Kelompok Perencanaan Program dan Anggaran),Jabatan Fungsional Keahlian Non Kesehatan,1,4,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Muda,9,Perencana Ahli Muda (Ketua Sub Kelompok Perencanaan Program dan Anggaran),Jabatan Fungsional Keahlian Kesehatan,0,3,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Pertama,8,Perencana Ahli Muda (Ketua Sub Kelompok Perencanaan Program dan Anggaran),Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,Perencana Ahli Muda (Ketua Sub Kelompok Perencanaan Program dan Anggaran),Jabatan Pelaksana Teknis Tingkat Ahli,4,0,4,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Dokumentalis Hukum,6,Perencana Ahli Muda (Ketua Sub Kelompok Perencanaan Program dan Anggaran),Jabatan Pelaksana Teknis Tingkat Terampil,0,2,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+1,Kepala Subbagian Pengendalian Kinerja dan Pembiayaan Kesehatan,9,Sekretaris Dinas,Jabatan Pengawas,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Muda,9,Kepala Subbagian Pengendalian Kinerja dan Pembiayaan Kesehatan,Jabatan Fungsional Keahlian Kesehatan,0,3,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Pertama,8,Kepala Subbagian Pengendalian Kinerja dan Pembiayaan Kesehatan,Jabatan Fungsional Keahlian Kesehatan,0,3,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,Kepala Subbagian Pengendalian Kinerja dan Pembiayaan Kesehatan,Jabatan Pelaksana Teknis Tingkat Ahli,4,0,4,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Pengolah Data dan Informasi,6,Kepala Subbagian Pengendalian Kinerja dan Pembiayaan Kesehatan,Jabatan Pelaksana Teknis Tingkat Terampil,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Dokumentalis Hukum,6,Kepala Subbagian Pengendalian Kinerja dan Pembiayaan Kesehatan,Jabatan Pelaksana Teknis Tingkat Terampil,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+1,Kepala Subbagian Keuangan,9,Sekretaris Dinas,Jabatan Pengawas,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,Kepala Subbagian Keuangan,Jabatan Pelaksana Teknis Tingkat Ahli,7,7,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Pengolah Data dan Informasi,6,Kepala Subbagian Keuangan,Jabatan Pelaksana Teknis Tingkat Terampil,0,6,-6,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Kepala Bidang Sumber Daya Kesehatan,12,Kepala Dinas,Jabatan Administrator,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Administrator Kesehatan Ahli Madya,11,Kepala Bidang Sumber Daya Kesehatan,Jabatan Fungsional Keahlian Kesehatan,0,4,-4,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Kepala Seksi Kefarmasian,9,Kepala Bidang Sumber Daya Kesehatan,Jabatan Pengawas,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Muda,9,Kepala Seksi Kefarmasian,Jabatan Fungsional Keahlian Kesehatan,0,3,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Pertama,8,Kepala Seksi Kefarmasian,Jabatan Fungsional Keahlian Kesehatan,0,6,-6,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Apoteker Ahli Muda,9,Kepala Seksi Kefarmasian,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Apoteker Ahli Pertama,8,Kepala Seksi Kefarmasian,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Asisten Apoteker Penyelia,8,Kepala Seksi Kefarmasian,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Asisten Apoteker Mahir,7,Kepala Seksi Kefarmasian,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,Kepala Seksi Kefarmasian,Jabatan Pelaksana Teknis Tingkat Ahli,4,0,4,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Pengelola Layanan Kesehatan,6,Kepala Seksi Kefarmasian,Jabatan Pelaksana Teknis Tingkat Terampil,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Kepala Subbagian Prasarana dan Sarana,9,Kepala Bidang Sumber Daya Kesehatan,Jabatan Pengawas,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+1,Penata Laksana Barang Terampil,6,Kepala Seksi Prasarana dan Sarana Kesehatan,Jabatan Fungsional Keterampilan Non Kesehatan,3,7,-4,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,Kepala Seksi Prasarana dan Sarana Kesehatan,Jabatan Pelaksana Teknis Tingkat Ahli,5,6,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Pengolah Data dan Informasi,6,Kepala Seksi Prasarana dan Sarana Kesehatan,Jabatan Pelaksana Teknis Tingkat Terampil,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Dokumentalis Hukum,6,Kepala Seksi Prasarana dan Sarana Kesehatan,Jabatan Pelaksana Teknis Tingkat Terampil,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Alat Kesehatan),9,Kepala Bidang Sumber Daya Kesehatan,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Muda,9,Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Alat Kesehatan),Jabatan Fungsional Keahlian Kesehatan,2,3,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Pertama,8,Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Alat Kesehatan),Jabatan Fungsional Keahlian Kesehatan,2,6,-4,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Alat Kesehatan),Jabatan Pelaksana Teknis Tingkat Ahli,1,0,1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Pengelola Layanan Kesehatan,6,Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Alat Kesehatan),Jabatan Pelaksana Teknis Tingkat Terampil,3,2,1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Kepala Bidang Kesehatan Masyarakat,12,Kepala Dinas,Jabatan Administrator,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Administrator Kesehatan Ahli Madya,11,Kepala Bidang Kesehatan Masyarakat,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Promosi Kesehatan dan Ilmu Perilaku Ahli Madya,11,Kepala Bidang Kesehatan Masyarakat,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Pembimbing Kesehatan Kerja Ahli Madya,11,Kepala Bidang Kesehatan Masyarakat,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Kepala Seksi Gizi dan Kesehatan Ibu Anak,9,Kepala Bidang Kesehatan Masyarakat,Jabatan Pengawas,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Muda,9,Kepala Seksi Gizi dan Kesehatan Ibu Anak,Jabatan Fungsional Keahlian Kesehatan,0,6,-6,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Pertama,8,Kepala Seksi Gizi dan Kesehatan Ibu Anak,Jabatan Fungsional Keahlian Kesehatan,0,8,-8,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,Kepala Seksi Gizi dan Kesehatan Ibu Anak,Jabatan Pelaksana Teknis Tingkat Ahli,6,0,6,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Pengelola Layanan Kesehatan,6,Kepala Seksi Gizi dan Kesehatan Ibu Anak,Jabatan Pelaksana Teknis Tingkat Terampil,1,3,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Administrator Kesehatan Ahli Muda (KETUA Sub Kelompok Promosi Kesehatan dan Tata Kelola Kesehatan Masyarakat),9,Kepala Bidang Kesehatan Masyarakat,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Muda,9,Administrator Kesehatan Ahli Muda (KETUA Sub Kelompok Promosi Kesehatan dan Tata Kelola Kesehatan Masyarakat),Jabatan Fungsional Keahlian Kesehatan,3,3,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Pertama,8,Administrator Kesehatan Ahli Muda (KETUA Sub Kelompok Promosi Kesehatan dan Tata Kelola Kesehatan Masyarakat),Jabatan Fungsional Keahlian Kesehatan,3,5,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Promosi Kesehatan dan Ilmu Perilaku Ahli Muda,9,Administrator Kesehatan Ahli Muda (KETUA Sub Kelompok Promosi Kesehatan dan Tata Kelola Kesehatan Masyarakat),Jabatan Fungsional Keahlian Kesehatan,1,2,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Promosi Kesehatan dan Ilmu Perilaku Ahli Pertama,8,Administrator Kesehatan Ahli Muda (KETUA Sub Kelompok Promosi Kesehatan dan Tata Kelola Kesehatan Masyarakat),Jabatan Fungsional Keahlian Kesehatan,3,3,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,Administrator Kesehatan Ahli Muda (KETUA Sub Kelompok Promosi Kesehatan dan Tata Kelola Kesehatan Masyarakat),Jabatan Pelaksana Teknis Tingkat Ahli,1,0,1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Pengelola Layanan Kesehatan,6,Administrator Kesehatan Ahli Muda (KETUA Sub Kelompok Promosi Kesehatan dan Tata Kelola Kesehatan Masyarakat),Jabatan Pelaksana Teknis Tingkat Terampil,2,2,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,"    Kepala Seksi Kesehatan Usia Produktif, Lanjut Usia dan Kesehatan Jiwa",9,Kepala Bidang Kesehatan Masyarakat,Jabatan Pengawas,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Pembimbing Kesehatan Kerja Ahli Muda,9,"Kepala Seksi Kesehatan Usia Produktif, Lanjut Usia dan Kesehatan Jiwa",Jabatan Fungsional Keahlian Kesehatan,0,3,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Pembimbing Kesehatan Kerja Ahli Pertama,8,"Kepala Seksi Kesehatan Usia Produktif, Lanjut Usia dan Kesehatan Jiwa",Jabatan Fungsional Keahlian Kesehatan,0,3,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Muda,9,"Kepala Seksi Kesehatan Usia Produktif, Lanjut Usia dan Kesehatan Jiwa",Jabatan Fungsional Keahlian Kesehatan,1,3,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Pertama,8,"Kepala Seksi Kesehatan Usia Produktif, Lanjut Usia dan Kesehatan Jiwa",Jabatan Fungsional Keahlian Kesehatan,0,5,-5,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,"Kepala Seksi Kesehatan Usia Produktif, Lanjut Usia dan Kesehatan Jiwa",Jabatan Pelaksana Teknis Tingkat Ahli,7,0,7,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Pengolah Data dan Informasi,6,"Kepala Seksi Kesehatan Usia Produktif, Lanjut Usia dan Kesehatan Jiwa",Jabatan Pelaksana Teknis Tingkat Terampil,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Kepala Bidang Pencegahan dan Pengendalian Penyakit,12,Kepala Dinas,Jabatan Administrator,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Administrator Kesehatan Ahli Madya,11,Kepala Bidang Pencegahan dan Pengendalian Penyakit,Jabatan Fungsional Keahlian Kesehatan,0,4,-4,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Epidemiolog Kesehatan Ahli Madya,11,Kepala Bidang Pencegahan dan Pengendalian Penyakit,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Entomolog Kesehatan Ahli Madya,11,Kepala Bidang Pencegahan dan Pengendalian Penyakit,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Tenaga Sanitasi Lingkungan Ahli Madya,11,Kepala Bidang Pencegahan dan Pengendalian Penyakit,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,"    Kepala Seksi Surveilans, Epidemiologi dan Imunisasi",9,Kepala Bidang Pencegahan dan Pengendalian Penyakit,Jabatan Pengawas,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Muda,9,"Kepala Seksi Surveilans, Epidemiologi dan Imunisasi",Jabatan Fungsional Keahlian Kesehatan,1,2,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Pertama,8,"Kepala Seksi Surveilans, Epidemiologi dan Imunisasi",Jabatan Fungsional Keahlian Kesehatan,0,4,-4,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Epidemiolog Kesehatan Ahli Muda,9,"Kepala Seksi Surveilans, Epidemiologi dan Imunisasi",Jabatan Fungsional Keahlian Kesehatan,0,3,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Epidemiolog Kesehatan Ahli Pertama,8,"Kepala Seksi Surveilans, Epidemiologi dan Imunisasi",Jabatan Fungsional Keahlian Kesehatan,1,5,-4,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Epidemiolog Kesehatan Penyelia,8,"Kepala Seksi Surveilans, Epidemiologi dan Imunisasi",Jabatan Fungsional Keterampilan Kesehatan,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Epidemiolog Kesehatan Mahir,7,"Kepala Seksi Surveilans, Epidemiologi dan Imunisasi",Jabatan Fungsional Keterampilan Kesehatan,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Epidemiolog Kesehatan Terampil,6,"Kepala Seksi Surveilans, Epidemiologi dan Imunisasi",Jabatan Fungsional Keterampilan Kesehatan,0,3,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,"Kepala Seksi Surveilans, Epidemiologi dan Imunisasi",Jabatan Pelaksana Teknis Tingkat Ahli,0,0,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Pengelola Layanan Kesehatan,6,"Kepala Seksi Surveilans, Epidemiologi dan Imunisasi",Jabatan Pelaksana Teknis Tingkat Terampil,2,1,1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Penyehatan Lingkungan),9,Kepala Bidang Pencegahan dan Pengendalian Penyakit,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Muda,9,Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Penyehatan Lingkungan),Jabatan Fungsional Keahlian Kesehatan,2,2,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Pertama,8,Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Penyehatan Lingkungan),Jabatan Fungsional Keahlian Kesehatan,2,4,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Tenaga Sanitasi Lingkungan Ahli Muda,9,Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Penyehatan Lingkungan),Jabatan Fungsional Keahlian Kesehatan,3,4,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Tenaga Sanitasi Lingkungan Ahli Pertama,8,Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Penyehatan Lingkungan),Jabatan Fungsional Keahlian Kesehatan,3,6,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Penyehatan Lingkungan),Jabatan Pelaksana Teknis Tingkat Ahli,0,0,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Pengelola Layanan Kesehatan,6,Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Penyehatan Lingkungan),Jabatan Pelaksana Teknis Tingkat Terampil,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,"    Kepala Seksi Pengendalian Penyakit Menular, dan Penyakit Tidak Menular",9,Kepala Bidang Pencegahan dan Pengendalian Penyakit,Jabatan Pengawas,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Muda,9,"Kepala Seksi Pengendalian Penyakit Menular, dan Penyakit Tidak Menular",Jabatan Fungsional Keahlian Kesehatan,2,5,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Pertama,8,"Kepala Seksi Pengendalian Penyakit Menular, dan Penyakit Tidak Menular",Jabatan Fungsional Keahlian Kesehatan,0,7,-7,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Epidemiolog Kesehatan Ahli Muda,9,"Kepala Seksi Pengendalian Penyakit Menular, dan Penyakit Tidak Menular",Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Epidemiolog Kesehatan Ahli Pertama,8,"Kepala Seksi Pengendalian Penyakit Menular, dan Penyakit Tidak Menular",Jabatan Fungsional Keahlian Kesehatan,0,3,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Entomolog Kesehatan Ahli Muda,9,"Kepala Seksi Pengendalian Penyakit Menular, dan Penyakit Tidak Menular",Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Entomolog Kesehatan Ahli Pertama,8,"Kepala Seksi Pengendalian Penyakit Menular, dan Penyakit Tidak Menular",Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,"Kepala Seksi Pengendalian Penyakit Menular, dan Penyakit Tidak Menular",Jabatan Pelaksana Teknis Tingkat Ahli,0,0,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Pengelola Layanan Kesehatan,6,"Kepala Seksi Pengendalian Penyakit Menular, dan Penyakit Tidak Menular",Jabatan Pelaksana Teknis Tingkat Terampil,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Kepala Bidang Pelayanan Kesehatan,12,Kepala Dinas,Jabatan Administrator,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Administrator Kesehatan Ahli Madya,11,Kepala Bidang Pelayanan Kesehatan,Jabatan Fungsional Keahlian Kesehatan,1,5,-4,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Kepala Seksi Pelayanan Kesehatan Rujukan,9,Kepala Bidang Pelayanan Kesehatan,Jabatan Pengawas,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Muda,9,Kepala Seksi Pelayanan Kesehatan Rujukan,Jabatan Fungsional Keahlian Kesehatan,0,7,-7,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Pertama,8,Kepala Seksi Pelayanan Kesehatan Rujukan,Jabatan Fungsional Keahlian Kesehatan,0,8,-8,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Promosi Kesehatan dan Ilmu Perilaku Ahli Pertama,8,Kepala Seksi Pelayanan Kesehatan Rujukan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,Kepala Seksi Pelayanan Kesehatan Rujukan,Jabatan Pelaksana Teknis Tingkat Ahli,2,0,2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Pengelola Layanan Kesehatan,6,Kepala Seksi Pelayanan Kesehatan Rujukan,Jabatan Pelaksana Teknis Tingkat Terampil,0,4,-4,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Pengadministrasi Perkantoran,5,Kepala Seksi Pelayanan Kesehatan Rujukan,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Kepala Seksi Pelayanan Kesehatan Primer,9,Kepala Bidang Pelayanan Kesehatan,Jabatan Pengawas,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Muda,9,Kepala Seksi Pelayanan Kesehatan Primer,Jabatan Fungsional Keahlian Kesehatan,0,5,-5,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Pertama,8,Kepala Seksi Pelayanan Kesehatan Primer,Jabatan Fungsional Keahlian Kesehatan,0,8,-8,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Promosi Kesehatan dan Ilmu Perilaku Ahli Pertama,8,Kepala Seksi Pelayanan Kesehatan Rujukan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,Kepala Seksi Pelayanan Kesehatan Primer,Jabatan Pelaksana Teknis Tingkat Ahli,0,0,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Pengelola Layanan Kesehatan,6,Kepala Seksi Pelayanan Kesehatan Primer,Jabatan Pelaksana Teknis Tingkat Terampil,1,4,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Standarisasi Mutu Pelayanan Kesehatan),9,Kepala Bidang Pelayanan Kesehatan,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Muda,9,Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Standarisasi Mutu Pelayanan Kesehatan),Jabatan Fungsional Keahlian Kesehatan,1,4,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Pertama,8,Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Standarisasi Mutu Pelayanan Kesehatan),Jabatan Fungsional Keahlian Kesehatan,5,5,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Standarisasi Mutu Pelayanan Kesehatan),Jabatan Pelaksana Teknis Tingkat Ahli,0,0,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Dokumentalis Hukum,6,Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Standarisasi Mutu Pelayanan Kesehatan),Jabatan Pelaksana Teknis Tingkat Terampil,0,2,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+4,      Pengelola Layanan Kesehatan,6,Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Standarisasi Mutu Pelayanan Kesehatan),Jabatan Pelaksana Teknis Tingkat Terampil,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Pengadministrasi Perkantoran,5,Administrator Kesehatan Ahli Muda (Ketua Sub Kelompok Standarisasi Mutu Pelayanan Kesehatan),Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Kepala Bidang Sumber Daya Manusia Kesehatan,12,Kepala Dinas,Jabatan Administrator,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Analis SDM Aparatur Ahli Madya,12,Kepala Bidang Sumber Daya Manusia Kesehatan,Jabatan Fungsional Keahlian Non Kesehatan,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Administrator Kesehatan Ahli Madya,9,Kepala Bidang Sumber Daya Manusia Kesehatan,Jabatan Fungsional Keahlian Kesehatan,1,4,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Kepala Seksi Tenaga Kesehatan,9,Kepala Bidang Sumber Daya Manusia Kesehatan,Jabatan Pengawas,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Muda,9,Kepala Seksi Tenaga Kesehatan,Jabatan Fungsional Keahlian Kesehatan,0,5,-5,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Pertama,8,Kepala Seksi Tenaga Kesehatan,Jabatan Fungsional Keahlian Kesehatan,0,7,-7,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,Kepala Seksi Tenaga Kesehatan,Jabatan Pelaksana Teknis Tingkat Ahli,1,0,1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Pengolah Data dan Informasi,6,Kepala Seksi Tenaga Kesehatan,Jabatan Pelaksana Teknis Tingkat Terampil,0,2,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Dokumentalis Hukum,6,Kepala Seksi Tenaga Kesehatan,Jabatan Pelaksana Teknis Tingkat Terampil,0,2,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Pengadministrasi Perkantoran,5,Kepala Seksi Tenaga Kesehatan,Jabatan Pelaksana Administrasi Tingkat Ahli,0,0,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Kepala Seksi Standarisasi dan Pengembangan Sumber Daya Manusia Kesehatan,9,Kepala Bidang Sumber Daya Manusia Kesehatan,Jabatan Pengawas,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Muda,9,Kepala Seksi Standarisasi dan Pengembangan Sumber Daya Manusia Kesehatan,Jabatan Fungsional Keahlian Kesehatan,1,4,-3,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Administrator Kesehatan Ahli Pertama,8,Kepala Seksi Standarisasi dan Pengembangan Sumber Daya Manusia Kesehatan,Jabatan Fungsional Keahlian Kesehatan,1,7,-6,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Penelaah Teknis Kebijakan,7,Kepala Seksi Standarisasi dan Pengembangan Sumber Daya Manusia Kesehatan,Jabatan Pelaksana Teknis Tingkat Ahli,0,0,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Pengolah Data dan Informasi,6,Kepala Seksi Standarisasi dan Pengembangan Sumber Daya Manusia Kesehatan,Jabatan Pelaksana Teknis Tingkat Terampil,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Dokumentalis Hukum,6,Kepala Seksi Standarisasi dan Pengembangan Sumber Daya Manusia Kesehatan,Jabatan Pelaksana Teknis Tingkat Terampil,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+3,    Analis Kepegawaian Ahli Muda (Ketua Sub Kelompok Kepegawaian),9,Kepala Bidang Sumber Daya Manusia Kesehatan,Jabatan Fungsional Keahlian Non Kesehatan,1,1,0,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+1,Analis SDM Aparatur Ahli Muda,10,Analis SDM Aparatur Ahli Muda (Ketua Sub Kelompok Kepegawaian),Jabatan Fungsional Keahlian Non Kesehatan,0,6,-6,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+1,Analis SDM Aparatur Ahli Pertama,8,Analis SDM Aparatur Ahli Muda (Ketua Sub Kelompok Kepegawaian),Jabatan Fungsional Keahlian Non Kesehatan,1,8,-7,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+1,Pranata SDM Aparatur Penyelia,8,Analis SDM Aparatur Ahli Muda (Ketua Sub Kelompok Kepegawaian),Jabatan Fungsional Keahlian Non Kesehatan,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+1,Pranata SDM Aparatur Mahir,7,Analis SDM Aparatur Ahli Muda (Ketua Sub Kelompok Kepegawaian),Jabatan Fungsional Keterampilan Non Kesehatan,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+1,Analis Sumber Daya Manusia Aparatur,7,Analis SDM Aparatur Ahli Muda (Ketua Sub Kelompok Kepegawaian),Jabatan Pelaksana Teknis Tingkat Ahli,5,0,5,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Pengolah Data dan Informasi,6,Analis SDM Aparatur Ahli Muda (Ketua Sub Kelompok Kepegawaian),Jabatan Pelaksana Teknis Tingkat Terampil,1,3,-2,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Dokumentalis Hukum,6,Analis SDM Aparatur Ahli Muda (Ketua Sub Kelompok Kepegawaian),Jabatan Pelaksana Teknis Tingkat Terampil,0,1,-1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN
+2,  Pengadministrasi Perkantoran,5,Analis SDM Aparatur Ahli Muda (Ketua Sub Kelompok Kepegawaian),Jabatan Pelaksana Administrasi Tingkat Terampil,1,0,1,0,0,0,Dinas Kesehatan,DINAS KESEHATAN

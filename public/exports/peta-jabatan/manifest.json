@@ -1,0 +1,232 @@
+{
+  "status": "ok",
+  "updated_at": "2026-09-23T03:59:37.683080+00:00",
+  "files": {
+    "dinkes.csv": {
+      "rows": 153,
+      "bytes": 29695
+    },
+    "peta-dinkes-kepmenpan-11.csv": {
+      "rows": 154,
+      "bytes": 26885
+    },
+    "peta-puskesmas-kepmenpan-11.csv": {
+      "rows": 3479,
+      "bytes": 487824
+    },
+    "peta-rskd-kepmenpan-11.csv": {
+      "rows": 212,
+      "bytes": 32468
+    },
+    "peta-rsud-a-kepmenpan-11.csv": {
+      "rows": 232,
+      "bytes": 35233
+    },
+    "peta-rsud-b-kepmen-11.csv": {
+      "rows": 682,
+      "bytes": 105860
+    },
+    "peta-rsud-c-kepmen-11-baru-jf.csv": {
+      "rows": 841,
+      "bytes": 128371
+    },
+    "peta-rsud-d-kepmenpan-11-bru-jf.csv": {
+      "rows": 2534,
+      "bytes": 376450
+    },
+    "peta-sudin-1000-kepmenpan-11.csv": {
+      "rows": 46,
+      "bytes": 8377
+    },
+    "peta-sudin-kota-kepmenpan-11.csv": {
+      "rows": 1,
+      "bytes": 158
+    },
+    "peta-upt-kepmenpan-11.csv": {
+      "rows": 221,
+      "bytes": 31876
+    },
+    "puskesmas.csv": {
+      "rows": 95,
+      "bytes": 64563
+    },
+    "rekap-all.csv": {
+      "rows": 1402,
+      "bytes": 248401
+    },
+    "rekap.csv": {
+      "rows": 8392,
+      "bytes": 1517357
+    },
+    "ringkasan.csv": {
+      "rows": 14,
+      "bytes": 584
+    },
+    "rskd-2.csv": {
+      "rows": 211,
+      "bytes": 37695
+    },
+    "rsud-a-2.csv": {
+      "rows": 232,
+      "bytes": 41372
+    },
+    "rsud-b.csv": {
+      "rows": 228,
+      "bytes": 47780
+    },
+    "rsud-c-2.csv": {
+      "rows": 167,
+      "bytes": 38519
+    },
+    "rsud-d.csv": {
+      "rows": 149,
+      "bytes": 57737
+    },
+    "sudin-kep-1000-2.csv": {
+      "rows": 46,
+      "bytes": 8335
+    },
+    "sudin-kota-2.csv": {
+      "rows": 1,
+      "bytes": 241
+    },
+    "upt-jamkesjak.csv": {
+      "rows": 18,
+      "bytes": 3291
+    },
+    "upt-labkesda-2.csv": {
+      "rows": 45,
+      "bytes": 8258
+    },
+    "upt-pk3d.csv": {
+      "rows": 40,
+      "bytes": 7858
+    },
+    "upt-ppkp-2.csv": {
+      "rows": 77,
+      "bytes": 11465
+    },
+    "upt-pusdatin.csv": {
+      "rows": 31,
+      "bytes": 5031
+    },
+    "upt-puslatkesda.csv": {
+      "rows": 15,
+      "bytes": 2739
+    }
+  },
+  "sheets": [
+    {
+      "name": "Ringkasan DB",
+      "file": "ringkasan.csv"
+    },
+    {
+      "name": "rekap",
+      "file": "rekap.csv"
+    },
+    {
+      "name": "Rekap all",
+      "file": "rekap-all.csv"
+    },
+    {
+      "name": "DINKES",
+      "file": "dinkes.csv"
+    },
+    {
+      "name": "SUDIN KOTA (2)",
+      "file": "sudin-kota-2.csv"
+    },
+    {
+      "name": "SUDIN KEP 1000 (2)",
+      "file": "sudin-kep-1000-2.csv"
+    },
+    {
+      "name": "RSUD A  (2)",
+      "file": "rsud-a-2.csv"
+    },
+    {
+      "name": "RSUD B ",
+      "file": "rsud-b.csv"
+    },
+    {
+      "name": "RSKD   (2)",
+      "file": "rskd-2.csv"
+    },
+    {
+      "name": "RSUD C (2)",
+      "file": "rsud-c-2.csv"
+    },
+    {
+      "name": "RSUD D",
+      "file": "rsud-d.csv"
+    },
+    {
+      "name": "UPT PPKP (2)",
+      "file": "upt-ppkp-2.csv"
+    },
+    {
+      "name": "UPT LABKESDA (2)",
+      "file": "upt-labkesda-2.csv"
+    },
+    {
+      "name": "UPT PK3D",
+      "file": "upt-pk3d.csv"
+    },
+    {
+      "name": " UPT PUSDATIN",
+      "file": "upt-pusdatin.csv"
+    },
+    {
+      "name": "UPT PUSLATKESDA",
+      "file": "upt-puslatkesda.csv"
+    },
+    {
+      "name": "UPT JAMKESJAK",
+      "file": "upt-jamkesjak.csv"
+    },
+    {
+      "name": "PUSKESMAS  ",
+      "file": "puskesmas.csv"
+    },
+    {
+      "name": "PETA DINKES KEPMENPAN 11",
+      "file": "peta-dinkes-kepmenpan-11.csv"
+    },
+    {
+      "name": "PETA SUDIN KOTA KEPMENPAN 11",
+      "file": "peta-sudin-kota-kepmenpan-11.csv"
+    },
+    {
+      "name": "PETA SUDIN 1000 KEPMENPAN 11",
+      "file": "peta-sudin-1000-kepmenpan-11.csv"
+    },
+    {
+      "name": "PETA RSUD A KEPMENPAN 11",
+      "file": "peta-rsud-a-kepmenpan-11.csv"
+    },
+    {
+      "name": "PETA RSUD B KEPMEN 11",
+      "file": "peta-rsud-b-kepmen-11.csv"
+    },
+    {
+      "name": "PETA RSKD KEPMENPAN 11",
+      "file": "peta-rskd-kepmenpan-11.csv"
+    },
+    {
+      "name": "PETA RSUD C KEPMEN  11 baru JF",
+      "file": "peta-rsud-c-kepmen-11-baru-jf.csv"
+    },
+    {
+      "name": "PETA RSUD D KEPMENPAN 11 BRU JF",
+      "file": "peta-rsud-d-kepmenpan-11-bru-jf.csv"
+    },
+    {
+      "name": "PETA UPT KEPMENPAN 11",
+      "file": "peta-upt-kepmenpan-11.csv"
+    },
+    {
+      "name": " PETA PUSKESMAS KEPMENPAN 11 ",
+      "file": "peta-puskesmas-kepmenpan-11.csv"
+    }
+  ]
+}

@@ -1,0 +1,842 @@
+PETA RSUD C KEPMEN  11 baru JF
+LEVEL,BAGAN JABATAN,KELAS,ATASAN LANGSUNG,RUMPUN JABATAN,B PNS,K PNS,S PNS,B NON PNS,K NON PNS,S NON PNS,UNIT KERJA,JENIS PETA
+1,Direktur RSUD C,13.0,Kepala Dinas Kesehatan,Jabatan Administrator,1,1,0,0,0,0,RSUD Cilincing,RSUD C
+1,Apoteker Ahli Utama,13.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+1,Dokter Ahli Utama,14.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+1,Dokter Gigi Ahli Utama,14.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+1,Perawat Ahli Utama,13.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+1,Kepala Satuan Pengawas Internal,8.0,Direktur,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Cilincing,RSUD C
+2,  Pengolah Data dan Informasi,6.0,Kepala Satuan Pengawas Internal,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pengolah Data dan Informasi,6.0,Kepala Satuan Pengawas Internal,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+1,KEPALA BAGIAN ADMINISTRASI UMUM DAN KEUANGAN,12.0,Direktur,Jabatan Administrator,1,1,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Penata Kelola Sistem dan Teknologi Informasi,7.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pengolah Data dan Informasi,6.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,8.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Cilincing,RSUD C
+2,  Penata Kelola Sistem dan Teknologi Informasi,7.0,KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pengolah Data dan Informasi,6.0,KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,Jabatan Pelaksana Teknis Tingkat Terampil,1,2,-1,3,3,0,RSUD Cilincing,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,3,3,0,RSUD Cilincing,RSUD C
+2,  KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,8.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Satuan,0,0,0,1,1,0,RSUD Cilincing,RSUD C
+3,    Penelaah Teknis Kebijakan,7.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Teknis Tingkat Ahli,3,3,0,0,0,0,RSUD Cilincing,RSUD C
+3,    Penata Kelola Layanan Kesehatan,7.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Teknis Tingkat Ahli,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pengolah Data dan Informasi,6.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Teknis Tingkat Terampil,1,2,-1,3,3,0,RSUD Cilincing,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,7,7,0,RSUD Cilincing,RSUD C
+2,"  KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",8.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Cilincing,RSUD C
+3,    Penelaah Teknis Kebijakan,7.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pengolah Data dan Informasi,6.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,7,7,0,RSUD Cilincing,RSUD C
+2,  Pengolah Data dan Informasi,6.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,7,0,7,RSUD Cilincing,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,2,2,0,RSUD Cilincing,RSUD C
+3,    Operator Layanan Operasional,4.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Pelayan Tingkat Terampil,0,0,0,3,3,0,RSUD Cilincing,RSUD C
+3,    Operator Layanan Operasional,3.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,4,2,2,RSUD Cilincing,RSUD C
+1,KEPALA BIDANG PELAYANAN MEDIK DAN KEPERAWATAN,12.0,Direktur,Jabatan Administrator,1,1,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Administrator Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Administrator Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Cilincing,RSUD C
+2,  Administrator Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Cilincing,RSUD C
+2,  Bidan Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Bidan Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Cilincing,RSUD C
+2,  Bidan Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,2,2,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Bidan Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Bidan Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,10,10,0,RSUD Cilincing,RSUD C
+2,  Bidan Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,5,6,-1,RSUD Cilincing,RSUD C
+2,  Dokter Ahli Madya,12.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,5,-5,0,0,0,RSUD Cilincing,RSUD C
+2,  Dokter Ahli Muda,10.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,5,7,-2,15,15,0,RSUD Cilincing,RSUD C
+2,  Dokter Ahli Pertama,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,2,4,-2,16,27,-11,RSUD Cilincing,RSUD C
+2,  Dokter Gigi Ahli Madya,12.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Dokter Gigi Ahli Muda,10.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,1,-1,RSUD Cilincing,RSUD C
+2,  Dokter Gigi Ahli Pertama,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,1,0,3,3,0,RSUD Cilincing,RSUD C
+2,  Perawat Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Perawat Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,1,1,0,RSUD Cilincing,RSUD C
+2,  Perawat Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,3,4,-1,3,5,-2,RSUD Cilincing,RSUD C
+2,  Perawat Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Perawat Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,15,15,0,RSUD Cilincing,RSUD C
+2,  Perawat Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,3,3,0,74,84,-10,RSUD Cilincing,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI RAWAT INAP,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Cilincing,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI RAWAT INAP,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI RAWAT INAP,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,2,3,-1,RSUD Cilincing,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI GAWAT DARURAT DAN RAWAT JALAN,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Cilincing,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI GAWAT DARURAT DAN RAWAT JALAN,Jabatan Pelaksana Teknis Tingkat Terampil,0,1,-1,0,0,0,RSUD Cilincing,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI GAWAT DARURAT DAN RAWAT JALAN,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,"  KOORDINATOR SATUAN INSTALASI RAWAT INAP KHUSUS, INTENSIF DAN KAMAR OPERASI",8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Cilincing,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,"KOORDINATOR SATUAN INSTALASI RAWAT INAP KHUSUS, INTENSIF DAN KAMAR OPERASI",Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,"KOORDINATOR SATUAN INSTALASI RAWAT INAP KHUSUS, INTENSIF DAN KAMAR OPERASI",Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+1,KEPALA BIDANG PELAYANAN PENUNJANG,12.0,Direktur,Jabatan Administrator,1,1,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Apoteker Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Apoteker Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Apoteker Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,7,8,-1,RSUD Cilincing,RSUD C
+2,  Asisten Apoteker Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Asisten Apoteker Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,2,2,0,RSUD Cilincing,RSUD C
+2,  Asisten Apoteker Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,9,10,-1,RSUD Cilincing,RSUD C
+2,  Epidemiolog Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Epidemiolog Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Epidemiolog Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Epidemiolog Kesehatan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Epidemiolog Kesehatan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Epidemiolog Kesehatan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Fisioterapis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Fisioterapis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Fisioterapis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Fisioterapis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Fisioterapis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Fisioterapis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,2,3,-1,RSUD Cilincing,RSUD C
+2,  Fisikawan Medis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Fisikawan Medis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Fisikawan Medis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Nutrisionis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Nutrisionis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Nutrisionis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,1,1,0,RSUD Cilincing,RSUD C
+2,  Nutrisionis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Nutrisionis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Nutrisionis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,3,-2,RSUD Cilincing,RSUD C
+2,  Okupasi Terapis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Okupasi Terapis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Okupasi Terapis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Ortotis Prostetis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Ortotis Prostetis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Ortotis Prostetis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pembimbing Kesehatan Kerja Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pembimbing Kesehatan Kerja Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pembimbing Kesehatan Kerja Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,1,1,0,RSUD Cilincing,RSUD C
+2,  Penata Anestesi Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Penata Anestesi Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,1,-1,RSUD Cilincing,RSUD C
+2,  Penata Anestesi Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,1,-1,RSUD Cilincing,RSUD C
+2,  Asisten Penata Anestesi Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Asisten Penata Anestesi Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Asisten Penata Anestesi Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,4,-4,RSUD Cilincing,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,5,7,-2,RSUD Cilincing,RSUD C
+2,  Pranata Laboratorium Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pranata Laboratorium Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pranata Laboratorium Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pranata Laboratorium Kesehatan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pranata Laboratorium Kesehatan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,4,4,0,RSUD Cilincing,RSUD C
+2,  Pranata Laboratorium Kesehatan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,5,6,-1,RSUD Cilincing,RSUD C
+2,  Psikolog Ahli Klinis Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Psikolog Ahli Klinis Muda,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Psikolog Ahli Klinis Pertama,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Radiografer Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Radiografer Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Radiografer Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Radiografer Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Radiografer Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,1,2,-1,RSUD Cilincing,RSUD C
+2,  Radiografer Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,4,5,-1,RSUD Cilincing,RSUD C
+2,  Refraksionis Optisien Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Refraksionis Optisien Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Refraksionis Optisien Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,1,1,0,RSUD Cilincing,RSUD C
+2,  Tenaga Sanitasi Lingkungan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Tenaga Sanitasi Lingkungan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Tenaga Sanitasi Lingkungan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,1,1,0,RSUD Cilincing,RSUD C
+2,  Tenaga Sanitasi Lingkungan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Tenaga Sanitasi Lingkungan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Tenaga Sanitasi Lingkungan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Teknisi Elektromedis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Teknisi Elektromedis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Teknisi Elektromedis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Teknisi Elektromedis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Teknisi Elektromedis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Teknisi Elektromedis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,2,-1,RSUD Cilincing,RSUD C
+2,  Teknisi Transfusi Darah Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Teknisi Transfusi Darah Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Teknisi Transfusi Darah Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Teknisi Gigi Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Teknisi Gigi Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Teknisi Gigi Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Terapis Gigi dan Mulut Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Terapis Gigi dan Mulut Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Terapis Gigi dan Mulut Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,2,-2,RSUD Cilincing,RSUD C
+2,  Terapis Wicara Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Terapis Wicara Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Terapis Wicara Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Cilincing,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,9,9,0,RSUD Cilincing,RSUD C
+3,    Operator Layanan Kesehatan,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Cilincing,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+3,    Operator Layanan Kesehatan,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,7,7,0,RSUD Cilincing,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI FARMASI,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Cilincing,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI FARMASI,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI FARMASI,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+3,    Operator Layanan Kesehatan,3.0,KOORDINATOR SATUAN INSTALASI FARMASI,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,0,0,0,RSUD Cilincing,RSUD C
+1,Direktur RSUD C,13.0,Kepala Dinas Kesehatan,Jabatan Administrator,1,1,0,0,0,0,RSUD Kramat Jati,RSUD C
+1,Apoteker Ahli Utama,13.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+1,Dokter Ahli Utama,14.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Kramat Jati,RSUD C
+1,Dokter Gigi Ahli Utama,14.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Kramat Jati,RSUD C
+1,Perawat Ahli Utama,13.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+1,Kepala Satuan Pengawas Internal,8.0,Direktur,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pengolah Data dan Informasi,6.0,Kepala Satuan Pengawas Internal,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pengolah Data dan Informasi,6.0,Kepala Satuan Pengawas Internal,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+1,KEPALA BAGIAN ADMINISTRASI UMUM DAN KEUANGAN,12.0,Direktur,Jabatan Administrator,1,1,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Penata Kelola Sistem dan Teknologi Informasi,7.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pengolah Data dan Informasi,6.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,8.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Penata Kelola Sistem dan Teknologi Informasi,7.0,KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,Jabatan Pelaksana Teknis Tingkat Ahli,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pengolah Data dan Informasi,6.0,KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,Jabatan Pelaksana Teknis Tingkat Terampil,0,3,-3,3,3,0,RSUD Kramat Jati,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,3,3,0,RSUD Kramat Jati,RSUD C
+2,  KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,8.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Kramat Jati,RSUD C
+3,    Penelaah Teknis Kebijakan,7.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Teknis Tingkat Ahli,3,1,2,0,0,0,RSUD Kramat Jati,RSUD C
+3,    Penata Kelola Layanan Kesehatan,7.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Teknis Tingkat Ahli,2,2,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pengolah Data dan Informasi,6.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Teknis Tingkat Terampil,0,2,-2,2,2,0,RSUD Kramat Jati,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,8,8,0,RSUD Kramat Jati,RSUD C
+2,"  KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",8.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Kramat Jati,RSUD C
+3,    Penelaah Teknis Kebijakan,7.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pengolah Data dan Informasi,6.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,5,5,0,RSUD Kramat Jati,RSUD C
+2,  Pengolah Data dan Informasi,6.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,5,0,5,RSUD Kramat Jati,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,3,3,0,RSUD Kramat Jati,RSUD C
+3,    Operator Layanan Operasional,4.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Pelayan Tingkat Terampil,0,0,0,9,6,3,RSUD Kramat Jati,RSUD C
+3,    Operator Layanan Operasional,3.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,9,4,5,RSUD Kramat Jati,RSUD C
+1,KEPALA BIDANG PELAYANAN MEDIK DAN KEPERAWATAN,12.0,Direktur,Jabatan Administrator,1,1,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Administrator Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Administrator Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Administrator Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Bidan Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Bidan Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Bidan Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Bidan Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,2,3,-1,0,1,-1,RSUD Kramat Jati,RSUD C
+2,  Bidan Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,5,5,0,5,8,-3,RSUD Kramat Jati,RSUD C
+2,  Bidan Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,7,7,0,RSUD Kramat Jati,RSUD C
+2,  Dokter Ahli Madya,12.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,4,5,-1,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Dokter Ahli Muda,10.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,4,-3,8,13,-5,RSUD Kramat Jati,RSUD C
+2,  Dokter Ahli Pertama,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,21,24,-3,RSUD Kramat Jati,RSUD C
+2,  Dokter Gigi Ahli Madya,12.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,2,-1,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Dokter Gigi Ahli Muda,10.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,1,-1,RSUD Kramat Jati,RSUD C
+2,  Dokter Gigi Ahli Pertama,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,1,-1,RSUD Kramat Jati,RSUD C
+2,  Perawat Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Perawat Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,2,2,0,3,4,-1,RSUD Kramat Jati,RSUD C
+2,  Perawat Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,4,7,-3,8,8,0,RSUD Kramat Jati,RSUD C
+2,  Perawat Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,2,4,-2,1,1,0,RSUD Kramat Jati,RSUD C
+2,  Perawat Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,4,6,-2,22,28,-6,RSUD Kramat Jati,RSUD C
+2,  Perawat Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,5,6,-1,47,47,0,RSUD Kramat Jati,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI RAWAT INAP,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Kramat Jati,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI RAWAT INAP,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI RAWAT INAP,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,3,3,0,RSUD Kramat Jati,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI GAWAT DARURAT DAN RAWAT JALAN,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Kramat Jati,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI GAWAT DARURAT DAN RAWAT JALAN,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI GAWAT DARURAT DAN RAWAT JALAN,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,1,0,RSUD Kramat Jati,RSUD C
+2,"  KOORDINATOR SATUAN INSTALASI RAWAT INAP KHUSUS, INTENSIF DAN KAMAR OPERASI",8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Kramat Jati,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,"KOORDINATOR SATUAN INSTALASI RAWAT INAP KHUSUS, INTENSIF DAN KAMAR OPERASI",Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,"KOORDINATOR SATUAN INSTALASI RAWAT INAP KHUSUS, INTENSIF DAN KAMAR OPERASI",Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,1,0,RSUD Kramat Jati,RSUD C
+1,KEPALA BIDANG PELAYANAN PENUNJANG,12.0,Direktur,Jabatan Administrator,1,1,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Apoteker Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Apoteker Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,1,3,-2,RSUD Kramat Jati,RSUD C
+2,  Apoteker Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,6,5,1,RSUD Kramat Jati,RSUD C
+2,  Asisten Apoteker Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Asisten Apoteker Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,2,2,0,RSUD Kramat Jati,RSUD C
+2,  Asisten Apoteker Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,6,8,-2,RSUD Kramat Jati,RSUD C
+2,  Epidemiolog Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Epidemiolog Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Epidemiolog Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Epidemiolog Kesehatan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Epidemiolog Kesehatan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Epidemiolog Kesehatan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Fisioterapis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Fisioterapis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Fisioterapis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Fisioterapis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Fisioterapis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,RSUD Kramat Jati,RSUD C
+2,  Fisioterapis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,3,3,0,RSUD Kramat Jati,RSUD C
+2,  Fisikawan Medis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Fisikawan Medis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Fisikawan Medis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Nutrisionis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Nutrisionis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Nutrisionis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Nutrisionis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Nutrisionis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,2,-1,RSUD Kramat Jati,RSUD C
+2,  Nutrisionis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,2,2,0,RSUD Kramat Jati,RSUD C
+2,  Okupasi Terapis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Okupasi Terapis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Okupasi Terapis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Kramat Jati,RSUD C
+2,  Ortotis Prostetis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Ortotis Prostetis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Ortotis Prostetis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pembimbing Kesehatan Kerja Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pembimbing Kesehatan Kerja Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pembimbing Kesehatan Kerja Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,1,1,0,RSUD Kramat Jati,RSUD C
+2,  Penata Anestesi Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Penata Anestesi Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,1,-1,RSUD Kramat Jati,RSUD C
+2,  Penata Anestesi Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,2,-2,RSUD Kramat Jati,RSUD C
+2,  Asisten Penata Anestesi Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Asisten Penata Anestesi Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,RSUD Kramat Jati,RSUD C
+2,  Asisten Penata Anestesi Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,RSUD Kramat Jati,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,6,6,0,RSUD Kramat Jati,RSUD C
+2,  Pranata Laboratorium Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pranata Laboratorium Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pranata Laboratorium Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pranata Laboratorium Kesehatan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pranata Laboratorium Kesehatan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,3,-2,RSUD Kramat Jati,RSUD C
+2,  Pranata Laboratorium Kesehatan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,8,7,1,RSUD Kramat Jati,RSUD C
+2,  Psikolog Ahli Klinis Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Psikolog Ahli Klinis Muda,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Psikolog Ahli Klinis Pertama,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Radiografer Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Radiografer Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Radiografer Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Radiografer Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Radiografer Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,2,-1,RSUD Kramat Jati,RSUD C
+2,  Radiografer Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,4,3,1,RSUD Kramat Jati,RSUD C
+2,  Refraksionis Optisien Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Refraksionis Optisien Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Refraksionis Optisien Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Kramat Jati,RSUD C
+2,  Tenaga Sanitasi Lingkungan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Tenaga Sanitasi Lingkungan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Tenaga Sanitasi Lingkungan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Tenaga Sanitasi Lingkungan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Tenaga Sanitasi Lingkungan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Tenaga Sanitasi Lingkungan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Kramat Jati,RSUD C
+2,  Teknisi Elektromedis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Teknisi Elektromedis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Teknisi Elektromedis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Teknisi Elektromedis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Teknisi Elektromedis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Teknisi Elektromedis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,2,2,0,RSUD Kramat Jati,RSUD C
+2,  Teknisi Transfusi Darah Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Teknisi Transfusi Darah Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Teknisi Transfusi Darah Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Teknisi Gigi Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Teknisi Gigi Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Teknisi Gigi Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Terapis Gigi dan Mulut Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Terapis Gigi dan Mulut Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Kramat Jati,RSUD C
+2,  Terapis Gigi dan Mulut Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Terapis Wicara Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Terapis Wicara Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Terapis Wicara Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Kramat Jati,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Kramat Jati,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,Jabatan Pelaksana Administrasi Tingkat Terampil,1,0,1,5,7,-2,RSUD Kramat Jati,RSUD C
+3,    Operator Layanan Kesehatan,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,7,8,-1,RSUD Kramat Jati,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Kramat Jati,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,Jabatan Pelaksana Administrasi Tingkat Terampil,1,0,1,0,0,0,RSUD Kramat Jati,RSUD C
+3,    Operator Layanan Kesehatan,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,9,10,-1,RSUD Kramat Jati,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI FARMASI,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Kramat Jati,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI FARMASI,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI FARMASI,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+3,    Operator Layanan Kesehatan,3.0,KOORDINATOR SATUAN INSTALASI FARMASI,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,0,0,0,RSUD Kramat Jati,RSUD C
+1,Direktur RSUD C,13.0,Kepala Dinas Kesehatan,Jabatan Administrator,1,1,0,0,0,0,RSUD Pesanggrahan,RSUD C
+1,Apoteker Ahli Utama,13.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+1,Dokter Ahli Utama,14.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Pesanggrahan,RSUD C
+1,Dokter Gigi Ahli Utama,14.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,RSUD Pesanggrahan,RSUD C
+1,Perawat Ahli Utama,13.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+1,Kepala Satuan Pengawas Internal,8.0,Direktur,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pengolah Data dan Informasi,6.0,Kepala Satuan Pengawas Internal,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pengolah Data dan Informasi,6.0,Kepala Satuan Pengawas Internal,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+1,KEPALA BAGIAN ADMINISTRASI UMUM DAN KEUANGAN,12.0,Direktur,Jabatan Administrator,0,1,-1,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Penata Kelola Sistem dan Teknologi Informasi,7.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pengolah Data dan Informasi,6.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,8.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Penata Kelola Sistem dan Teknologi Informasi,7.0,KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,Jabatan Pelaksana Teknis Tingkat Ahli,2,2,0,1,0,1,RSUD Pesanggrahan,RSUD C
+2,  Pengolah Data dan Informasi,6.0,KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,Jabatan Pelaksana Teknis Tingkat Terampil,0,1,-1,4,2,2,RSUD Pesanggrahan,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,8.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Pesanggrahan,RSUD C
+3,    Penelaah Teknis Kebijakan,7.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Teknis Tingkat Ahli,3,2,1,0,0,0,RSUD Pesanggrahan,RSUD C
+3,    Penata Kelola Layanan Kesehatan,7.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pengolah Data dan Informasi,6.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Teknis Tingkat Terampil,1,2,-1,2,0,2,RSUD Pesanggrahan,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,6,6,0,RSUD Pesanggrahan,RSUD C
+2,"  KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",8.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Pesanggrahan,RSUD C
+3,    Penelaah Teknis Kebijakan,7.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Teknis Tingkat Ahli,0,1,-1,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pengolah Data dan Informasi,6.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Teknis Tingkat Terampil,0,2,-2,7,7,0,RSUD Pesanggrahan,RSUD C
+2,  Pengolah Data dan Informasi,6.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,7,0,7,RSUD Pesanggrahan,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+3,    Operator Layanan Operasional,4.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Pelayan Tingkat Terampil,0,0,0,8,5,3,RSUD Pesanggrahan,RSUD C
+3,    Operator Layanan Operasional,3.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,3,2,1,RSUD Pesanggrahan,RSUD C
+1,KEPALA BIDANG PELAYANAN MEDIK DAN KEPERAWATAN,12.0,Direktur,Jabatan Administrator,1,1,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Administrator Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Administrator Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Administrator Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Bidan Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Bidan Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Bidan Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,2,-1,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Bidan Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Bidan Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,2,3,-1,2,9,-7,RSUD Pesanggrahan,RSUD C
+2,  Bidan Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,2,2,0,8,8,0,RSUD Pesanggrahan,RSUD C
+2,  Dokter Ahli Madya,12.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,3,-3,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Dokter Ahli Muda,10.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,4,7,-3,7,10,-3,RSUD Pesanggrahan,RSUD C
+2,  Dokter Ahli Pertama,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,2,3,-1,18,24,-6,RSUD Pesanggrahan,RSUD C
+2,  Dokter Gigi Ahli Madya,12.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,2,3,-1,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Dokter Gigi Ahli Muda,10.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,1,1,0,RSUD Pesanggrahan,RSUD C
+2,  Dokter Gigi Ahli Pertama,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,1,-1,RSUD Pesanggrahan,RSUD C
+2,  Perawat Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,0,1,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Perawat Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,1,3,-2,RSUD Pesanggrahan,RSUD C
+2,  Perawat Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,3,-2,2,6,-4,RSUD Pesanggrahan,RSUD C
+2,  Perawat Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,1,-1,RSUD Pesanggrahan,RSUD C
+2,  Perawat Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,7,15,-8,RSUD Pesanggrahan,RSUD C
+2,  Perawat Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,5,6,-1,70,63,7,RSUD Pesanggrahan,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI RAWAT INAP,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Pesanggrahan,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI RAWAT INAP,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI RAWAT INAP,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI GAWAT DARURAT DAN RAWAT JALAN,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Pesanggrahan,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI GAWAT DARURAT DAN RAWAT JALAN,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI GAWAT DARURAT DAN RAWAT JALAN,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,"  KOORDINATOR SATUAN INSTALASI RAWAT INAP KHUSUS, INTENSIF DAN KAMAR OPERASI",8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Pesanggrahan,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,"KOORDINATOR SATUAN INSTALASI RAWAT INAP KHUSUS, INTENSIF DAN KAMAR OPERASI",Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,"KOORDINATOR SATUAN INSTALASI RAWAT INAP KHUSUS, INTENSIF DAN KAMAR OPERASI",Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+1,KEPALA BIDANG PELAYANAN PENUNJANG,12.0,Direktur,Jabatan Administrator,1,1,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Apoteker Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Apoteker Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,1,3,-2,RSUD Pesanggrahan,RSUD C
+2,  Apoteker Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,5,4,1,RSUD Pesanggrahan,RSUD C
+2,  Asisten Apoteker Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Asisten Apoteker Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,3,3,0,RSUD Pesanggrahan,RSUD C
+2,  Asisten Apoteker Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,4,6,-2,RSUD Pesanggrahan,RSUD C
+2,  Epidemiolog Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Epidemiolog Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Epidemiolog Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Epidemiolog Kesehatan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Epidemiolog Kesehatan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Epidemiolog Kesehatan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Fisioterapis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Fisioterapis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Fisioterapis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Fisioterapis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,RSUD Pesanggrahan,RSUD C
+2,  Fisioterapis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,RSUD Pesanggrahan,RSUD C
+2,  Fisioterapis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,3,2,1,RSUD Pesanggrahan,RSUD C
+2,  Fisikawan Medis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Fisikawan Medis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Fisikawan Medis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Nutrisionis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Nutrisionis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Nutrisionis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Nutrisionis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Nutrisionis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Pesanggrahan,RSUD C
+2,  Nutrisionis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Pesanggrahan,RSUD C
+2,  Okupasi Terapis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Okupasi Terapis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Okupasi Terapis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,RSUD Pesanggrahan,RSUD C
+2,  Ortotis Prostetis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Ortotis Prostetis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Ortotis Prostetis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pembimbing Kesehatan Kerja Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pembimbing Kesehatan Kerja Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pembimbing Kesehatan Kerja Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,1,-1,RSUD Pesanggrahan,RSUD C
+2,  Penata Anestesi Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Penata Anestesi Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,1,-1,RSUD Pesanggrahan,RSUD C
+2,  Penata Anestesi Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,1,-1,RSUD Pesanggrahan,RSUD C
+2,  Asisten Penata Anestesi Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Asisten Penata Anestesi Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Asisten Penata Anestesi Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,1,-1,RSUD Pesanggrahan,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,2,-1,RSUD Pesanggrahan,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,3,2,1,RSUD Pesanggrahan,RSUD C
+2,  Pranata Laboratorium Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pranata Laboratorium Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pranata Laboratorium Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pranata Laboratorium Kesehatan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pranata Laboratorium Kesehatan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,4,-4,RSUD Pesanggrahan,RSUD C
+2,  Pranata Laboratorium Kesehatan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,9,6,3,RSUD Pesanggrahan,RSUD C
+2,  Psikolog Ahli Klinis Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Psikolog Ahli Klinis Muda,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Psikolog Ahli Klinis Pertama,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Radiografer Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Radiografer Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Radiografer Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Radiografer Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Radiografer Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,1,2,-1,RSUD Pesanggrahan,RSUD C
+2,  Radiografer Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,4,3,1,RSUD Pesanggrahan,RSUD C
+2,  Refraksionis Optisien Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Refraksionis Optisien Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Refraksionis Optisien Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Pesanggrahan,RSUD C
+2,  Tenaga Sanitasi Lingkungan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Tenaga Sanitasi Lingkungan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Tenaga Sanitasi Lingkungan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Tenaga Sanitasi Lingkungan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Tenaga Sanitasi Lingkungan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,RSUD Pesanggrahan,RSUD C
+2,  Tenaga Sanitasi Lingkungan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Pesanggrahan,RSUD C
+2,  Teknisi Elektromedis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Teknisi Elektromedis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Teknisi Elektromedis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Teknisi Elektromedis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Teknisi Elektromedis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Pesanggrahan,RSUD C
+2,  Teknisi Elektromedis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Pesanggrahan,RSUD C
+2,  Teknisi Transfusi Darah Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Teknisi Transfusi Darah Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Teknisi Transfusi Darah Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Teknisi Gigi Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Teknisi Gigi Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Teknisi Gigi Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Terapis Gigi dan Mulut Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Terapis Gigi dan Mulut Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,RSUD Pesanggrahan,RSUD C
+2,  Terapis Gigi dan Mulut Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,2,2,0,RSUD Pesanggrahan,RSUD C
+2,  Terapis Wicara Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Terapis Wicara Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Terapis Wicara Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Pesanggrahan,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,10,8,2,RSUD Pesanggrahan,RSUD C
+3,    Operator Layanan Kesehatan,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,10,8,2,RSUD Pesanggrahan,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,0,0,1,1,0,RSUD Pesanggrahan,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+3,    Operator Layanan Kesehatan,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,4,0,4,RSUD Pesanggrahan,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI FARMASI,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Pesanggrahan,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI FARMASI,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI FARMASI,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+3,    Operator Layanan Kesehatan,3.0,KOORDINATOR SATUAN INSTALASI FARMASI,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,0,0,0,RSUD Pesanggrahan,RSUD C
+1,Direktur RSUD C,13.0,Kepala Dinas Kesehatan,Jabatan Administrator,1,1,0,0,0,0,RSUD Tebet,RSUD C
+1,Apoteker Ahli Utama,13.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+1,Dokter Ahli Utama,14.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+1,Dokter Gigi Ahli Utama,14.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,RSUD Tebet,RSUD C
+1,Perawat Ahli Utama,13.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+1,Kepala Satuan Pengawas Internal,8.0,Direktur,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Tebet,RSUD C
+2,  Pengolah Data dan Informasi,6.0,Kepala Satuan Pengawas Internal,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pengolah Data dan Informasi,6.0,Kepala Satuan Pengawas Internal,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tebet,RSUD C
+1,KEPALA BAGIAN ADMINISTRASI UMUM DAN KEUANGAN,12.0,Direktur,Jabatan Administrator,1,1,0,0,0,0,RSUD Tebet,RSUD C
+2,  Penata Kelola Sistem dan Teknologi Informasi,7.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pengolah Data dan Informasi,6.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,8.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Tebet,RSUD C
+2,  Penata Kelola Sistem dan Teknologi Informasi,7.0,KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,Jabatan Pelaksana Teknis Tingkat Ahli,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pengolah Data dan Informasi,6.0,KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,Jabatan Pelaksana Teknis Tingkat Terampil,0,3,-3,4,4,0,RSUD Tebet,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,1,0,RSUD Tebet,RSUD C
+2,  KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,8.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Satuan,0,0,0,1,1,0,RSUD Tebet,RSUD C
+3,    Penelaah Teknis Kebijakan,7.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Teknis Tingkat Ahli,3,3,0,0,0,0,RSUD Tebet,RSUD C
+3,    Penata Kelola Layanan Kesehatan,7.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Teknis Tingkat Ahli,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pengolah Data dan Informasi,6.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Teknis Tingkat Terampil,1,2,-1,1,1,0,RSUD Tebet,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,8,10,-2,RSUD Tebet,RSUD C
+2,"  KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",8.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Tebet,RSUD C
+3,    Penelaah Teknis Kebijakan,7.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pengolah Data dan Informasi,6.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,6,6,0,RSUD Tebet,RSUD C
+2,  Pengolah Data dan Informasi,6.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,6,0,6,RSUD Tebet,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Tebet,RSUD C
+3,    Operator Layanan Operasional,4.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Pelayan Tingkat Terampil,0,0,0,4,4,0,RSUD Tebet,RSUD C
+3,    Operator Layanan Operasional,3.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,1,0,1,RSUD Tebet,RSUD C
+1,KEPALA BIDANG PELAYANAN MEDIK DAN KEPERAWATAN,12.0,Direktur,Jabatan Administrator,1,1,0,0,0,0,RSUD Tebet,RSUD C
+2,  Administrator Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Administrator Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tebet,RSUD C
+2,  Administrator Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tebet,RSUD C
+2,  Bidan Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Bidan Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Bidan Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,RSUD Tebet,RSUD C
+2,  Bidan Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,2,-2,1,1,0,RSUD Tebet,RSUD C
+2,  Bidan Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,2,2,0,7,8,-1,RSUD Tebet,RSUD C
+2,  Bidan Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,8,8,0,RSUD Tebet,RSUD C
+2,  Dokter Ahli Madya,12.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,3,-3,0,0,0,RSUD Tebet,RSUD C
+2,  Dokter Ahli Muda,10.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,3,4,-1,18,18,0,RSUD Tebet,RSUD C
+2,  Dokter Ahli Pertama,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,2,2,0,18,18,0,RSUD Tebet,RSUD C
+2,  Dokter Gigi Ahli Madya,12.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,0,0,RSUD Tebet,RSUD C
+2,  Dokter Gigi Ahli Muda,10.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tebet,RSUD C
+2,  Dokter Gigi Ahli Pertama,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,1,1,0,RSUD Tebet,RSUD C
+2,  Perawat Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tebet,RSUD C
+2,  Perawat Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,2,-2,RSUD Tebet,RSUD C
+2,  Perawat Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,3,-3,2,6,-4,RSUD Tebet,RSUD C
+2,  Perawat Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,0,1,-1,RSUD Tebet,RSUD C
+2,  Perawat Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,1,3,-2,26,30,-4,RSUD Tebet,RSUD C
+2,  Perawat Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,3,4,-1,33,32,1,RSUD Tebet,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI RAWAT INAP,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Tebet,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI RAWAT INAP,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI RAWAT INAP,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,3,3,0,RSUD Tebet,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI GAWAT DARURAT DAN RAWAT JALAN,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Tebet,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI GAWAT DARURAT DAN RAWAT JALAN,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI GAWAT DARURAT DAN RAWAT JALAN,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,2,2,0,RSUD Tebet,RSUD C
+2,"  KOORDINATOR SATUAN INSTALASI RAWAT INAP KHUSUS, INTENSIF DAN KAMAR OPERASI",8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Pelaksana Satuan,1,1,0,0,0,0,RSUD Tebet,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,"KOORDINATOR SATUAN INSTALASI RAWAT INAP KHUSUS, INTENSIF DAN KAMAR OPERASI",Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,"KOORDINATOR SATUAN INSTALASI RAWAT INAP KHUSUS, INTENSIF DAN KAMAR OPERASI",Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Tebet,RSUD C
+1,KEPALA BIDANG PELAYANAN PENUNJANG,12.0,Direktur,Jabatan Administrator,1,1,0,0,0,0,RSUD Tebet,RSUD C
+2,  Apoteker Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tebet,RSUD C
+2,  Apoteker Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,1,-1,RSUD Tebet,RSUD C
+2,  Apoteker Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,5,4,1,RSUD Tebet,RSUD C
+2,  Asisten Apoteker Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,RSUD Tebet,RSUD C
+2,  Asisten Apoteker Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,2,-2,RSUD Tebet,RSUD C
+2,  Asisten Apoteker Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,8,8,0,RSUD Tebet,RSUD C
+2,  Epidemiolog Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Epidemiolog Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Epidemiolog Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Epidemiolog Kesehatan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Epidemiolog Kesehatan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Epidemiolog Kesehatan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Fisioterapis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Fisioterapis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Fisioterapis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Fisioterapis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Fisioterapis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Fisioterapis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,1,1,0,RSUD Tebet,RSUD C
+2,  Fisikawan Medis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Fisikawan Medis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Fisikawan Medis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Nutrisionis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Nutrisionis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Nutrisionis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,1,1,0,RSUD Tebet,RSUD C
+2,  Nutrisionis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Nutrisionis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Nutrisionis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,2,2,0,RSUD Tebet,RSUD C
+2,  Okupasi Terapis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Okupasi Terapis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Okupasi Terapis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Ortotis Prostetis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Ortotis Prostetis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Ortotis Prostetis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pembimbing Kesehatan Kerja Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pembimbing Kesehatan Kerja Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pembimbing Kesehatan Kerja Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,RSUD Tebet,RSUD C
+2,  Penata Anestesi Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Penata Anestesi Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Penata Anestesi Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tebet,RSUD C
+2,  Asisten Penata Anestesi Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Asisten Penata Anestesi Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Asisten Penata Anestesi Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,1,-1,RSUD Tebet,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,1,-1,RSUD Tebet,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,2,2,0,7,7,0,RSUD Tebet,RSUD C
+2,  Pranata Laboratorium Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pranata Laboratorium Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pranata Laboratorium Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pranata Laboratorium Kesehatan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pranata Laboratorium Kesehatan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,2,-1,RSUD Tebet,RSUD C
+2,  Pranata Laboratorium Kesehatan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,11,10,1,RSUD Tebet,RSUD C
+2,  Psikolog Ahli Klinis Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Psikolog Ahli Klinis Muda,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Psikolog Ahli Klinis Pertama,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Radiografer Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Radiografer Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Radiografer Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Radiografer Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,RSUD Tebet,RSUD C
+2,  Radiografer Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,RSUD Tebet,RSUD C
+2,  Radiografer Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,5,4,1,RSUD Tebet,RSUD C
+2,  Refraksionis Optisien Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Refraksionis Optisien Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,RSUD Tebet,RSUD C
+2,  Refraksionis Optisien Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,0,0,0,RSUD Tebet,RSUD C
+2,  Tenaga Sanitasi Lingkungan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Tenaga Sanitasi Lingkungan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Tenaga Sanitasi Lingkungan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Tenaga Sanitasi Lingkungan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Tenaga Sanitasi Lingkungan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Tenaga Sanitasi Lingkungan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Tebet,RSUD C
+2,  Teknisi Elektromedis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Teknisi Elektromedis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Teknisi Elektromedis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Teknisi Elektromedis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Teknisi Elektromedis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Teknisi Elektromedis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,2,-1,RSUD Tebet,RSUD C
+2,  Teknisi Transfusi Darah Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Teknisi Transfusi Darah Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Teknisi Transfusi Darah Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Tebet,RSUD C
+2,  Teknisi Gigi Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Teknisi Gigi Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Teknisi Gigi Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Terapis Gigi dan Mulut Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Terapis Gigi dan Mulut Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Terapis Gigi dan Mulut Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,2,2,0,RSUD Tebet,RSUD C
+2,  Terapis Wicara Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Terapis Wicara Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Terapis Wicara Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Tebet,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,11,11,0,RSUD Tebet,RSUD C
+3,    Operator Layanan Kesehatan,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,5,5,0,RSUD Tebet,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,0,0,1,1,0,RSUD Tebet,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Tebet,RSUD C
+3,    Operator Layanan Kesehatan,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,4,4,0,RSUD Tebet,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI FARMASI,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,0,0,1,1,0,RSUD Tebet,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI FARMASI,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tebet,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI FARMASI,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,1,0,RSUD Tebet,RSUD C
+3,    Operator Layanan Kesehatan,3.0,KOORDINATOR SATUAN INSTALASI FARMASI,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,0,0,0,RSUD Tebet,RSUD C
+1,Direktur RSUD C,13.0,Kepala Dinas Kesehatan,Jabatan Administrator,1,1,0,0,0,0,RSUD Tugu Koja,RSUD C
+1,Apoteker Ahli Utama,13.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+1,Dokter Ahli Utama,14.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+1,Dokter Gigi Ahli Utama,14.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tugu Koja,RSUD C
+1,Perawat Ahli Utama,13.0,Direktur,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+1,Kepala Satuan Pengawas Internal,8.0,Direktur,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pengolah Data dan Informasi,6.0,Kepala Satuan Pengawas Internal,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pengolah Data dan Informasi,6.0,Kepala Satuan Pengawas Internal,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+1,KEPALA BAGIAN ADMINISTRASI UMUM DAN KEUANGAN,12.0,Direktur,Jabatan Administrator,1,1,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Penata Kelola Sistem dan Teknologi Informasi,7.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Teknis Tingkat Ahli,3,1,2,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pengolah Data dan Informasi,6.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,8.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Penata Kelola Sistem dan Teknologi Informasi,7.0,KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,Jabatan Pelaksana Teknis Tingkat Ahli,0,1,-1,2,0,2,RSUD Tugu Koja,RSUD C
+2,  Pengolah Data dan Informasi,6.0,KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,Jabatan Pelaksana Teknis Tingkat Terampil,0,3,-3,0,3,-3,RSUD Tugu Koja,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN PELAKSANA KETATAUSAHAAN DAN KEPEGAWAIAN,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,1,0,RSUD Tugu Koja,RSUD C
+2,  KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,8.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Satuan,0,0,0,1,1,0,RSUD Tugu Koja,RSUD C
+3,    Penelaah Teknis Kebijakan,7.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Teknis Tingkat Ahli,2,3,-1,0,0,0,RSUD Tugu Koja,RSUD C
+3,    Penata Kelola Layanan Kesehatan,7.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Teknis Tingkat Ahli,0,1,-1,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pengolah Data dan Informasi,6.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Teknis Tingkat Terampil,0,2,-2,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN PELAKSANA PERENCANAAN DAN KEUANGAN,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,7,9,-2,RSUD Tugu Koja,RSUD C
+2,"  KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",8.0,Kepala Bagian Administrasi Umum dan Keuangan,Jabatan Pelaksana Satuan,0,1,-1,1,0,1,RSUD Tugu Koja,RSUD C
+3,    Penelaah Teknis Kebijakan,7.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,6,0,6,RSUD Tugu Koja,RSUD C
+2,  Pengolah Data dan Informasi,6.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,6,7,-1,RSUD Tugu Koja,RSUD C
+2,  Pengolah Data dan Informasi,6.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,6,0,6,RSUD Tugu Koja,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+3,    Operator Layanan Operasional,4.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Pelayan Tingkat Terampil,0,0,0,2,4,-2,RSUD Tugu Koja,RSUD C
+3,    Operator Layanan Operasional,3.0,"KOORDINATOR SATUAN PELAKSANA UMUM, PEMELIHARAAN SARANA DAN PRASARANA",Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,2,0,2,RSUD Tugu Koja,RSUD C
+1,KEPALA BIDANG PELAYANAN MEDIK DAN KEPERAWATAN,12.0,Direktur,Jabatan Administrator,1,1,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Administrator Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Administrator Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Administrator Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Bidan Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Bidan Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Bidan Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,1,0,1,0,1,RSUD Tugu Koja,RSUD C
+2,  Bidan Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,0,1,-1,RSUD Tugu Koja,RSUD C
+2,  Bidan Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,3,7,-4,RSUD Tugu Koja,RSUD C
+2,  Bidan Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,3,3,0,14,11,3,RSUD Tugu Koja,RSUD C
+2,  Dokter Ahli Madya,12.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,2,3,-1,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Dokter Ahli Muda,10.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,3,5,-2,11,14,-3,RSUD Tugu Koja,RSUD C
+2,  Dokter Ahli Pertama,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,2,2,0,24,23,1,RSUD Tugu Koja,RSUD C
+2,  Dokter Gigi Ahli Madya,12.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Dokter Gigi Ahli Muda,10.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,1,1,0,RSUD Tugu Koja,RSUD C
+2,  Dokter Gigi Ahli Pertama,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,1,0,1,2,-1,RSUD Tugu Koja,RSUD C
+2,  Perawat Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Perawat Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,2,-1,2,3,-1,RSUD Tugu Koja,RSUD C
+2,  Perawat Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,3,4,-1,6,3,3,RSUD Tugu Koja,RSUD C
+2,  Perawat Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,3,-3,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Perawat Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,3,7,-4,RSUD Tugu Koja,RSUD C
+2,  Perawat Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,7,7,0,67,62,5,RSUD Tugu Koja,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI RAWAT INAP,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Tugu Koja,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI RAWAT INAP,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI RAWAT INAP,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,3,3,0,RSUD Tugu Koja,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI GAWAT DARURAT DAN RAWAT JALAN,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Tugu Koja,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI GAWAT DARURAT DAN RAWAT JALAN,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI GAWAT DARURAT DAN RAWAT JALAN,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,3,3,0,RSUD Tugu Koja,RSUD C
+2,"  KOORDINATOR SATUAN INSTALASI RAWAT INAP KHUSUS, INTENSIF DAN KAMAR OPERASI",8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Tugu Koja,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,"KOORDINATOR SATUAN INSTALASI RAWAT INAP KHUSUS, INTENSIF DAN KAMAR OPERASI",Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,"KOORDINATOR SATUAN INSTALASI RAWAT INAP KHUSUS, INTENSIF DAN KAMAR OPERASI",Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+1,KEPALA BIDANG PELAYANAN PENUNJANG,12.0,Direktur,Jabatan Administrator,1,1,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Apoteker Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Apoteker Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,2,1,1,2,3,-1,RSUD Tugu Koja,RSUD C
+2,  Apoteker Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,4,3,1,RSUD Tugu Koja,RSUD C
+2,  Asisten Apoteker Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Asisten Apoteker Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,1,-1,RSUD Tugu Koja,RSUD C
+2,  Asisten Apoteker Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,9,8,1,RSUD Tugu Koja,RSUD C
+2,  Epidemiolog Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Epidemiolog Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Epidemiolog Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Epidemiolog Kesehatan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Epidemiolog Kesehatan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Epidemiolog Kesehatan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Fisioterapis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Fisioterapis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Fisioterapis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Fisioterapis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Fisioterapis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Fisioterapis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,2,3,-1,RSUD Tugu Koja,RSUD C
+2,  Fisikawan Medis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Fisikawan Medis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Fisikawan Medis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Nutrisionis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Nutrisionis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Nutrisionis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,1,1,0,RSUD Tugu Koja,RSUD C
+2,  Nutrisionis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Nutrisionis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Nutrisionis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Tugu Koja,RSUD C
+2,  Okupasi Terapis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Okupasi Terapis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Okupasi Terapis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,RSUD Tugu Koja,RSUD C
+2,  Ortotis Prostetis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Ortotis Prostetis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Ortotis Prostetis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pembimbing Kesehatan Kerja Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pembimbing Kesehatan Kerja Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pembimbing Kesehatan Kerja Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,1,1,0,RSUD Tugu Koja,RSUD C
+2,  Penata Anestesi Ahli Madya,11.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Penata Anestesi Ahli Muda,9.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Penata Anestesi Ahli Pertama,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Asisten Penata Anestesi Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Asisten Penata Anestesi Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Asisten Penata Anestesi Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,2,2,0,RSUD Tugu Koja,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Promosi Kesehatan dan Ilmu Perilaku Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Perekam Medis dan Informasi Kesehatan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,2,2,0,5,5,0,RSUD Tugu Koja,RSUD C
+2,  Pranata Laboratorium Kesehatan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pranata Laboratorium Kesehatan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pranata Laboratorium Kesehatan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pranata Laboratorium Kesehatan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pranata Laboratorium Kesehatan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,2,3,-1,RSUD Tugu Koja,RSUD C
+2,  Pranata Laboratorium Kesehatan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,9,8,1,RSUD Tugu Koja,RSUD C
+2,  Psikolog Ahli Klinis Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Psikolog Ahli Klinis Muda,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Psikolog Ahli Klinis Pertama,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Radiografer Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Radiografer Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Radiografer Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Radiografer Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,0,1,-1,RSUD Tugu Koja,RSUD C
+2,  Radiografer Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Radiografer Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,5,4,1,RSUD Tugu Koja,RSUD C
+2,  Refraksionis Optisien Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Refraksionis Optisien Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Refraksionis Optisien Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,1,1,0,RSUD Tugu Koja,RSUD C
+2,  Tenaga Sanitasi Lingkungan Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Tenaga Sanitasi Lingkungan Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Tenaga Sanitasi Lingkungan Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Tenaga Sanitasi Lingkungan Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Tenaga Sanitasi Lingkungan Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Tenaga Sanitasi Lingkungan Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Tugu Koja,RSUD C
+2,  Teknisi Elektromedis Ahli Madya,11.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Teknisi Elektromedis Ahli Muda,9.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Teknisi Elektromedis Ahli Pertama,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Teknisi Elektromedis Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Teknisi Elektromedis Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Teknisi Elektromedis Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,RSUD Tugu Koja,RSUD C
+2,  Teknisi Transfusi Darah Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Teknisi Transfusi Darah Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Teknisi Transfusi Darah Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Teknisi Gigi Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Teknisi Gigi Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Teknisi Gigi Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Terapis Gigi dan Mulut Penyelia,8.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Terapis Gigi dan Mulut Mahir,7.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Terapis Gigi dan Mulut Terampil,6.0,Kepala Bidang Pelayanan Medik dan Keperawatan,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,2,-1,RSUD Tugu Koja,RSUD C
+2,  Terapis Wicara Penyelia,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Terapis Wicara Mahir,7.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Terapis Wicara Terampil,6.0,Kepala Bidang Pelayanan Penunjang,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,1,-1,RSUD Tugu Koja,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,RSUD Tugu Koja,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,9,11,-2,RSUD Tugu Koja,RSUD C
+3,    Operator Layanan Kesehatan,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG MEDIK,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,1,5,-4,RSUD Tugu Koja,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,0,0,1,1,0,RSUD Tugu Koja,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+3,    Operator Layanan Kesehatan,5.0,KOORDINATOR SATUAN INSTALASI PENUNJANG NON MEDIK,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,1,4,-3,RSUD Tugu Koja,RSUD C
+2,  KOORDINATOR SATUAN INSTALASI FARMASI,8.0,Kepala Bidang Pelayanan Penunjang,Jabatan Pelaksana Satuan,0,0,0,0,1,-1,RSUD Tugu Koja,RSUD C
+3,    Pengelola Layanan Kesehatan,6.0,KOORDINATOR SATUAN INSTALASI FARMASI,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C
+2,  Pengadministrasi Perkantoran,5.0,KOORDINATOR SATUAN INSTALASI FARMASI,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,1,1,0,RSUD Tugu Koja,RSUD C
+3,    Operator Layanan Kesehatan,3.0,KOORDINATOR SATUAN INSTALASI FARMASI,Jabatan Pelaksana Operasional Tingkat Terampil,0,0,0,0,0,0,RSUD Tugu Koja,RSUD C

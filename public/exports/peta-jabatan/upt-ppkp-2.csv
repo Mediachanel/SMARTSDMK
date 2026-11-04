@@ -1,0 +1,78 @@
+MATRIKS JABATAN UKPD PPKP
+No.,Nomenklatur ORB/Pergub,Kelas ORB,Nomenklatur Kepmenpan,Kelas Kepmenpan,Atasan Langsung,Rumpun Jabatan,UPT PPKP - B ASN,UPT PPKP - K ASN,UPT PPKP - S ASN,UPT PPKP - B NON-ASN,UPT PPKP - K NON-ASN,UPT PPKP - S NON-ASN,TOTAL - B ASN,TOTAL - K ASN,TOTAL - S ASN,TOTAL - B NON-ASN,TOTAL - K NON-ASN,TOTAL - S NON-ASN
+1,KEPALA UPT PPKP,12,KEPALA UPT PPKP,12,Kepala Dinas Kesehatan,Jabatan Administrator,1,1,0,0,0,0,1,1,0,0,0,0
+2,Administrator Kesehatan Ahli Madya,9,Administrator Kesehatan Ahli Madya,10,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+3,Administrator Kesehatan Ahli Muda,8,Administrator Kesehatan Ahli Muda,9,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+4,Administrator Kesehatan Ahli Pertama,7,Administrator Kesehatan Ahli Pertama,7,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+5,Apoteker Ahli Muda,8,Apoteker Ahli Muda,9,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+6,Apoteker Ahli Pertama,7,Apoteker Ahli Pertama,8,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,1,1,0,10,11,-1,1,1,0,10,11,-1
+7,Asisten Apoteker Penyelia,7,Asisten Apoteker Penyelia,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+8,Asisten Apoteker Mahir,7,Asisten Apoteker Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+9,Asisten Apoteker Terampil,7,Asisten Apoteker Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+10,Bidan Ahli Muda,8,Bidan Ahli Muda,9,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,1,1,0,0,0,0,1,1,0,0,0,0
+11,Bidan Ahli Pertama,7,Bidan Ahli Pertama,8,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,1,-1,0,0,0,0,1,-1
+12,Bidan Penyelia,7,Bidan Penyelia,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,2,2,0,0,0,0,2,2,0,0,0,0
+13,Bidan Mahir,7,Bidan Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+14,Bidan Terampil,7,Bidan Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,2,2,0,0,1,-1,2,2,0
+15,Dokter Ahli Utama,10,Dokter Ahli Utama,14,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+16,Dokter Ahli Madya,9,Dokter Ahli Madya,12,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,5,3,2,0,0,0,5,3,2,0,0,0
+17,Dokter Ahli Muda,8,Dokter Ahli Muda,10,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,2,6,-4,0,0,0,2,6,-4,0,0,0
+18,Dokter Ahli Pertama,7,Dokter Ahli Pertama,8,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,9,11,-2,0,2,-2,9,11,-2
+19,Dokter Gigi Ahli Utama,10,Dokter Gigi Ahli Utama,14,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,2,0,2,0,0,0,2,0,2,0,0,0
+20,Dokter Gigi Ahli Madya,9,Dokter Gigi Ahli Madya,12,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,5,4,1,0,0,0,5,4,1,0,0,0
+21,Dokter Gigi Ahli Muda,8,Dokter Gigi Ahli Muda,10,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,2,-2,0,2,-2,0,2,-2,0,2,-2
+22,Dokter Gigi Ahli Pertama,7,Dokter Gigi Ahli Pertama,9,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,1,2,-1,8,6,2,1,2,-1,8,6,2
+23,Fisioterapis Ahli Muda,8,Fisioterapis Ahli Muda,9,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+24,Fisioterapis Ahli Pertama,7,Fisioterapis Ahli Pertama,8,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,1,-1,0,0,0,0,1,-1
+25,Fisioterapis Penyelia,7,Fisioterapis Penyelia,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,2,1,1,0,0,0,2,1,1,0,0,0
+26,Fisioterapis Mahir,7,Fisioterapis Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+27,Fisioterapis Terampil,7,Fisioterapis Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,3,-2,0,0,0,1,3,-2
+28,Nutrisionis Ahli Madya,9,Nutrisionis Ahli Madya,11,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+29,Nutrisionis Ahli Muda,8,Nutrisionis Ahli Muda,9,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+30,Nutrisionis Ahli Pertama,7,Nutrisionis Ahli Pertama,8,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+31,Nutrisionis Penyelia,7,Nutrisionis Penyelia,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+32,Nutrisionis Mahir,7,Nutrisionis Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+33,Nutrisionis Terampil,7,Nutrisionis Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+34,Perawat Ahli Muda,8,Perawat Ahli Muda,9,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,2,2,0,0,0,0,2,2,0,0,0,0
+35,Perawat Ahli Pertama,7,Perawat Ahli Pertama,8,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,2,3,-1,1,1,0,2,3,-1,1,1,0
+36,Perawat Penyelia,7,Perawat Penyelia,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,6,7,-1,0,0,0,6,7,-1,0,0,0
+37,Perawat Mahir,7,Perawat Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,2,-2,0,0,0,0,2,-2,0,0,0
+38,Perawat Terampil,7,Perawat Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,1,2,-1,7,7,0,1,2,-1,7,7,0
+39,Perekam Medis Penyelia,7,Perekam Medis Penyelia,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+40,Perekam Medis Mahir,7,Perekam Medis Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+41,Perekam Medis Terampil,7,Perekam Medis Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,2,2,0,0,0,0,2,2,0
+42,Pranata Laboratorium Kesehatan Ahli Muda,8,Pranata Laboratorium Kesehatan Ahli Muda,9,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+43,Pranata Laboratorium Kesehatan Ahli Pertama,7,Pranata Laboratorium Kesehatan Ahli Pertama,8,KEPALA UPT PPKP,Jabatan Fungsional Keahlian Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+44,Pranata Laboratorium Kesehatan Penyelia,7,Pranata Laboratorium Kesehatan Penyelia,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+45,Pranata Laboratorium Kesehatan Mahir,7,Pranata Laboratorium Kesehatan Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,1,-1,0,0,0,0,1,-1,0,0,0
+46,Pranata Laboratorium Kesehatan Terampil,7,Pranata Laboratorium Kesehatan Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,1,1,0,2,2,0,1,1,0,2,2,0
+47,Radiografer Penyelia,7,Radiografer Penyelia,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+48,Radiografer Mahir,7,Radiografer Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+49,Radiografer Terampil,7,Radiografer Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,2,2,0,0,0,0,2,2,0
+50,Teknisi Elektromedis Penyelia,7,Teknisi Elektromedis Penyelia,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+51,Teknisi Elektromedis Mahir,7,Teknisi Elektromedis Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+52,Teknisi Elektromedis Terampil,7,Teknisi Elektromedis Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,0,0,0,1,1,0
+53,Terapis Gigi dan Mulut Penyelia,7,Terapis Gigi dan Mulut Penyelia,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,2,3,-1,0,0,0,2,3,-1,0,0,0
+54,Terapis Gigi dan Mulut Mahir,7,Terapis Gigi dan Mulut Mahir,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+55,Terapis Gigi dan Mulut Terampil,7,Terapis Gigi dan Mulut Terampil,6,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,5,5,0,0,0,0,5,5,0
+56,Refraksionis Optisien Penyelia,7,Refraksionis Optisien Penyelia,8,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+57,Refraksionis Optisien Mahir,7,Refraksionis Optisien Mahir,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,0,0,0,0,0,0,0,0,0
+58,Refraksionis Optisien Terampil,7,Refraksionis Optisien Terampil,7,KEPALA UPT PPKP,Jabatan Fungsional Keterampilan Kesehatan,0,0,0,1,1,0,0,0,0,1,1,0
+59,KEPALA SUBBAGIAN TATA USAHA,9,KEPALA SUBBAGIAN TATA USAHA,9,KEPALA UPT PPKP,Jabatan Pengawas,1,1,0,0,0,0,1,1,0,0,0,0
+60,Arsiparis Terampil,7,Arsiparis Terampil,6,KEPALA SUBBAGIAN TATA USAHA,Jabatan Fungsional Keterampilan Non Kesehatan,1,1,0,0,0,0,1,1,0,0,0,0
+61,Bendahara Pembantu,7,Penata Kelola Layanan Kesehatan,7,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,0,0,0,1,1,0,0,0,0
+62,Pengurus Barang dan Bendahara,7,Penelaah Teknis Kebijakan,7,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Teknis Tingkat Ahli,2,3,-1,0,0,0,2,3,-1,0,0,0
+63,Penata Kelola Sistem dan Teknologi Informasi (khusus CPNS),7,Penata Kelola Sistem dan Teknologi Informasi,7,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Teknis Tingkat Ahli,1,1,0,0,0,0,1,1,0,0,0,0
+64,"Verifikator Keuangan, Pengolah Data dan Pengolah Pengarsipan",7,Pengolah Data dan Informasi,6,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Teknis Tingkat Terampil,2,3,-1,4,4,0,2,3,-1,4,4,0
+65,Pengadministrasi Umum,6,Pengadministrasi Perkantoran,5,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,2,3,-1,0,0,0,2,3,-1
+66,Pengemudi Ambulan,4,Operator Layanan Operasional,5,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Pelayanan Tingkat Ahli,1,0,1,0,0,0,1,0,1,0,0,0
+67,Penyiap Berkas,4,Operator Layanan Operasional,5,KEPALA SUBBAGIAN TATA USAHA,Jabatan Pelaksana Pelayanan Tingkat Ahli,1,0,1,0,2,-2,1,0,1,0,2,-2
+68,KOORDIANTOR Satuan Pelaksana Pelayanan Medik Upaya Kesehatan Perseorangan,8,Koordinator Satuan Pelaksana Pelayanan Medik Upaya Kesehatan Perseorangan,8,KEPALA UPT PPKP,Jabatan Pelaksana Satuan,1,1,0,0,2,-2,1,1,0,0,2,-2
+69,Pengolah Data,7,Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Pelayanan Medik Upaya Kesehatan Perseorangan,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,0,2,-2,0,0,0,0,2,-2
+70,Pengadministrasi Umum,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Pelayanan Medik Upaya Kesehatan Perseorangan,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,2,2,0,0,0,0,2,2,0
+71,KOORDIANTOR Satuan Pelaksana Program Upaya Kesehatan Masyarakat,8,Koordinator Satuan Pelaksana Program Upaya Kesehatan Masyarakat,8,KEPALA UPT PPKP,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,0,1,-1,0,0,0
+72,Pengolah Data,7,Pengolah Data dan Informasi,6,Koordinator Satuan Pelaksana Program Upaya Kesehatan Masyarakat,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,2,2,0,0,0,0,2,2,0
+73,Pengadministrasi Umum,6,Pengadministrasi Perkantoran,5,Koordinator Satuan Pelaksana Program Upaya Kesehatan Masyarakat,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,2,2,0,0,0,0,2,2,0
+74,KETUA SATUAN PELAKSANA PELAYANAN KESEHATAN DAERAH,8,KETUA SATUAN PELAKSANA PELAYANAN KESEHATAN DAERAH,8,KEPALA UPT PPKP,Jabatan Pelaksana Satuan,0,1,-1,0,0,0,0,1,-1,0,0,0
+75,Pengolah Data,7,Pengolah Data dan Informasi,6,KETUA SATUAN PELAKSANA PELAYANAN KESEHATAN DAERAH,Jabatan Pelaksana Teknis Tingkat Terampil,0,0,0,2,2,0,0,0,0,2,2,0
+76,Pengadministrasi Umum,6,Pengadministrasi Perkantoran,5,KETUA SATUAN PELAKSANA PELAYANAN KESEHATAN DAERAH,Jabatan Pelaksana Administrasi Tingkat Terampil,0,0,0,2,2,0,0,0,0,2,2,0

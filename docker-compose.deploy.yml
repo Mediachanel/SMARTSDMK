@@ -1,0 +1,12 @@
+services:
+  app-nextjs:
+    environment:
+      ALLOW_INSECURE_LOCAL_HTTP: false
+      PROMOTION_STORAGE_ROOT: /usb-uploads/kenaikan-pangkat
+      PROMOTION_SCAN_COMMAND: /bin/true
+    volumes:
+      - "./templates/putus-jf-template.docx:/app/templates/putus-jf-template.docx:ro"
+      - "/DATA/SMART_HRM_UPLOADS/kenaikan-pangkat:/usb-uploads/kenaikan-pangkat"
+    tmpfs:
+      - /tmp
+      - /app/.next/cache:uid=1000,gid=1000,mode=1770
